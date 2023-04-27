@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1568",
+            "title": "Minimum Number of Days to Disconnect Island",
+            "slug": "minimum-number-of-days-to-disconnect-island",
+            "acceptance": "46.31%",
+            "difficulty": "Hard"
+        }
+    ]
+}

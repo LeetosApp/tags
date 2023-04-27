@@ -1,0 +1,144 @@
+{
+    "questions": [
+        {
+            "id": "393",
+            "title": "UTF-8 Validation",
+            "slug": "utf-8-validation",
+            "acceptance": "37.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "539",
+            "title": "Minimum Time Difference",
+            "slug": "minimum-time-difference",
+            "acceptance": "51.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "273",
+            "title": "Integer to English Words",
+            "slug": "integer-to-english-words",
+            "acceptance": "27.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "277",
+            "title": "Find the Celebrity",
+            "slug": "find-the-celebrity",
+            "acceptance": "41.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "733",
+            "title": "Flood Fill",
+            "slug": "flood-fill",
+            "acceptance": "55.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "220",
+            "title": "Contains Duplicate III",
+            "slug": "contains-duplicate-iii",
+            "acceptance": "20.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "285",
+            "title": "Inorder Successor in BST",
+            "slug": "inorder-successor-in-bst",
+            "acceptance": "40.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "42",
+            "title": "Trapping Rain Water",
+            "slug": "trapping-rain-water",
+            "acceptance": "48.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "10",
+            "title": "Regular Expression Matching",
+            "slug": "regular-expression-matching",
+            "acceptance": "26.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "219",
+            "title": "Contains Duplicate II",
+            "slug": "contains-duplicate-ii",
+            "acceptance": "37.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "695",
+            "title": "Max Area of Island",
+            "slug": "max-area-of-island",
+            "acceptance": "62.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "48",
+            "title": "Rotate Image",
+            "slug": "rotate-image",
+            "acceptance": "56.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "217",
+            "title": "Contains Duplicate",
+            "slug": "contains-duplicate",
+            "acceptance": "56.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "136",
+            "title": "Single Number",
+            "slug": "single-number",
+            "acceptance": "65.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "303",
+            "title": "Range Sum Query - Immutable",
+            "slug": "range-sum-query-immutable",
+            "acceptance": "44.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "325",
+            "title": "Maximum Size Subarray Sum Equals k",
+            "slug": "maximum-size-subarray-sum-equals-k",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

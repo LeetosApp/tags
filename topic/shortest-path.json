@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "id": "499",
+            "title": "The Maze III",
+            "slug": "the-maze-iii",
+            "acceptance": "47.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "505",
+            "title": "The Maze II",
+            "slug": "the-maze-ii",
+            "acceptance": "52.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "743",
+            "title": "Network Delay Time",
+            "slug": "network-delay-time",
+            "acceptance": "51.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "787",
+            "title": "Cheapest Flights Within K Stops",
+            "slug": "cheapest-flights-within-k-stops",
+            "acceptance": "37.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "882",
+            "title": "Reachable Nodes In Subdivided Graph",
+            "slug": "reachable-nodes-in-subdivided-graph",
+            "acceptance": "50.04%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1334",
+            "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+            "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+            "acceptance": "54.88%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1368",
+            "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+            "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+            "acceptance": "61.62%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1514",
+            "title": "Path with Maximum Probability",
+            "slug": "path-with-maximum-probability",
+            "acceptance": "48.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1786",
+            "title": "Number of Restricted Paths From First to Last Node",
+            "slug": "number-of-restricted-paths-from-first-to-last-node",
+            "acceptance": "39.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1976",
+            "title": "Number of Ways to Arrive at Destination",
+            "slug": "number-of-ways-to-arrive-at-destination",
+            "acceptance": "30.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2045",
+            "title": "Second Minimum Time to Reach Destination",
+            "slug": "second-minimum-time-to-reach-destination",
+            "acceptance": "39.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2093",
+            "title": "Minimum Cost to Reach City With Discounts",
+            "slug": "minimum-cost-to-reach-city-with-discounts",
+            "acceptance": "56.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2203",
+            "title": "Minimum Weighted Subgraph With the Required Paths",
+            "slug": "minimum-weighted-subgraph-with-the-required-paths",
+            "acceptance": "36.01%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2290",
+            "title": "Minimum Obstacle Removal to Reach Corner",
+            "slug": "minimum-obstacle-removal-to-reach-corner",
+            "acceptance": "49.71%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2297",
+            "title": "Jump Game VIII",
+            "slug": "jump-game-viii",
+            "acceptance": "55.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2473",
+            "title": "Minimum Cost to Buy Apples",
+            "slug": "minimum-cost-to-buy-apples",
+            "acceptance": "62.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2577",
+            "title": "Minimum Time to Visit a Cell In a Grid",
+            "slug": "minimum-time-to-visit-a-cell-in-a-grid",
+            "acceptance": "34.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2642",
+            "title": "Design Graph With Shortest Path Calculator",
+            "slug": "design-graph-with-shortest-path-calculator",
+            "acceptance": "56.32%",
+            "difficulty": "Hard"
+        }
+    ]
+}

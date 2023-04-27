@@ -1,0 +1,95 @@
+{
+    "questions": [
+        {
+            "id": "1189",
+            "title": "Maximum Number of Balloons",
+            "slug": "maximum-number-of-balloons",
+            "acceptance": "61.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1239",
+            "title": "Maximum Length of a Concatenated String with Unique Characters",
+            "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+            "acceptance": "47.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "724",
+            "title": "Find Pivot Index",
+            "slug": "find-pivot-index",
+            "acceptance": "44.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "728",
+            "title": "Self Dividing Numbers",
+            "slug": "self-dividing-numbers",
+            "acceptance": "74.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "127",
+            "title": "Word Ladder",
+            "slug": "word-ladder",
+            "acceptance": "29.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "767",
+            "title": "Reorganize String",
+            "slug": "reorganize-string",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "273",
+            "title": "Integer to English Words",
+            "slug": "integer-to-english-words",
+            "acceptance": "27.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "283",
+            "title": "Move Zeroes",
+            "slug": "move-zeroes",
+            "acceptance": "57.8%",
+            "difficulty": "Easy"
+        }
+    ]
+}

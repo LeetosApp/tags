@@ -1,0 +1,165 @@
+{
+    "questions": [
+        {
+            "id": "1212",
+            "title": "Team Scores in Football Tournament",
+            "slug": "team-scores-in-football-tournament",
+            "acceptance": "55.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "840",
+            "title": "Magic Squares In Grid",
+            "slug": "magic-squares-in-grid",
+            "acceptance": "37.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1194",
+            "title": "Tournament Winners",
+            "slug": "tournament-winners",
+            "acceptance": "52.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "811",
+            "title": "Subdomain Visit Count",
+            "slug": "subdomain-visit-count",
+            "acceptance": "69.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1204",
+            "title": "Last Person to Fit in the Elevator",
+            "slug": "last-person-to-fit-in-the-elevator",
+            "acceptance": "69.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1189",
+            "title": "Maximum Number of Balloons",
+            "slug": "maximum-number-of-balloons",
+            "acceptance": "61.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "759",
+            "title": "Employee Free Time",
+            "slug": "employee-free-time",
+            "acceptance": "66.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1014",
+            "title": "Best Sightseeing Pair",
+            "slug": "best-sightseeing-pair",
+            "acceptance": "52.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "443",
+            "title": "String Compression",
+            "slug": "string-compression",
+            "acceptance": "41.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "85",
+            "title": "Maximal Rectangle",
+            "slug": "maximal-rectangle",
+            "acceptance": "37.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "5",
+            "title": "Longest Palindromic Substring",
+            "slug": "longest-palindromic-substring",
+            "acceptance": "29.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "412",
+            "title": "Fizz Buzz",
+            "slug": "fizz-buzz",
+            "acceptance": "62.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "718",
+            "title": "Maximum Length of Repeated Subarray",
+            "slug": "maximum-length-of-repeated-subarray",
+            "acceptance": "49.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "125",
+            "title": "Valid Palindrome",
+            "slug": "valid-palindrome",
+            "acceptance": "36.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "184",
+            "title": "Department Highest Salary",
+            "slug": "department-highest-salary",
+            "acceptance": "36.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "69",
+            "title": "Sqrt(x)",
+            "slug": "sqrtx",
+            "acceptance": "33.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "210",
+            "title": "Course Schedule II",
+            "slug": "course-schedule-ii",
+            "acceptance": "40.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1244",
+            "title": "Design A Leaderboard",
+            "slug": "design-a-leaderboard",
+            "acceptance": "60.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1405",
+            "title": "Longest Happy String",
+            "slug": "longest-happy-string",
+            "acceptance": "49.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1193",
+            "title": "Monthly Transactions I",
+            "slug": "monthly-transactions-i",
+            "acceptance": "68.3%",
+            "difficulty": "Medium"
+        }
+    ]
+}

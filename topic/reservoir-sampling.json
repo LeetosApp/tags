@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": "398",
+            "title": "Random Pick Index",
+            "slug": "random-pick-index",
+            "acceptance": "62.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "497",
+            "title": "Random Point in Non-overlapping Rectangles",
+            "slug": "random-point-in-non-overlapping-rectangles",
+            "acceptance": "39.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "519",
+            "title": "Random Flip Matrix",
+            "slug": "random-flip-matrix",
+            "acceptance": "40.08%",
+            "difficulty": "Medium"
+        }
+    ]
+}

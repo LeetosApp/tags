@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "348",
+            "title": "Design Tic-Tac-Toe",
+            "slug": "design-tic-tac-toe",
+            "acceptance": "54.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "712",
+            "title": "Minimum ASCII Delete Sum for Two Strings",
+            "slug": "minimum-ascii-delete-sum-for-two-strings",
+            "acceptance": "58.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "230",
+            "title": "Kth Smallest Element in a BST",
+            "slug": "kth-smallest-element-in-a-bst",
+            "acceptance": "60.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        }
+    ]
+}

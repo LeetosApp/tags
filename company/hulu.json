@@ -1,0 +1,123 @@
+{
+    "questions": [
+        {
+            "id": "909",
+            "title": "Snakes and Ladders",
+            "slug": "snakes-and-ladders",
+            "acceptance": "38.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "326",
+            "title": "Power of Three",
+            "slug": "power-of-three",
+            "acceptance": "42.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "54",
+            "title": "Spiral Matrix",
+            "slug": "spiral-matrix",
+            "acceptance": "34.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "907",
+            "title": "Sum of Subarray Minimums",
+            "slug": "sum-of-subarray-minimums",
+            "acceptance": "32.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "394",
+            "title": "Decode String",
+            "slug": "decode-string",
+            "acceptance": "50.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "863",
+            "title": "All Nodes Distance K in Binary Tree",
+            "slug": "all-nodes-distance-k-in-binary-tree",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "371",
+            "title": "Sum of Two Integers",
+            "slug": "sum-of-two-integers",
+            "acceptance": "50.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "40.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "230",
+            "title": "Kth Smallest Element in a BST",
+            "slug": "kth-smallest-element-in-a-bst",
+            "acceptance": "60.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "61.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "26",
+            "title": "Remove Duplicates from Sorted Array",
+            "slug": "remove-duplicates-from-sorted-array",
+            "acceptance": "45.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "440",
+            "title": "K-th Smallest in Lexicographical Order",
+            "slug": "k-th-smallest-in-lexicographical-order",
+            "acceptance": "29.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "772",
+            "title": "Basic Calculator III",
+            "slug": "basic-calculator-iii",
+            "acceptance": "41.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "814",
+            "title": "Binary Tree Pruning",
+            "slug": "binary-tree-pruning",
+            "acceptance": "74.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1063",
+            "title": "Number of Valid Subarrays",
+            "slug": "number-of-valid-subarrays",
+            "acceptance": "71.1%",
+            "difficulty": "Hard"
+        }
+    ]
+}

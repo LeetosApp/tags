@@ -1,0 +1,137 @@
+{
+    "questions": [
+        {
+            "id": "547",
+            "title": "Friend Circles",
+            "slug": "friend-circles",
+            "acceptance": "58.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1048",
+            "title": "Longest String Chain",
+            "slug": "longest-string-chain",
+            "acceptance": "54.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "918",
+            "title": "Maximum Sum Circular Subarray",
+            "slug": "maximum-sum-circular-subarray",
+            "acceptance": "33.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "123",
+            "title": "Best Time to Buy and Sell Stock III",
+            "slug": "best-time-to-buy-and-sell-stock-iii",
+            "acceptance": "37.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "44",
+            "title": "Wildcard Matching",
+            "slug": "wildcard-matching",
+            "acceptance": "24.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "342",
+            "title": "Power of Four",
+            "slug": "power-of-four",
+            "acceptance": "41.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "528",
+            "title": "Random Pick with Weight",
+            "slug": "random-pick-with-weight",
+            "acceptance": "43.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "380",
+            "title": "Insert Delete GetRandom O(1)",
+            "slug": "insert-delete-getrandom-o1",
+            "acceptance": "47.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "710",
+            "title": "Random Pick with Blacklist",
+            "slug": "random-pick-with-blacklist",
+            "acceptance": "32.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "289",
+            "title": "Game of Life",
+            "slug": "game-of-life",
+            "acceptance": "54.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1163",
+            "title": "Last Substring in Lexicographical Order",
+            "slug": "last-substring-in-lexicographical-order",
+            "acceptance": "33.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "4",
+            "title": "Median of Two Sorted Arrays",
+            "slug": "median-of-two-sorted-arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "384",
+            "title": "Shuffle an Array",
+            "slug": "shuffle-an-array",
+            "acceptance": "52.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "221",
+            "title": "Maximal Square",
+            "slug": "maximal-square",
+            "acceptance": "37.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "349",
+            "title": "Intersection of Two Arrays",
+            "slug": "intersection-of-two-arrays",
+            "acceptance": "62.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1186",
+            "title": "Maximum Subarray Sum with One Deletion",
+            "slug": "maximum-subarray-sum-with-one-deletion",
+            "acceptance": "37.5%",
+            "difficulty": "Medium"
+        }
+    ]
+}

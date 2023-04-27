@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "id": "238",
+            "title": "Product of Array Except Self",
+            "slug": "product-of-array-except-self",
+            "acceptance": "60.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "98",
+            "title": "Validate Binary Search Tree",
+            "slug": "validate-binary-search-tree",
+            "acceptance": "27.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "63.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "50",
+            "title": "Pow(x;n)",
+            "slug": "powx-n",
+            "acceptance": "30.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "questions": [
+        {
+            "id": "741",
+            "title": "Cherry Pickup",
+            "slug": "cherry-pickup",
+            "acceptance": "33.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "42",
+            "title": "Trapping Rain Water",
+            "slug": "trapping-rain-water",
+            "acceptance": "48.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "380",
+            "title": "Insert Delete GetRandom O(1)",
+            "slug": "insert-delete-getrandom-o1",
+            "acceptance": "47.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "269",
+            "title": "Alien Dictionary",
+            "slug": "alien-dictionary",
+            "acceptance": "33.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "10",
+            "title": "Regular Expression Matching",
+            "slug": "regular-expression-matching",
+            "acceptance": "26.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2",
+            "title": "Add Two Numbers",
+            "slug": "add-two-numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "84",
+            "title": "Largest Rectangle in Histogram",
+            "slug": "largest-rectangle-in-histogram",
+            "acceptance": "35.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "123",
+            "title": "Best Time to Buy and Sell Stock III",
+            "slug": "best-time-to-buy-and-sell-stock-iii",
+            "acceptance": "37.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "994",
+            "title": "Rotting Oranges",
+            "slug": "rotting-oranges",
+            "acceptance": "49.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "155",
+            "title": "Min Stack",
+            "slug": "min-stack",
+            "acceptance": "44.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "967",
+            "title": "Numbers With Same Consecutive Differences",
+            "slug": "numbers-with-same-consecutive-differences",
+            "acceptance": "39.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "982",
+            "title": "Triples with Bitwise AND Equal To Zero",
+            "slug": "triples-with-bitwise-and-equal-to-zero",
+            "acceptance": "55.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1423",
+            "title": "Maximum Points You Can Obtain from Cards",
+            "slug": "maximum-points-you-can-obtain-from-cards",
+            "acceptance": "42.6%",
+            "difficulty": "Medium"
+        }
+    ]
+}

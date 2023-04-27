@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1140",
+            "title": "Stone Game II",
+            "slug": "stone-game-ii",
+            "acceptance": "63.3%",
+            "difficulty": "Medium"
+        }
+    ]
+}

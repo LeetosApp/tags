@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "557",
+            "title": "Reverse Words in a String III",
+            "slug": "reverse-words-in-a-string-iii",
+            "acceptance": "69.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "322",
+            "title": "Coin Change",
+            "slug": "coin-change",
+            "acceptance": "35.5%",
+            "difficulty": "Medium"
+        }
+    ]
+}

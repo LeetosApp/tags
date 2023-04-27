@@ -1,0 +1,809 @@
+{
+    "questions": [
+        {
+            "id": "54",
+            "title": "Spiral Matrix",
+            "slug": "spiral-matrix",
+            "acceptance": "45.14%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "59",
+            "title": "Spiral Matrix II",
+            "slug": "spiral-matrix-ii",
+            "acceptance": "67.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "67",
+            "title": "Add Binary",
+            "slug": "add-binary",
+            "acceptance": "52.41%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "68",
+            "title": "Text Justification",
+            "slug": "text-justification",
+            "acceptance": "37.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "157",
+            "title": "Read N Characters Given Read4",
+            "slug": "read-n-characters-given-read4",
+            "acceptance": "40.99%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "158",
+            "title": "Read N Characters Given read4 II - Call Multiple Times",
+            "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+            "acceptance": "41.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "258",
+            "title": "Add Digits",
+            "slug": "add-digits",
+            "acceptance": "65.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "289",
+            "title": "Game of Life",
+            "slug": "game-of-life",
+            "acceptance": "67.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "412",
+            "title": "Fizz Buzz",
+            "slug": "fizz-buzz",
+            "acceptance": "70.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "415",
+            "title": "Add Strings",
+            "slug": "add-strings",
+            "acceptance": "52.52%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "418",
+            "title": "Sentence Screen Fitting",
+            "slug": "sentence-screen-fitting",
+            "acceptance": "35.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "495",
+            "title": "Teemo Attacking",
+            "slug": "teemo-attacking",
+            "acceptance": "56.86%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "498",
+            "title": "Diagonal Traverse",
+            "slug": "diagonal-traverse",
+            "acceptance": "58.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "537",
+            "title": "Complex Number Multiplication",
+            "slug": "complex-number-multiplication",
+            "acceptance": "71.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "544",
+            "title": "Output Contest Matches",
+            "slug": "output-contest-matches",
+            "acceptance": "76.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "566",
+            "title": "Reshape the Matrix",
+            "slug": "reshape-the-matrix",
+            "acceptance": "62.94%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "592",
+            "title": "Fraction Addition and Subtraction",
+            "slug": "fraction-addition-and-subtraction",
+            "acceptance": "52.45%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "640",
+            "title": "Solve the Equation",
+            "slug": "solve-the-equation",
+            "acceptance": "43.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "657",
+            "title": "Robot Return to Origin",
+            "slug": "robot-return-to-origin",
+            "acceptance": "75.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "682",
+            "title": "Baseball Game",
+            "slug": "baseball-game",
+            "acceptance": "74.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "723",
+            "title": "Candy Crush",
+            "slug": "candy-crush",
+            "acceptance": "76.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "749",
+            "title": "Contain Virus",
+            "slug": "contain-virus",
+            "acceptance": "50.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "755",
+            "title": "Pour Water",
+            "slug": "pour-water",
+            "acceptance": "46.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "832",
+            "title": "Flipping an Image",
+            "slug": "flipping-an-image",
+            "acceptance": "80.84%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "844",
+            "title": "Backspace String Compare",
+            "slug": "backspace-string-compare",
+            "acceptance": "48.09%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "867",
+            "title": "Transpose Matrix",
+            "slug": "transpose-matrix",
+            "acceptance": "64.42%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "874",
+            "title": "Walking Robot Simulation",
+            "slug": "walking-robot-simulation",
+            "acceptance": "39.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "885",
+            "title": "Spiral Matrix III",
+            "slug": "spiral-matrix-iii",
+            "acceptance": "73.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "946",
+            "title": "Validate Stack Sequences",
+            "slug": "validate-stack-sequences",
+            "acceptance": "69.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "950",
+            "title": "Reveal Cards In Increasing Order",
+            "slug": "reveal-cards-in-increasing-order",
+            "acceptance": "77.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "985",
+            "title": "Sum of Even Numbers After Queries",
+            "slug": "sum-of-even-numbers-after-queries",
+            "acceptance": "68.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "999",
+            "title": "Available Captures for Rook",
+            "slug": "available-captures-for-rook",
+            "acceptance": "68.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1006",
+            "title": "Clumsy Factorial",
+            "slug": "clumsy-factorial",
+            "acceptance": "55.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1041",
+            "title": "Robot Bounded In Circle",
+            "slug": "robot-bounded-in-circle",
+            "acceptance": "55.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1094",
+            "title": "Car Pooling",
+            "slug": "car-pooling",
+            "acceptance": "56.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1103",
+            "title": "Distribute Candies to People",
+            "slug": "distribute-candies-to-people",
+            "acceptance": "64.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1222",
+            "title": "Queens That Can Attack the King",
+            "slug": "queens-that-can-attack-the-king",
+            "acceptance": "71.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1243",
+            "title": "Array Transformation",
+            "slug": "array-transformation",
+            "acceptance": "51.11%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1252",
+            "title": "Cells with Odd Values in a Matrix",
+            "slug": "cells-with-odd-values-in-a-matrix",
+            "acceptance": "78.51%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1260",
+            "title": "Shift 2D Grid",
+            "slug": "shift-2d-grid",
+            "acceptance": "67.77%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1275",
+            "title": "Find Winner on a Tic Tac Toe Game",
+            "slug": "find-winner-on-a-tic-tac-toe-game",
+            "acceptance": "54.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1324",
+            "title": "Print Words Vertically",
+            "slug": "print-words-vertically",
+            "acceptance": "61.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1389",
+            "title": "Create Target Array in the Given Order",
+            "slug": "create-target-array-in-the-given-order",
+            "acceptance": "85.85%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1409",
+            "title": "Queries on a Permutation With Key",
+            "slug": "queries-on-a-permutation-with-key",
+            "acceptance": "83.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1441",
+            "title": "Build an Array With Stack Operations",
+            "slug": "build-an-array-with-stack-operations",
+            "acceptance": "71.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1503",
+            "title": "Last Moment Before All Ants Fall Out of a Plank",
+            "slug": "last-moment-before-all-ants-fall-out-of-a-plank",
+            "acceptance": "55.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1518",
+            "title": "Water Bottles",
+            "slug": "water-bottles",
+            "acceptance": "60.49%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1535",
+            "title": "Find the Winner of an Array Game",
+            "slug": "find-the-winner-of-an-array-game",
+            "acceptance": "48.61%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1560",
+            "title": "Most Visited Sector in  a Circular Track",
+            "slug": "most-visited-sector-in-a-circular-track",
+            "acceptance": "58.61%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1562",
+            "title": "Find Latest Group of Size M",
+            "slug": "find-latest-group-of-size-m",
+            "acceptance": "42.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1583",
+            "title": "Count Unhappy Friends",
+            "slug": "count-unhappy-friends",
+            "acceptance": "61.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1599",
+            "title": "Maximum Profit of Operating a Centennial Wheel",
+            "slug": "maximum-profit-of-operating-a-centennial-wheel",
+            "acceptance": "43.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1603",
+            "title": "Design Parking System",
+            "slug": "design-parking-system",
+            "acceptance": "87.89%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1646",
+            "title": "Get Maximum in Generated Array",
+            "slug": "get-maximum-in-generated-array",
+            "acceptance": "50.18%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1680",
+            "title": "Concatenation of Consecutive Binary Numbers",
+            "slug": "concatenation-of-consecutive-binary-numbers",
+            "acceptance": "57.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1688",
+            "title": "Count of Matches in Tournament",
+            "slug": "count-of-matches-in-tournament",
+            "acceptance": "83.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1700",
+            "title": "Number of Students Unable to Eat Lunch",
+            "slug": "number-of-students-unable-to-eat-lunch",
+            "acceptance": "68.95%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1701",
+            "title": "Average Waiting Time",
+            "slug": "average-waiting-time",
+            "acceptance": "62.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1706",
+            "title": "Where Will the Ball Fall",
+            "slug": "where-will-the-ball-fall",
+            "acceptance": "71.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1801",
+            "title": "Number of Orders in the Backlog",
+            "slug": "number-of-orders-in-the-backlog",
+            "acceptance": "48.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1806",
+            "title": "Minimum Number of Operations to Reinitialize a Permutation",
+            "slug": "minimum-number-of-operations-to-reinitialize-a-permutation",
+            "acceptance": "72.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1823",
+            "title": "Find the Winner of the Circular Game",
+            "slug": "find-the-winner-of-the-circular-game",
+            "acceptance": "78.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1860",
+            "title": "Incremental Memory Leak",
+            "slug": "incremental-memory-leak",
+            "acceptance": "71.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1894",
+            "title": "Find the Student that Will Replace the Chalk",
+            "slug": "find-the-student-that-will-replace-the-chalk",
+            "acceptance": "44.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1914",
+            "title": "Cyclically Rotating a Grid",
+            "slug": "cyclically-rotating-a-grid",
+            "acceptance": "48.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1920",
+            "title": "Build Array from Permutation",
+            "slug": "build-array-from-permutation",
+            "acceptance": "89.98%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1945",
+            "title": "Sum of Digits of String After Convert",
+            "slug": "sum-of-digits-of-string-after-convert",
+            "acceptance": "61.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2011",
+            "title": "Final Value of Variable After Performing Operations",
+            "slug": "final-value-of-variable-after-performing-operations",
+            "acceptance": "88.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2022",
+            "title": "Convert 1D Array Into 2D Array",
+            "slug": "convert-1d-array-into-2d-array",
+            "acceptance": "59.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2028",
+            "title": "Find Missing Observations",
+            "slug": "find-missing-observations",
+            "acceptance": "44.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2043",
+            "title": "Simple Bank System",
+            "slug": "simple-bank-system",
+            "acceptance": "65.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2056",
+            "title": "Number of Valid Move Combinations On Chessboard",
+            "slug": "number-of-valid-move-combinations-on-chessboard",
+            "acceptance": "54.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2061",
+            "title": "Number of Spaces Cleaning Robot Cleaned",
+            "slug": "number-of-spaces-cleaning-robot-cleaned",
+            "acceptance": "54.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2069",
+            "title": "Walking Robot Simulation II",
+            "slug": "walking-robot-simulation-ii",
+            "acceptance": "23.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2073",
+            "title": "Time Needed to Buy Tickets",
+            "slug": "time-needed-to-buy-tickets",
+            "acceptance": "62.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2075",
+            "title": "Decode the Slanted Ciphertext",
+            "slug": "decode-the-slanted-ciphertext",
+            "acceptance": "49.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2105",
+            "title": "Watering Plants II",
+            "slug": "watering-plants-ii",
+            "acceptance": "49.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2109",
+            "title": "Adding Spaces to a String",
+            "slug": "adding-spaces-to-a-string",
+            "acceptance": "56.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2120",
+            "title": "Execution of All Suffix Instructions Staying in a Grid",
+            "slug": "execution-of-all-suffix-instructions-staying-in-a-grid",
+            "acceptance": "82.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2138",
+            "title": "Divide a String Into Groups of Size k",
+            "slug": "divide-a-string-into-groups-of-size-k",
+            "acceptance": "65.48%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2149",
+            "title": "Rearrange Array Elements by Sign",
+            "slug": "rearrange-array-elements-by-sign",
+            "acceptance": "81.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2154",
+            "title": "Keep Multiplying Found Values by Two",
+            "slug": "keep-multiplying-found-values-by-two",
+            "acceptance": "72.45%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2161",
+            "title": "Partition Array According to Given Pivot",
+            "slug": "partition-array-according-to-given-pivot",
+            "acceptance": "84.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2169",
+            "title": "Count Operations to Obtain Zero",
+            "slug": "count-operations-to-obtain-zero",
+            "acceptance": "75.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2177",
+            "title": "Find Three Consecutive Integers That Sum to a Given Number",
+            "slug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+            "acceptance": "63.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2180",
+            "title": "Count Integers With Even Digit Sum",
+            "slug": "count-integers-with-even-digit-sum",
+            "acceptance": "65.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2181",
+            "title": "Merge Nodes in Between Zeros",
+            "slug": "merge-nodes-in-between-zeros",
+            "acceptance": "86.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2201",
+            "title": "Count Artifacts That Can Be Extracted",
+            "slug": "count-artifacts-that-can-be-extracted",
+            "acceptance": "55.38%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2221",
+            "title": "Find Triangular Sum of an Array",
+            "slug": "find-triangular-sum-of-an-array",
+            "acceptance": "78.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2243",
+            "title": "Calculate Digit Sum of a String",
+            "slug": "calculate-digit-sum-of-a-string",
+            "acceptance": "66.37%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2257",
+            "title": "Count Unguarded Cells in the Grid",
+            "slug": "count-unguarded-cells-in-the-grid",
+            "acceptance": "52.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2293",
+            "title": "Min Max Game",
+            "slug": "min-max-game",
+            "acceptance": "63.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2295",
+            "title": "Replace Elements in an Array",
+            "slug": "replace-elements-in-an-array",
+            "acceptance": "57.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2296",
+            "title": "Design a Text Editor",
+            "slug": "design-a-text-editor",
+            "acceptance": "40.93%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2303",
+            "title": "Calculate Amount Paid in Taxes",
+            "slug": "calculate-amount-paid-in-taxes",
+            "acceptance": "64.02%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2326",
+            "title": "Spiral Matrix IV",
+            "slug": "spiral-matrix-iv",
+            "acceptance": "74.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2327",
+            "title": "Number of People Aware of a Secret",
+            "slug": "number-of-people-aware-of-a-secret",
+            "acceptance": "44.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2352",
+            "title": "Equal Row and Column Pairs",
+            "slug": "equal-row-and-column-pairs",
+            "acceptance": "70.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2357",
+            "title": "Make Array Zero by Subtracting Equal Amounts",
+            "slug": "make-array-zero-by-subtracting-equal-amounts",
+            "acceptance": "72.44%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2365",
+            "title": "Task Scheduler II",
+            "slug": "task-scheduler-ii",
+            "acceptance": "46.81%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2380",
+            "title": "Time Needed to Rearrange a Binary String",
+            "slug": "time-needed-to-rearrange-a-binary-string",
+            "acceptance": "49.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2390",
+            "title": "Removing Stars From a String",
+            "slug": "removing-stars-from-a-string",
+            "acceptance": "72.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2460",
+            "title": "Apply Operations to an Array",
+            "slug": "apply-operations-to-an-array",
+            "acceptance": "67.03%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2462",
+            "title": "Total Cost to Hire K Workers",
+            "slug": "total-cost-to-hire-k-workers",
+            "acceptance": "37.34%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2482",
+            "title": "Difference Between Ones and Zeros in Row and Column",
+            "slug": "difference-between-ones-and-zeros-in-row-and-column",
+            "acceptance": "79.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2502",
+            "title": "Design Memory Allocator",
+            "slug": "design-memory-allocator",
+            "acceptance": "52.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2532",
+            "title": "Time to Cross a Bridge",
+            "slug": "time-to-cross-a-bridge",
+            "acceptance": "52.06%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2534",
+            "title": "Time Taken to Cross the Door",
+            "slug": "time-taken-to-cross-the-door",
+            "acceptance": "67.69%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2549",
+            "title": "Count Distinct Numbers on Board",
+            "slug": "count-distinct-numbers-on-board",
+            "acceptance": "59.94%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2553",
+            "title": "Separate the Digits in an Array",
+            "slug": "separate-the-digits-in-an-array",
+            "acceptance": "79.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2558",
+            "title": "Take Gifts From the Richest Pile",
+            "slug": "take-gifts-from-the-richest-pile",
+            "acceptance": "66.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2562",
+            "title": "Find the Array Concatenation Value",
+            "slug": "find-the-array-concatenation-value",
+            "acceptance": "69.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2582",
+            "title": "Pass the Pillow",
+            "slug": "pass-the-pillow",
+            "acceptance": "46.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2593",
+            "title": "Find Score of an Array After Marking All Elements",
+            "slug": "find-score-of-an-array-after-marking-all-elements",
+            "acceptance": "53.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2596",
+            "title": "Check Knight Tour Configuration",
+            "slug": "check-knight-tour-configuration",
+            "acceptance": "58.99%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "696",
+            "title": "Count Binary Substrings",
+            "slug": "count-binary-substrings",
+            "acceptance": "56.0%",
+            "difficulty": "Easy"
+        }
+    ]
+}

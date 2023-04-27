@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "874",
+            "title": "Walking Robot Simulation",
+            "slug": "walking-robot-simulation",
+            "acceptance": "35.2%",
+            "difficulty": "Easy"
+        }
+    ]
+}

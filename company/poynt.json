@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "655",
+            "title": "Print Binary Tree",
+            "slug": "print-binary-tree",
+            "acceptance": "55.0%",
+            "difficulty": "Medium"
+        }
+    ]
+}

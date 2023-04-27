@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "934",
+            "title": "Shortest Bridge",
+            "slug": "shortest-bridge",
+            "acceptance": "48.2%",
+            "difficulty": "Medium"
+        }
+    ]
+}

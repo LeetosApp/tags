@@ -1,0 +1,39 @@
+{
+    "questions": [
+        {
+            "id": "1062",
+            "title": "Longest Repeating Substring",
+            "slug": "longest-repeating-substring",
+            "acceptance": "59.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1698",
+            "title": "Number of Distinct Substrings in a String",
+            "slug": "number-of-distinct-substrings-in-a-string",
+            "acceptance": "63.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1923",
+            "title": "Longest Common Subpath",
+            "slug": "longest-common-subpath",
+            "acceptance": "27.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1977",
+            "title": "Number of Ways to Separate Numbers",
+            "slug": "number-of-ways-to-separate-numbers",
+            "acceptance": "20.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2223",
+            "title": "Sum of Scores of Built Strings",
+            "slug": "sum-of-scores-of-built-strings",
+            "acceptance": "37.44%",
+            "difficulty": "Hard"
+        }
+    ]
+}

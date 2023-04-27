@@ -1,0 +1,592 @@
+{
+    "questions": [
+        {
+            "id": "30",
+            "title": "Substring with Concatenation of All Words",
+            "slug": "substring-with-concatenation-of-all-words",
+            "acceptance": "31.26%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "76",
+            "title": "Minimum Window Substring",
+            "slug": "minimum-window-substring",
+            "acceptance": "40.93%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "159",
+            "title": "Longest Substring with At Most Two Distinct Characters",
+            "slug": "longest-substring-with-at-most-two-distinct-characters",
+            "acceptance": "53.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "187",
+            "title": "Repeated DNA Sequences",
+            "slug": "repeated-dna-sequences",
+            "acceptance": "47.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "209",
+            "title": "Minimum Size Subarray Sum",
+            "slug": "minimum-size-subarray-sum",
+            "acceptance": "45.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "219",
+            "title": "Contains Duplicate II",
+            "slug": "contains-duplicate-ii",
+            "acceptance": "42.59%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "220",
+            "title": "Contains Duplicate III",
+            "slug": "contains-duplicate-iii",
+            "acceptance": "22.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "239",
+            "title": "Sliding Window Maximum",
+            "slug": "sliding-window-maximum",
+            "acceptance": "46.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "340",
+            "title": "Longest Substring with At Most K Distinct Characters",
+            "slug": "longest-substring-with-at-most-k-distinct-characters",
+            "acceptance": "48.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "395",
+            "title": "Longest Substring with At Least K Repeating Characters",
+            "slug": "longest-substring-with-at-least-k-repeating-characters",
+            "acceptance": "44.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "424",
+            "title": "Longest Repeating Character Replacement",
+            "slug": "longest-repeating-character-replacement",
+            "acceptance": "52.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "438",
+            "title": "Find All Anagrams in a String",
+            "slug": "find-all-anagrams-in-a-string",
+            "acceptance": "50.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "480",
+            "title": "Sliding Window Median",
+            "slug": "sliding-window-median",
+            "acceptance": "40.98%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "487",
+            "title": "Max Consecutive Ones II",
+            "slug": "max-consecutive-ones-ii",
+            "acceptance": "49.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "567",
+            "title": "Permutation in String",
+            "slug": "permutation-in-string",
+            "acceptance": "44.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "632",
+            "title": "Smallest Range Covering Elements from K Lists",
+            "slug": "smallest-range-covering-elements-from-k-lists",
+            "acceptance": "61.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "643",
+            "title": "Maximum Average Subarray I",
+            "slug": "maximum-average-subarray-i",
+            "acceptance": "43.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "658",
+            "title": "Find K Closest Elements",
+            "slug": "find-k-closest-elements",
+            "acceptance": "46.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "683",
+            "title": "K Empty Slots",
+            "slug": "k-empty-slots",
+            "acceptance": "36.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "713",
+            "title": "Subarray Product Less Than K",
+            "slug": "subarray-product-less-than-k",
+            "acceptance": "45.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "718",
+            "title": "Maximum Length of Repeated Subarray",
+            "slug": "maximum-length-of-repeated-subarray",
+            "acceptance": "51.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "727",
+            "title": "Minimum Window Subsequence",
+            "slug": "minimum-window-subsequence",
+            "acceptance": "43.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "837",
+            "title": "New 21 Game",
+            "slug": "new-21-game",
+            "acceptance": "36.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "862",
+            "title": "Shortest Subarray with Sum at Least K",
+            "slug": "shortest-subarray-with-sum-at-least-k",
+            "acceptance": "26.01%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "904",
+            "title": "Fruit Into Baskets",
+            "slug": "fruit-into-baskets",
+            "acceptance": "43.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "930",
+            "title": "Binary Subarrays With Sum",
+            "slug": "binary-subarrays-with-sum",
+            "acceptance": "52.34%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "978",
+            "title": "Longest Turbulent Subarray",
+            "slug": "longest-turbulent-subarray",
+            "acceptance": "47.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "992",
+            "title": "Subarrays with K Different Integers",
+            "slug": "subarrays-with-k-different-integers",
+            "acceptance": "54.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "995",
+            "title": "Minimum Number of K Consecutive Bit Flips",
+            "slug": "minimum-number-of-k-consecutive-bit-flips",
+            "acceptance": "51.09%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1004",
+            "title": "Max Consecutive Ones III",
+            "slug": "max-consecutive-ones-iii",
+            "acceptance": "63.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1031",
+            "title": "Maximum Sum of Two Non-Overlapping Subarrays",
+            "slug": "maximum-sum-of-two-non-overlapping-subarrays",
+            "acceptance": "59.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1044",
+            "title": "Longest Duplicate Substring",
+            "slug": "longest-duplicate-substring",
+            "acceptance": "30.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1052",
+            "title": "Grumpy Bookstore Owner",
+            "slug": "grumpy-bookstore-owner",
+            "acceptance": "57.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1100",
+            "title": "Find K-Length Substrings With No Repeated Characters",
+            "slug": "find-k-length-substrings-with-no-repeated-characters",
+            "acceptance": "74.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1151",
+            "title": "Minimum Swaps to Group All 1's Together",
+            "slug": "minimum-swaps-to-group-all-1s-together",
+            "acceptance": "60.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1156",
+            "title": "Swap For Longest Repeated Character Substring",
+            "slug": "swap-for-longest-repeated-character-substring",
+            "acceptance": "45.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1176",
+            "title": "Diet Plan Performance",
+            "slug": "diet-plan-performance",
+            "acceptance": "52.81%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1208",
+            "title": "Get Equal Substrings Within Budget",
+            "slug": "get-equal-substrings-within-budget",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1234",
+            "title": "Replace the Substring for Balanced String",
+            "slug": "replace-the-substring-for-balanced-string",
+            "acceptance": "37.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1248",
+            "title": "Count Number of Nice Subarrays",
+            "slug": "count-number-of-nice-subarrays",
+            "acceptance": "61.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1297",
+            "title": "Maximum Number of Occurrences of a Substring",
+            "slug": "maximum-number-of-occurrences-of-a-substring",
+            "acceptance": "51.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1343",
+            "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+            "slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+            "acceptance": "67.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1358",
+            "title": "Number of Substrings Containing All Three Characters",
+            "slug": "number-of-substrings-containing-all-three-characters",
+            "acceptance": "63.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1423",
+            "title": "Maximum Points You Can Obtain from Cards",
+            "slug": "maximum-points-you-can-obtain-from-cards",
+            "acceptance": "52.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1425",
+            "title": "Constrained Subsequence Sum",
+            "slug": "constrained-subsequence-sum",
+            "acceptance": "47.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1438",
+            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+            "acceptance": "48.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1456",
+            "title": "Maximum Number of Vowels in a Substring of Given Length",
+            "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+            "acceptance": "58.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1477",
+            "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+            "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+            "acceptance": "36.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1493",
+            "title": "Longest Subarray of 1's After Deleting One Element",
+            "slug": "longest-subarray-of-1s-after-deleting-one-element",
+            "acceptance": "60.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1499",
+            "title": "Max Value of Equation",
+            "slug": "max-value-of-equation",
+            "acceptance": "45.55%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1610",
+            "title": "Maximum Number of Visible Points",
+            "slug": "maximum-number-of-visible-points",
+            "acceptance": "37.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1658",
+            "title": "Minimum Operations to Reduce X to Zero",
+            "slug": "minimum-operations-to-reduce-x-to-zero",
+            "acceptance": "37.61%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1695",
+            "title": "Maximum Erasure Value",
+            "slug": "maximum-erasure-value",
+            "acceptance": "57.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1696",
+            "title": "Jump Game VI",
+            "slug": "jump-game-vi",
+            "acceptance": "46.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1703",
+            "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+            "slug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+            "acceptance": "42.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1763",
+            "title": "Longest Nice Substring",
+            "slug": "longest-nice-substring",
+            "acceptance": "61.47%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1838",
+            "title": "Frequency of the Most Frequent Element",
+            "slug": "frequency-of-the-most-frequent-element",
+            "acceptance": "39.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1839",
+            "title": "Longest Substring Of All Vowels in Order",
+            "slug": "longest-substring-of-all-vowels-in-order",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1852",
+            "title": "Distinct Numbers in Each Subarray",
+            "slug": "distinct-numbers-in-each-subarray",
+            "acceptance": "71.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1876",
+            "title": "Substrings of Size Three with Distinct Characters",
+            "slug": "substrings-of-size-three-with-distinct-characters",
+            "acceptance": "71.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1888",
+            "title": "Minimum Number of Flips to Make the Binary String Alternating",
+            "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+            "acceptance": "38.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1918",
+            "title": "Kth Smallest Subarray Sum",
+            "slug": "kth-smallest-subarray-sum",
+            "acceptance": "52.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1984",
+            "title": "Minimum Difference Between Highest and Lowest of K Scores",
+            "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+            "acceptance": "54.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2024",
+            "title": "Maximize the Confusion of an Exam",
+            "slug": "maximize-the-confusion-of-an-exam",
+            "acceptance": "60.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2090",
+            "title": "K Radius Subarray Averages",
+            "slug": "k-radius-subarray-averages",
+            "acceptance": "42.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2106",
+            "title": "Maximum Fruits Harvested After at Most K Steps",
+            "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+            "acceptance": "34.96%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2107",
+            "title": "Number of Unique Flavors After Sharing K Candies",
+            "slug": "number-of-unique-flavors-after-sharing-k-candies",
+            "acceptance": "56.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2134",
+            "title": "Minimum Swaps to Group All 1's Together II",
+            "slug": "minimum-swaps-to-group-all-1s-together-ii",
+            "acceptance": "51.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2156",
+            "title": "Find Substring With Given Hash Value",
+            "slug": "find-substring-with-given-hash-value",
+            "acceptance": "22.34%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2260",
+            "title": "Minimum Consecutive Cards to Pick Up",
+            "slug": "minimum-consecutive-cards-to-pick-up",
+            "acceptance": "51.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2269",
+            "title": "Find the K-Beauty of a Number",
+            "slug": "find-the-k-beauty-of-a-number",
+            "acceptance": "57.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2302",
+            "title": "Count Subarrays With Score Less Than K",
+            "slug": "count-subarrays-with-score-less-than-k",
+            "acceptance": "52.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2379",
+            "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+            "slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+            "acceptance": "57.84%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2398",
+            "title": "Maximum Number of Robots Within Budget",
+            "slug": "maximum-number-of-robots-within-budget",
+            "acceptance": "33.09%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2401",
+            "title": "Longest Nice Subarray",
+            "slug": "longest-nice-subarray",
+            "acceptance": "49.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2411",
+            "title": "Smallest Subarrays With Maximum Bitwise OR",
+            "slug": "smallest-subarrays-with-maximum-bitwise-or",
+            "acceptance": "41.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2444",
+            "title": "Count Subarrays With Fixed Bounds",
+            "slug": "count-subarrays-with-fixed-bounds",
+            "acceptance": "61.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2461",
+            "title": "Maximum Sum of Distinct Subarrays With Length K",
+            "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+            "acceptance": "34.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2516",
+            "title": "Take K of Each Character From Left and Right",
+            "slug": "take-k-of-each-character-from-left-and-right",
+            "acceptance": "33.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2524",
+            "title": "Maximum Frequency Score of a Subarray",
+            "slug": "maximum-frequency-score-of-a-subarray",
+            "acceptance": "40.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2528",
+            "title": "Maximize the Minimum Powered City",
+            "slug": "maximize-the-minimum-powered-city",
+            "acceptance": "31.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2537",
+            "title": "Count the Number of Good Subarrays",
+            "slug": "count-the-number-of-good-subarrays",
+            "acceptance": "47.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2555",
+            "title": "Maximize Win From Two Segments",
+            "slug": "maximize-win-from-two-segments",
+            "acceptance": "30.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2653",
+            "title": "Sliding Subarray Beauty",
+            "slug": "sliding-subarray-beauty",
+            "acceptance": "29.79%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,2167 @@
+{
+    "questions": [
+        {
+            "id": "16",
+            "title": "3Sum Closest",
+            "slug": "3sum-closest",
+            "acceptance": "45.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "18",
+            "title": "4Sum",
+            "slug": "4sum",
+            "acceptance": "35.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "66.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "46.21%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "75",
+            "title": "Sort Colors",
+            "slug": "sort-colors",
+            "acceptance": "58.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "88",
+            "title": "Merge Sorted Array",
+            "slug": "merge-sorted-array",
+            "acceptance": "46.74%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "147",
+            "title": "Insertion Sort List",
+            "slug": "insertion-sort-list",
+            "acceptance": "51.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "148",
+            "title": "Sort List",
+            "slug": "sort-list",
+            "acceptance": "55.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "164",
+            "title": "Maximum Gap",
+            "slug": "maximum-gap",
+            "acceptance": "43.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "169",
+            "title": "Majority Element",
+            "slug": "majority-element",
+            "acceptance": "63.91%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "179",
+            "title": "Largest Number",
+            "slug": "largest-number",
+            "acceptance": "34.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "66.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "217",
+            "title": "Contains Duplicate",
+            "slug": "contains-duplicate",
+            "acceptance": "61.43%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "220",
+            "title": "Contains Duplicate III",
+            "slug": "contains-duplicate-iii",
+            "acceptance": "22.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "229",
+            "title": "Majority Element II",
+            "slug": "majority-element-ii",
+            "acceptance": "45.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "242",
+            "title": "Valid Anagram",
+            "slug": "valid-anagram",
+            "acceptance": "63.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "252",
+            "title": "Meeting Rooms",
+            "slug": "meeting-rooms",
+            "acceptance": "57.28%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "253",
+            "title": "Meeting Rooms II",
+            "slug": "meeting-rooms-ii",
+            "acceptance": "50.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "259",
+            "title": "3Sum Smaller",
+            "slug": "3sum-smaller",
+            "acceptance": "50.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "268",
+            "title": "Missing Number",
+            "slug": "missing-number",
+            "acceptance": "62.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "274",
+            "title": "H-Index",
+            "slug": "h-index",
+            "acceptance": "38.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "280",
+            "title": "Wiggle Sort",
+            "slug": "wiggle-sort",
+            "acceptance": "67.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "51.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "296",
+            "title": "Best Meeting Point",
+            "slug": "best-meeting-point",
+            "acceptance": "60.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "324",
+            "title": "Wiggle Sort II",
+            "slug": "wiggle-sort-ii",
+            "acceptance": "33.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "64.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "349",
+            "title": "Intersection of Two Arrays",
+            "slug": "intersection-of-two-arrays",
+            "acceptance": "71.01%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "350",
+            "title": "Intersection of Two Arrays II",
+            "slug": "intersection-of-two-arrays-ii",
+            "acceptance": "56.03%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "354",
+            "title": "Russian Doll Envelopes",
+            "slug": "russian-doll-envelopes",
+            "acceptance": "37.89%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "358",
+            "title": "Rearrange String k Distance Apart",
+            "slug": "rearrange-string-k-distance-apart",
+            "acceptance": "37.79%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "360",
+            "title": "Sort Transformed Array",
+            "slug": "sort-transformed-array",
+            "acceptance": "55.08%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "368",
+            "title": "Largest Divisible Subset",
+            "slug": "largest-divisible-subset",
+            "acceptance": "41.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "378",
+            "title": "Kth Smallest Element in a Sorted Matrix",
+            "slug": "kth-smallest-element-in-a-sorted-matrix",
+            "acceptance": "61.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "389",
+            "title": "Find the Difference",
+            "slug": "find-the-difference",
+            "acceptance": "59.88%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "406",
+            "title": "Queue Reconstruction by Height",
+            "slug": "queue-reconstruction-by-height",
+            "acceptance": "72.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "414",
+            "title": "Third Maximum Number",
+            "slug": "third-maximum-number",
+            "acceptance": "33.27%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "435",
+            "title": "Non-overlapping Intervals",
+            "slug": "non-overlapping-intervals",
+            "acceptance": "50.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "436",
+            "title": "Find Right Interval",
+            "slug": "find-right-interval",
+            "acceptance": "50.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "451",
+            "title": "Sort Characters By Frequency",
+            "slug": "sort-characters-by-frequency",
+            "acceptance": "70.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "452",
+            "title": "Minimum Number of Arrows to Burst Balloons",
+            "slug": "minimum-number-of-arrows-to-burst-balloons",
+            "acceptance": "55.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "455",
+            "title": "Assign Cookies",
+            "slug": "assign-cookies",
+            "acceptance": "49.87%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "462",
+            "title": "Minimum Moves to Equal Array Elements II",
+            "slug": "minimum-moves-to-equal-array-elements-ii",
+            "acceptance": "60.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "475",
+            "title": "Heaters",
+            "slug": "heaters",
+            "acceptance": "36.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "502",
+            "title": "IPO",
+            "slug": "ipo",
+            "acceptance": "49.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "506",
+            "title": "Relative Ranks",
+            "slug": "relative-ranks",
+            "acceptance": "60.77%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "522",
+            "title": "Longest Uncommon Subsequence II",
+            "slug": "longest-uncommon-subsequence-ii",
+            "acceptance": "40.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "524",
+            "title": "Longest Word in Dictionary through Deleting",
+            "slug": "longest-word-in-dictionary-through-deleting",
+            "acceptance": "51.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "527",
+            "title": "Word Abbreviation",
+            "slug": "word-abbreviation",
+            "acceptance": "60.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "532",
+            "title": "K-diff Pairs in an Array",
+            "slug": "k-diff-pairs-in-an-array",
+            "acceptance": "41.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "539",
+            "title": "Minimum Time Difference",
+            "slug": "minimum-time-difference",
+            "acceptance": "56.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "561",
+            "title": "Array Partition",
+            "slug": "array-partition",
+            "acceptance": "77.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "581",
+            "title": "Shortest Unsorted Continuous Subarray",
+            "slug": "shortest-unsorted-continuous-subarray",
+            "acceptance": "36.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "594",
+            "title": "Longest Harmonious Subsequence",
+            "slug": "longest-harmonious-subsequence",
+            "acceptance": "53.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "611",
+            "title": "Valid Triangle Number",
+            "slug": "valid-triangle-number",
+            "acceptance": "50.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "621",
+            "title": "Task Scheduler",
+            "slug": "task-scheduler",
+            "acceptance": "56.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "628",
+            "title": "Maximum Product of Three Numbers",
+            "slug": "maximum-product-of-three-numbers",
+            "acceptance": "45.84%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "632",
+            "title": "Smallest Range Covering Elements from K Lists",
+            "slug": "smallest-range-covering-elements-from-k-lists",
+            "acceptance": "61.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "645",
+            "title": "Set Mismatch",
+            "slug": "set-mismatch",
+            "acceptance": "42.65%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "646",
+            "title": "Maximum Length of Pair Chain",
+            "slug": "maximum-length-of-pair-chain",
+            "acceptance": "56.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "658",
+            "title": "Find K Closest Elements",
+            "slug": "find-k-closest-elements",
+            "acceptance": "46.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "57.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "710",
+            "title": "Random Pick with Blacklist",
+            "slug": "random-pick-with-blacklist",
+            "acceptance": "33.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "719",
+            "title": "Find K-th Smallest Pair Distance",
+            "slug": "find-k-th-smallest-pair-distance",
+            "acceptance": "36.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "720",
+            "title": "Longest Word in Dictionary",
+            "slug": "longest-word-in-dictionary",
+            "acceptance": "51.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "726",
+            "title": "Number of Atoms",
+            "slug": "number-of-atoms",
+            "acceptance": "52.16%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "747",
+            "title": "Largest Number At Least Twice of Others",
+            "slug": "largest-number-at-least-twice-of-others",
+            "acceptance": "47.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "757",
+            "title": "Set Intersection Size At Least Two",
+            "slug": "set-intersection-size-at-least-two",
+            "acceptance": "43.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "759",
+            "title": "Employee Free Time",
+            "slug": "employee-free-time",
+            "acceptance": "71.81%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "767",
+            "title": "Reorganize String",
+            "slug": "reorganize-string",
+            "acceptance": "52.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "768",
+            "title": "Max Chunks To Make Sorted II",
+            "slug": "max-chunks-to-make-sorted-ii",
+            "acceptance": "52.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "769",
+            "title": "Max Chunks To Make Sorted",
+            "slug": "max-chunks-to-make-sorted",
+            "acceptance": "58.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "786",
+            "title": "K-th Smallest Prime Fraction",
+            "slug": "k-th-smallest-prime-fraction",
+            "acceptance": "51.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "791",
+            "title": "Custom Sort String",
+            "slug": "custom-sort-string",
+            "acceptance": "69.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "792",
+            "title": "Number of Matching Subsequences",
+            "slug": "number-of-matching-subsequences",
+            "acceptance": "51.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "825",
+            "title": "Friends Of Appropriate Ages",
+            "slug": "friends-of-appropriate-ages",
+            "acceptance": "46.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "826",
+            "title": "Most Profit Assigning Work",
+            "slug": "most-profit-assigning-work",
+            "acceptance": "44.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "833",
+            "title": "Find And Replace in String",
+            "slug": "find-and-replace-in-string",
+            "acceptance": "53.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "846",
+            "title": "Hand of Straights",
+            "slug": "hand-of-straights",
+            "acceptance": "56.14%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "853",
+            "title": "Car Fleet",
+            "slug": "car-fleet",
+            "acceptance": "50.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "857",
+            "title": "Minimum Cost to Hire K Workers",
+            "slug": "minimum-cost-to-hire-k-workers",
+            "acceptance": "52.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "869",
+            "title": "Reordered Power of 2",
+            "slug": "reordered-power-of-2",
+            "acceptance": "63.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "870",
+            "title": "Advantage Shuffle",
+            "slug": "advantage-shuffle",
+            "acceptance": "51.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "881",
+            "title": "Boats to Save People",
+            "slug": "boats-to-save-people",
+            "acceptance": "55.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "888",
+            "title": "Fair Candy Swap",
+            "slug": "fair-candy-swap",
+            "acceptance": "60.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "891",
+            "title": "Sum of Subsequence Widths",
+            "slug": "sum-of-subsequence-widths",
+            "acceptance": "36.71%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "899",
+            "title": "Orderly Queue",
+            "slug": "orderly-queue",
+            "acceptance": "66.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "905",
+            "title": "Sort Array By Parity",
+            "slug": "sort-array-by-parity",
+            "acceptance": "75.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "910",
+            "title": "Smallest Range II",
+            "slug": "smallest-range-ii",
+            "acceptance": "35.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "912",
+            "title": "Sort an Array",
+            "slug": "sort-an-array",
+            "acceptance": "59.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "922",
+            "title": "Sort Array By Parity II",
+            "slug": "sort-array-by-parity-ii",
+            "acceptance": "70.63%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "923",
+            "title": "3Sum With Multiplicity",
+            "slug": "3sum-with-multiplicity",
+            "acceptance": "45.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "937",
+            "title": "Reorder Data in Log Files",
+            "slug": "reorder-data-in-log-files",
+            "acceptance": "56.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "939",
+            "title": "Minimum Area Rectangle",
+            "slug": "minimum-area-rectangle",
+            "acceptance": "52.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "945",
+            "title": "Minimum Increment to Make Array Unique",
+            "slug": "minimum-increment-to-make-array-unique",
+            "acceptance": "51.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "948",
+            "title": "Bag of Tokens",
+            "slug": "bag-of-tokens",
+            "acceptance": "52.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "950",
+            "title": "Reveal Cards In Increasing Order",
+            "slug": "reveal-cards-in-increasing-order",
+            "acceptance": "77.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "954",
+            "title": "Array of Doubled Pairs",
+            "slug": "array-of-doubled-pairs",
+            "acceptance": "39.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "969",
+            "title": "Pancake Sorting",
+            "slug": "pancake-sorting",
+            "acceptance": "70.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "65.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "976",
+            "title": "Largest Perimeter Triangle",
+            "slug": "largest-perimeter-triangle",
+            "acceptance": "54.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "977",
+            "title": "Squares of a Sorted Array",
+            "slug": "squares-of-a-sorted-array",
+            "acceptance": "71.89%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1005",
+            "title": "Maximize Sum Of Array After K Negations",
+            "slug": "maximize-sum-of-array-after-k-negations",
+            "acceptance": "50.84%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1029",
+            "title": "Two City Scheduling",
+            "slug": "two-city-scheduling",
+            "acceptance": "65.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1030",
+            "title": "Matrix Cells in Distance Order",
+            "slug": "matrix-cells-in-distance-order",
+            "acceptance": "69.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1040",
+            "title": "Moving Stones Until Consecutive II",
+            "slug": "moving-stones-until-consecutive-ii",
+            "acceptance": "56.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1051",
+            "title": "Height Checker",
+            "slug": "height-checker",
+            "acceptance": "75.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1054",
+            "title": "Distant Barcodes",
+            "slug": "distant-barcodes",
+            "acceptance": "45.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1057",
+            "title": "Campus Bikes",
+            "slug": "campus-bikes",
+            "acceptance": "57.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1065",
+            "title": "Index Pairs of a String",
+            "slug": "index-pairs-of-a-string",
+            "acceptance": "63.93%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1086",
+            "title": "High Five",
+            "slug": "high-five",
+            "acceptance": "75.04%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1090",
+            "title": "Largest Values From Labels",
+            "slug": "largest-values-from-labels",
+            "acceptance": "61.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1094",
+            "title": "Car Pooling",
+            "slug": "car-pooling",
+            "acceptance": "56.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1099",
+            "title": "Two Sum Less Than K",
+            "slug": "two-sum-less-than-k",
+            "acceptance": "61.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1122",
+            "title": "Relative Sort Array",
+            "slug": "relative-sort-array",
+            "acceptance": "68.66%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1133",
+            "title": "Largest Unique Number",
+            "slug": "largest-unique-number",
+            "acceptance": "67.64%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1152",
+            "title": "Analyze User Website Visit Pattern",
+            "slug": "analyze-user-website-visit-pattern",
+            "acceptance": "43.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1169",
+            "title": "Invalid Transactions",
+            "slug": "invalid-transactions",
+            "acceptance": "31.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1170",
+            "title": "Compare Strings by Frequency of the Smallest Character",
+            "slug": "compare-strings-by-frequency-of-the-smallest-character",
+            "acceptance": "61.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1181",
+            "title": "Before and After Puzzle",
+            "slug": "before-and-after-puzzle",
+            "acceptance": "45.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1187",
+            "title": "Make Array Strictly Increasing",
+            "slug": "make-array-strictly-increasing",
+            "acceptance": "45.46%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1196",
+            "title": "How Many Apples Can You Put into the Basket",
+            "slug": "how-many-apples-can-you-put-into-the-basket",
+            "acceptance": "66.81%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1200",
+            "title": "Minimum Absolute Difference",
+            "slug": "minimum-absolute-difference",
+            "acceptance": "69.62%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1229",
+            "title": "Meeting Scheduler",
+            "slug": "meeting-scheduler",
+            "acceptance": "55.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1235",
+            "title": "Maximum Profit in Job Scheduling",
+            "slug": "maximum-profit-in-job-scheduling",
+            "acceptance": "53.39%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1244",
+            "title": "Design A Leaderboard",
+            "slug": "design-a-leaderboard",
+            "acceptance": "68.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1288",
+            "title": "Remove Covered Intervals",
+            "slug": "remove-covered-intervals",
+            "acceptance": "56.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1296",
+            "title": "Divide Array in Sets of K Consecutive Numbers",
+            "slug": "divide-array-in-sets-of-k-consecutive-numbers",
+            "acceptance": "56.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1300",
+            "title": "Sum of Mutated Array Closest to Target",
+            "slug": "sum-of-mutated-array-closest-to-target",
+            "acceptance": "43.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1305",
+            "title": "All Elements in Two Binary Search Trees",
+            "slug": "all-elements-in-two-binary-search-trees",
+            "acceptance": "79.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1311",
+            "title": "Get Watched Videos by Your Friends",
+            "slug": "get-watched-videos-by-your-friends",
+            "acceptance": "45.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1329",
+            "title": "Sort the Matrix Diagonally",
+            "slug": "sort-the-matrix-diagonally",
+            "acceptance": "83.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1331",
+            "title": "Rank Transform of an Array",
+            "slug": "rank-transform-of-an-array",
+            "acceptance": "59.31%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1333",
+            "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+            "slug": "filter-restaurants-by-vegan-friendly-price-and-distance",
+            "acceptance": "60.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1337",
+            "title": "The K Weakest Rows in a Matrix",
+            "slug": "the-k-weakest-rows-in-a-matrix",
+            "acceptance": "72.02%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1338",
+            "title": "Reduce Array Size to The Half",
+            "slug": "reduce-array-size-to-the-half",
+            "acceptance": "69.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1340",
+            "title": "Jump Game V",
+            "slug": "jump-game-v",
+            "acceptance": "62.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1346",
+            "title": "Check If N and Its Double Exist",
+            "slug": "check-if-n-and-its-double-exist",
+            "acceptance": "36.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1348",
+            "title": "Tweet Counts Per Frequency",
+            "slug": "tweet-counts-per-frequency",
+            "acceptance": "43.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1353",
+            "title": "Maximum Number of Events That Can Be Attended",
+            "slug": "maximum-number-of-events-that-can-be-attended",
+            "acceptance": "32.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1356",
+            "title": "Sort Integers by The Number of 1 Bits",
+            "slug": "sort-integers-by-the-number-of-1-bits",
+            "acceptance": "73.26%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1365",
+            "title": "How Many Numbers Are Smaller Than the Current Number",
+            "slug": "how-many-numbers-are-smaller-than-the-current-number",
+            "acceptance": "86.62%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1366",
+            "title": "Rank Teams by Votes",
+            "slug": "rank-teams-by-votes",
+            "acceptance": "57.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1383",
+            "title": "Maximum Performance of a Team",
+            "slug": "maximum-performance-of-a-team",
+            "acceptance": "48.45%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1385",
+            "title": "Find the Distance Value Between Two Arrays",
+            "slug": "find-the-distance-value-between-two-arrays",
+            "acceptance": "66.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1387",
+            "title": "Sort Integers by The Power Value",
+            "slug": "sort-integers-by-the-power-value",
+            "acceptance": "70.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1402",
+            "title": "Reducing Dishes",
+            "slug": "reducing-dishes",
+            "acceptance": "76.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1403",
+            "title": "Minimum Subsequence in Non-Increasing Order",
+            "slug": "minimum-subsequence-in-non-increasing-order",
+            "acceptance": "72.29%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1418",
+            "title": "Display Table of Food Orders in a Restaurant",
+            "slug": "display-table-of-food-orders-in-a-restaurant",
+            "acceptance": "73.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1424",
+            "title": "Diagonal Traverse II",
+            "slug": "diagonal-traverse-ii",
+            "acceptance": "50.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1433",
+            "title": "Check If a String Can Break Another String",
+            "slug": "check-if-a-string-can-break-another-string",
+            "acceptance": "68.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1451",
+            "title": "Rearrange Words in a Sentence",
+            "slug": "rearrange-words-in-a-sentence",
+            "acceptance": "63.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1460",
+            "title": "Make Two Arrays Equal by Reversing Subarrays",
+            "slug": "make-two-arrays-equal-by-reversing-subarrays",
+            "acceptance": "72.19%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1464",
+            "title": "Maximum Product of Two Elements in an Array",
+            "slug": "maximum-product-of-two-elements-in-an-array",
+            "acceptance": "80.05%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1465",
+            "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+            "slug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+            "acceptance": "40.88%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1471",
+            "title": "The k Strongest Values in an Array",
+            "slug": "the-k-strongest-values-in-an-array",
+            "acceptance": "60.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1478",
+            "title": "Allocate Mailboxes",
+            "slug": "allocate-mailboxes",
+            "acceptance": "55.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1481",
+            "title": "Least Number of Unique Integers after K Removals",
+            "slug": "least-number-of-unique-integers-after-k-removals",
+            "acceptance": "55.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1489",
+            "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+            "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+            "acceptance": "52.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1491",
+            "title": "Average Salary Excluding the Minimum and Maximum Salary",
+            "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+            "acceptance": "61.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1498",
+            "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+            "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+            "acceptance": "37.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1502",
+            "title": "Can Make Arithmetic Progression From Sequence",
+            "slug": "can-make-arithmetic-progression-from-sequence",
+            "acceptance": "67.66%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1508",
+            "title": "Range Sum of Sorted Subarray Sums",
+            "slug": "range-sum-of-sorted-subarray-sums",
+            "acceptance": "59.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1509",
+            "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+            "slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+            "acceptance": "54.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1547",
+            "title": "Minimum Cost to Cut a Stick",
+            "slug": "minimum-cost-to-cut-a-stick",
+            "acceptance": "56.89%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1552",
+            "title": "Magnetic Force Between Two Balls",
+            "slug": "magnetic-force-between-two-balls",
+            "acceptance": "58.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1561",
+            "title": "Maximum Number of Coins You Can Get",
+            "slug": "maximum-number-of-coins-you-can-get",
+            "acceptance": "79.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1564",
+            "title": "Put Boxes Into the Warehouse I",
+            "slug": "put-boxes-into-the-warehouse-i",
+            "acceptance": "67.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1580",
+            "title": "Put Boxes Into the Warehouse II",
+            "slug": "put-boxes-into-the-warehouse-ii",
+            "acceptance": "63.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1585",
+            "title": "Check If String Is Transformable With Substring Sort Operations",
+            "slug": "check-if-string-is-transformable-with-substring-sort-operations",
+            "acceptance": "47.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1589",
+            "title": "Maximum Sum Obtained of Any Permutation",
+            "slug": "maximum-sum-obtained-of-any-permutation",
+            "acceptance": "37.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1604",
+            "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+            "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+            "acceptance": "46.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1608",
+            "title": "Special Array With X Elements Greater Than or Equal X",
+            "slug": "special-array-with-x-elements-greater-than-or-equal-x",
+            "acceptance": "60.51%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1610",
+            "title": "Maximum Number of Visible Points",
+            "slug": "maximum-number-of-visible-points",
+            "acceptance": "37.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1619",
+            "title": "Mean of Array After Removing Some Elements",
+            "slug": "mean-of-array-after-removing-some-elements",
+            "acceptance": "65.96%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1626",
+            "title": "Best Team With No Conflicts",
+            "slug": "best-team-with-no-conflicts",
+            "acceptance": "51.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1630",
+            "title": "Arithmetic Subarrays",
+            "slug": "arithmetic-subarrays",
+            "acceptance": "80.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1636",
+            "title": "Sort Array by Increasing Frequency",
+            "slug": "sort-array-by-increasing-frequency",
+            "acceptance": "69.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1637",
+            "title": "Widest Vertical Area Between Two Points Containing No Points",
+            "slug": "widest-vertical-area-between-two-points-containing-no-points",
+            "acceptance": "84.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1647",
+            "title": "Minimum Deletions to Make Character Frequencies Unique",
+            "slug": "minimum-deletions-to-make-character-frequencies-unique",
+            "acceptance": "59.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1648",
+            "title": "Sell Diminishing-Valued Colored Balls",
+            "slug": "sell-diminishing-valued-colored-balls",
+            "acceptance": "30.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1657",
+            "title": "Determine if Two Strings Are Close",
+            "slug": "determine-if-two-strings-are-close",
+            "acceptance": "56.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1665",
+            "title": "Minimum Initial Energy to Finish Tasks",
+            "slug": "minimum-initial-energy-to-finish-tasks",
+            "acceptance": "56.39%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1679",
+            "title": "Max Number of K-Sum Pairs",
+            "slug": "max-number-of-k-sum-pairs",
+            "acceptance": "57.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1686",
+            "title": "Stone Game VI",
+            "slug": "stone-game-vi",
+            "acceptance": "54.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1691",
+            "title": "Maximum Height by Stacking Cuboids ",
+            "slug": "maximum-height-by-stacking-cuboids",
+            "acceptance": "54.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1697",
+            "title": "Checking Existence of Edge Length Limited Paths",
+            "slug": "checking-existence-of-edge-length-limited-paths",
+            "acceptance": "50.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1710",
+            "title": "Maximum Units on a Truck",
+            "slug": "maximum-units-on-a-truck",
+            "acceptance": "73.81%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1727",
+            "title": "Largest Submatrix With Rearrangements",
+            "slug": "largest-submatrix-with-rearrangements",
+            "acceptance": "61.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1751",
+            "title": "Maximum Number of Events That Can Be Attended II",
+            "slug": "maximum-number-of-events-that-can-be-attended-ii",
+            "acceptance": "57.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1772",
+            "title": "Sort Features by Popularity",
+            "slug": "sort-features-by-popularity",
+            "acceptance": "64.89%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1818",
+            "title": "Minimum Absolute Sum Difference",
+            "slug": "minimum-absolute-sum-difference",
+            "acceptance": "30.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1833",
+            "title": "Maximum Ice Cream Bars",
+            "slug": "maximum-ice-cream-bars",
+            "acceptance": "73.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1834",
+            "title": "Single-Threaded CPU",
+            "slug": "single-threaded-cpu",
+            "acceptance": "45.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1838",
+            "title": "Frequency of the Most Frequent Element",
+            "slug": "frequency-of-the-most-frequent-element",
+            "acceptance": "39.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1846",
+            "title": "Maximum Element After Decreasing and Rearranging",
+            "slug": "maximum-element-after-decreasing-and-rearranging",
+            "acceptance": "58.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1847",
+            "title": "Closest Room",
+            "slug": "closest-room",
+            "acceptance": "35.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1851",
+            "title": "Minimum Interval to Include Each Query",
+            "slug": "minimum-interval-to-include-each-query",
+            "acceptance": "48.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1859",
+            "title": "Sorting the Sentence",
+            "slug": "sorting-the-sentence",
+            "acceptance": "84.01%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1874",
+            "title": "Minimize Product Sum of Two Arrays",
+            "slug": "minimize-product-sum-of-two-arrays",
+            "acceptance": "89.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1877",
+            "title": "Minimize Maximum Pair Sum in Array",
+            "slug": "minimize-maximum-pair-sum-in-array",
+            "acceptance": "79.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1878",
+            "title": "Get Biggest Three Rhombus Sums in a Grid",
+            "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+            "acceptance": "47.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1885",
+            "title": "Count Pairs in Two Arrays",
+            "slug": "count-pairs-in-two-arrays",
+            "acceptance": "59.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1887",
+            "title": "Reduction Operations to Make the Array Elements Equal",
+            "slug": "reduction-operations-to-make-the-array-elements-equal",
+            "acceptance": "62.38%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1889",
+            "title": "Minimum Space Wasted From Packaging",
+            "slug": "minimum-space-wasted-from-packaging",
+            "acceptance": "31.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1913",
+            "title": "Maximum Product Difference Between Two Pairs",
+            "slug": "maximum-product-difference-between-two-pairs",
+            "acceptance": "81.23%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1921",
+            "title": "Eliminate Maximum Number of Monsters",
+            "slug": "eliminate-maximum-number-of-monsters",
+            "acceptance": "37.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1968",
+            "title": "Array With Elements Not Equal to Average of Neighbors",
+            "slug": "array-with-elements-not-equal-to-average-of-neighbors",
+            "acceptance": "49.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1984",
+            "title": "Minimum Difference Between Highest and Lowest of K Scores",
+            "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+            "acceptance": "54.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1985",
+            "title": "Find the Kth Largest Integer in the Array",
+            "slug": "find-the-kth-largest-integer-in-the-array",
+            "acceptance": "44.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1996",
+            "title": "The Number of Weak Characters in the Game",
+            "slug": "the-number-of-weak-characters-in-the-game",
+            "acceptance": "43.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1998",
+            "title": "GCD Sort of an Array",
+            "slug": "gcd-sort-of-an-array",
+            "acceptance": "45.41%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2007",
+            "title": "Find Original Array From Doubled Array",
+            "slug": "find-original-array-from-doubled-array",
+            "acceptance": "40.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2008",
+            "title": "Maximum Earnings From Taxi",
+            "slug": "maximum-earnings-from-taxi",
+            "acceptance": "43.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2015",
+            "title": "Average Height of Buildings in Each Segment",
+            "slug": "average-height-of-buildings-in-each-segment",
+            "acceptance": "58.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2033",
+            "title": "Minimum Operations to Make a Uni-Value Grid",
+            "slug": "minimum-operations-to-make-a-uni-value-grid",
+            "acceptance": "52.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2037",
+            "title": "Minimum Number of Moves to Seat Everyone",
+            "slug": "minimum-number-of-moves-to-seat-everyone",
+            "acceptance": "82.14%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2046",
+            "title": "Sort Linked List Already Sorted Using Absolute Values",
+            "slug": "sort-linked-list-already-sorted-using-absolute-values",
+            "acceptance": "68.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2054",
+            "title": "Two Best Non-Overlapping Events",
+            "slug": "two-best-non-overlapping-events",
+            "acceptance": "45.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2070",
+            "title": "Most Beautiful Item for Each Query",
+            "slug": "most-beautiful-item-for-each-query",
+            "acceptance": "49.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2071",
+            "title": "Maximum Number of Tasks You Can Assign",
+            "slug": "maximum-number-of-tasks-you-can-assign",
+            "acceptance": "33.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2089",
+            "title": "Find Target Indices After Sorting Array",
+            "slug": "find-target-indices-after-sorting-array",
+            "acceptance": "76.23%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2092",
+            "title": "Find All People With Secret",
+            "slug": "find-all-people-with-secret",
+            "acceptance": "34.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2094",
+            "title": "Finding 3-Digit Even Numbers",
+            "slug": "finding-3-digit-even-numbers",
+            "acceptance": "57.83%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2098",
+            "title": "Subsequence of Size K With the Largest Even Sum",
+            "slug": "subsequence-of-size-k-with-the-largest-even-sum",
+            "acceptance": "38.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2099",
+            "title": "Find Subsequence of Length K With the Largest Sum",
+            "slug": "find-subsequence-of-length-k-with-the-largest-sum",
+            "acceptance": "42.87%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2122",
+            "title": "Recover the Original Array",
+            "slug": "recover-the-original-array",
+            "acceptance": "38.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2126",
+            "title": "Destroying Asteroids",
+            "slug": "destroying-asteroids",
+            "acceptance": "49.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2135",
+            "title": "Count Words Obtained After Adding a Letter",
+            "slug": "count-words-obtained-after-adding-a-letter",
+            "acceptance": "42.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2136",
+            "title": "Earliest Possible Day of Full Bloom",
+            "slug": "earliest-possible-day-of-full-bloom",
+            "acceptance": "73.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2141",
+            "title": "Maximum Running Time of N Computers",
+            "slug": "maximum-running-time-of-n-computers",
+            "acceptance": "39.15%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2144",
+            "title": "Minimum Cost of Buying Candies With Discount",
+            "slug": "minimum-cost-of-buying-candies-with-discount",
+            "acceptance": "60.83%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2146",
+            "title": "K Highest Ranked Items Within a Price Range",
+            "slug": "k-highest-ranked-items-within-a-price-range",
+            "acceptance": "41.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2148",
+            "title": "Count Elements With Strictly Smaller and Greater Elements ",
+            "slug": "count-elements-with-strictly-smaller-and-greater-elements",
+            "acceptance": "59.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2154",
+            "title": "Keep Multiplying Found Values by Two",
+            "slug": "keep-multiplying-found-values-by-two",
+            "acceptance": "72.45%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2160",
+            "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+            "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+            "acceptance": "86.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2164",
+            "title": "Sort Even and Odd Indices Independently",
+            "slug": "sort-even-and-odd-indices-independently",
+            "acceptance": "64.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2165",
+            "title": "Smallest Value of the Rearranged Number",
+            "slug": "smallest-value-of-the-rearranged-number",
+            "acceptance": "51.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2171",
+            "title": "Removing Minimum Number of Magic Beans",
+            "slug": "removing-minimum-number-of-magic-beans",
+            "acceptance": "42.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2191",
+            "title": "Sort the Jumbled Numbers",
+            "slug": "sort-the-jumbled-numbers",
+            "acceptance": "45.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2195",
+            "title": "Append K Integers With Minimal Sum",
+            "slug": "append-k-integers-with-minimal-sum",
+            "acceptance": "25.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2225",
+            "title": "Find Players With Zero or One Losses",
+            "slug": "find-players-with-zero-or-one-losses",
+            "acceptance": "72.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2231",
+            "title": "Largest Number After Digit Swaps by Parity",
+            "slug": "largest-number-after-digit-swaps-by-parity",
+            "acceptance": "60.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2234",
+            "title": "Maximum Total Beauty of the Gardens",
+            "slug": "maximum-total-beauty-of-the-gardens",
+            "acceptance": "28.57%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2242",
+            "title": "Maximum Score of a Node Sequence",
+            "slug": "maximum-score-of-a-node-sequence",
+            "acceptance": "37.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2250",
+            "title": "Count Number of Rectangles Containing Each Point",
+            "slug": "count-number-of-rectangles-containing-each-point",
+            "acceptance": "34.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2251",
+            "title": "Number of Flowers in Full Bloom",
+            "slug": "number-of-flowers-in-full-bloom",
+            "acceptance": "51.06%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2268",
+            "title": "Minimum Number of Keypresses",
+            "slug": "minimum-number-of-keypresses",
+            "acceptance": "72.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2271",
+            "title": "Maximum White Tiles Covered by a Carpet",
+            "slug": "maximum-white-tiles-covered-by-a-carpet",
+            "acceptance": "33.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2273",
+            "title": "Find Resultant Array After Removing Anagrams",
+            "slug": "find-resultant-array-after-removing-anagrams",
+            "acceptance": "58.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2274",
+            "title": "Maximum Consecutive Floors Without Special Floors",
+            "slug": "maximum-consecutive-floors-without-special-floors",
+            "acceptance": "52.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2279",
+            "title": "Maximum Bags With Full Capacity of Rocks",
+            "slug": "maximum-bags-with-full-capacity-of-rocks",
+            "acceptance": "67.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2280",
+            "title": "Minimum Lines to Represent a Line Chart",
+            "slug": "minimum-lines-to-represent-a-line-chart",
+            "acceptance": "24.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2285",
+            "title": "Maximum Total Importance of Roads",
+            "slug": "maximum-total-importance-of-roads",
+            "acceptance": "60.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2294",
+            "title": "Partition Array Such That Maximum Difference Is K",
+            "slug": "partition-array-such-that-maximum-difference-is-k",
+            "acceptance": "72.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2300",
+            "title": "Successful Pairs of Spells and Potions",
+            "slug": "successful-pairs-of-spells-and-potions",
+            "acceptance": "41.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2323",
+            "title": "Find Minimum Time to Finish All Jobs II",
+            "slug": "find-minimum-time-to-finish-all-jobs-ii",
+            "acceptance": "74.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2332",
+            "title": "The Latest Time to Catch a Bus",
+            "slug": "the-latest-time-to-catch-a-bus",
+            "acceptance": "23.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2333",
+            "title": "Minimum Sum of Squared Difference",
+            "slug": "minimum-sum-of-squared-difference",
+            "acceptance": "25.45%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2335",
+            "title": "Minimum Amount of Time to Fill Cups",
+            "slug": "minimum-amount-of-time-to-fill-cups",
+            "acceptance": "56.48%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2342",
+            "title": "Max Sum of a Pair With Equal Sum of Digits",
+            "slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+            "acceptance": "53.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2343",
+            "title": "Query Kth Smallest Trimmed Number",
+            "slug": "query-kth-smallest-trimmed-number",
+            "acceptance": "41.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2344",
+            "title": "Minimum Deletions to Make Array Divisible",
+            "slug": "minimum-deletions-to-make-array-divisible",
+            "acceptance": "56.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2345",
+            "title": "Finding the Number of Visible Mountains",
+            "slug": "finding-the-number-of-visible-mountains",
+            "acceptance": "42.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2357",
+            "title": "Make Array Zero by Subtracting Equal Amounts",
+            "slug": "make-array-zero-by-subtracting-equal-amounts",
+            "acceptance": "72.44%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2363",
+            "title": "Merge Similar Items",
+            "slug": "merge-similar-items",
+            "acceptance": "75.55%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2371",
+            "title": "Minimize Maximum Value in a Grid",
+            "slug": "minimize-maximum-value-in-a-grid",
+            "acceptance": "71.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2386",
+            "title": "Find the K-Sum of an Array",
+            "slug": "find-the-k-sum-of-an-array",
+            "acceptance": "38.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2389",
+            "title": "Longest Subsequence With Limited Sum",
+            "slug": "longest-subsequence-with-limited-sum",
+            "acceptance": "72.31%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2402",
+            "title": "Meeting Rooms III",
+            "slug": "meeting-rooms-iii",
+            "acceptance": "33.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2406",
+            "title": "Divide Intervals Into Minimum Number of Groups",
+            "slug": "divide-intervals-into-minimum-number-of-groups",
+            "acceptance": "46.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2410",
+            "title": "Maximum Matching of Players With Trainers",
+            "slug": "maximum-matching-of-players-with-trainers",
+            "acceptance": "61.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2412",
+            "title": "Minimum Money Required Before Transactions",
+            "slug": "minimum-money-required-before-transactions",
+            "acceptance": "39.46%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2418",
+            "title": "Sort the People",
+            "slug": "sort-the-people",
+            "acceptance": "80.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2448",
+            "title": "Minimum Cost to Make Array Equal",
+            "slug": "minimum-cost-to-make-array-equal",
+            "acceptance": "34.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2449",
+            "title": "Minimum Number of Operations to Make Arrays Similar",
+            "slug": "minimum-number-of-operations-to-make-arrays-similar",
+            "acceptance": "63.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2454",
+            "title": "Next Greater Element IV",
+            "slug": "next-greater-element-iv",
+            "acceptance": "39.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2456",
+            "title": "Most Popular Video Creator",
+            "slug": "most-popular-video-creator",
+            "acceptance": "43.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2459",
+            "title": "Sort Array by Moving Items to Empty Space",
+            "slug": "sort-array-by-moving-items-to-empty-space",
+            "acceptance": "52.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2463",
+            "title": "Minimum Total Distance Traveled",
+            "slug": "minimum-total-distance-traveled",
+            "acceptance": "40.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2465",
+            "title": "Number of Distinct Averages",
+            "slug": "number-of-distinct-averages",
+            "acceptance": "58.17%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2491",
+            "title": "Divide Players Into Teams of Equal Skill",
+            "slug": "divide-players-into-teams-of-equal-skill",
+            "acceptance": "58.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2497",
+            "title": "Maximum Star Sum of a Graph",
+            "slug": "maximum-star-sum-of-a-graph",
+            "acceptance": "38.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2500",
+            "title": "Delete Greatest Value in Each Row",
+            "slug": "delete-greatest-value-in-each-row",
+            "acceptance": "80.52%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2501",
+            "title": "Longest Square Streak in an Array",
+            "slug": "longest-square-streak-in-an-array",
+            "acceptance": "39.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2503",
+            "title": "Maximum Number of Points From Grid Queries",
+            "slug": "maximum-number-of-points-from-grid-queries",
+            "acceptance": "36.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2512",
+            "title": "Reward Top K Students",
+            "slug": "reward-top-k-students",
+            "acceptance": "46.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2517",
+            "title": "Maximum Tastiness of Candy Basket",
+            "slug": "maximum-tastiness-of-candy-basket",
+            "acceptance": "64.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2542",
+            "title": "Maximum Subsequence Score",
+            "slug": "maximum-subsequence-score",
+            "acceptance": "38.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2545",
+            "title": "Sort the Students by Their Kth Score",
+            "slug": "sort-the-students-by-their-kth-score",
+            "acceptance": "85.81%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2548",
+            "title": "Maximum Price to Fill a Bag",
+            "slug": "maximum-price-to-fill-a-bag",
+            "acceptance": "67.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2551",
+            "title": "Put Marbles in Bags",
+            "slug": "put-marbles-in-bags",
+            "acceptance": "52.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2554",
+            "title": "Maximum Number of Integers to Choose From a Range I",
+            "slug": "maximum-number-of-integers-to-choose-from-a-range-i",
+            "acceptance": "52.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2557",
+            "title": "Maximum Number of Integers to Choose From a Range II",
+            "slug": "maximum-number-of-integers-to-choose-from-a-range-ii",
+            "acceptance": "43.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2563",
+            "title": "Count the Number of Fair Pairs",
+            "slug": "count-the-number-of-fair-pairs",
+            "acceptance": "32.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2567",
+            "title": "Minimum Score by Changing Two Elements",
+            "slug": "minimum-score-by-changing-two-elements",
+            "acceptance": "47.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2576",
+            "title": "Find the Maximum Number of Marked Indices",
+            "slug": "find-the-maximum-number-of-marked-indices",
+            "acceptance": "37.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2578",
+            "title": "Split With Minimum Sum",
+            "slug": "split-with-minimum-sum",
+            "acceptance": "70.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2580",
+            "title": "Count Ways to Group Overlapping Ranges",
+            "slug": "count-ways-to-group-overlapping-ranges",
+            "acceptance": "34.89%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2587",
+            "title": "Rearrange Array to Maximize Prefix Score",
+            "slug": "rearrange-array-to-maximize-prefix-score",
+            "acceptance": "39.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2589",
+            "title": "Minimum Time to Complete All Tasks",
+            "slug": "minimum-time-to-complete-all-tasks",
+            "acceptance": "37.24%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2590",
+            "title": "Design a Todo List",
+            "slug": "design-a-todo-list",
+            "acceptance": "60.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2592",
+            "title": "Maximize Greatness of an Array",
+            "slug": "maximize-greatness-of-an-array",
+            "acceptance": "56.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2593",
+            "title": "Find Score of an Array After Marking All Elements",
+            "slug": "find-score-of-an-array-after-marking-all-elements",
+            "acceptance": "53.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2602",
+            "title": "Minimum Operations to Make All Array Elements Equal",
+            "slug": "minimum-operations-to-make-all-array-elements-equal",
+            "acceptance": "34.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2604",
+            "title": "Minimum Time to Eat All Grains",
+            "slug": "minimum-time-to-eat-all-grains",
+            "acceptance": "45.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2607",
+            "title": "Make K-Subarray Sums Equal",
+            "slug": "make-k-subarray-sums-equal",
+            "acceptance": "32.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2611",
+            "title": "Mice and Cheese",
+            "slug": "mice-and-cheese",
+            "acceptance": "42.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2613",
+            "title": "Beautiful Pairs",
+            "slug": "beautiful-pairs",
+            "acceptance": "47.67%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2638",
+            "title": "Count the Number of K-Free Subsets",
+            "slug": "count-the-number-of-k-free-subsets",
+            "acceptance": "57.74%",
+            "difficulty": "Medium"
+        }
+    ]
+}

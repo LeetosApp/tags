@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": "250",
+            "title": "Count Univalue Subtrees",
+            "slug": "count-univalue-subtrees",
+            "acceptance": "52.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "965",
+            "title": "Univalued Binary Tree",
+            "slug": "univalued-binary-tree",
+            "acceptance": "67.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "68",
+            "title": "Text Justification",
+            "slug": "text-justification",
+            "acceptance": "27.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "935",
+            "title": "Knight Dialer",
+            "slug": "knight-dialer",
+            "acceptance": "45.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "191",
+            "title": "Number of 1 Bits",
+            "slug": "number-of-1-bits",
+            "acceptance": "49.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "126",
+            "title": "Word Ladder II",
+            "slug": "word-ladder-ii",
+            "acceptance": "22.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "23",
+            "title": "Merge k Sorted Lists",
+            "slug": "merge-k-sorted-lists",
+            "acceptance": "40.2%",
+            "difficulty": "Hard"
+        }
+    ]
+}

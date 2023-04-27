@@ -1,0 +1,305 @@
+{
+    "questions": [
+        {
+            "id": "23",
+            "title": "Merge k Sorted Lists",
+            "slug": "merge-k-sorted-lists",
+            "acceptance": "49.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "50.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "105",
+            "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+            "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+            "acceptance": "61.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "106",
+            "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+            "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+            "acceptance": "60.08%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "108",
+            "title": "Convert Sorted Array to Binary Search Tree",
+            "slug": "convert-sorted-array-to-binary-search-tree",
+            "acceptance": "69.93%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "109",
+            "title": "Convert Sorted List to Binary Search Tree",
+            "slug": "convert-sorted-list-to-binary-search-tree",
+            "acceptance": "60.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "148",
+            "title": "Sort List",
+            "slug": "sort-list",
+            "acceptance": "55.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "169",
+            "title": "Majority Element",
+            "slug": "majority-element",
+            "acceptance": "63.91%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "190",
+            "title": "Reverse Bits",
+            "slug": "reverse-bits",
+            "acceptance": "54.22%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "191",
+            "title": "Number of 1 Bits",
+            "slug": "number-of-1-bits",
+            "acceptance": "66.82%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "66.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "218",
+            "title": "The Skyline Problem",
+            "slug": "the-skyline-problem",
+            "acceptance": "41.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "240",
+            "title": "Search a 2D Matrix II",
+            "slug": "search-a-2d-matrix-ii",
+            "acceptance": "51.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "315",
+            "title": "Count of Smaller Numbers After Self",
+            "slug": "count-of-smaller-numbers-after-self",
+            "acceptance": "42.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "324",
+            "title": "Wiggle Sort II",
+            "slug": "wiggle-sort-ii",
+            "acceptance": "33.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "327",
+            "title": "Count of Range Sum",
+            "slug": "count-of-range-sum",
+            "acceptance": "35.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "64.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "372",
+            "title": "Super Pow",
+            "slug": "super-pow",
+            "acceptance": "36.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "395",
+            "title": "Longest Substring with At Least K Repeating Characters",
+            "slug": "longest-substring-with-at-least-k-repeating-characters",
+            "acceptance": "44.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "427",
+            "title": "Construct Quad Tree",
+            "slug": "construct-quad-tree",
+            "acceptance": "74.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "493",
+            "title": "Reverse Pairs",
+            "slug": "reverse-pairs",
+            "acceptance": "30.85%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "558",
+            "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+            "slug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+            "acceptance": "48.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "654",
+            "title": "Maximum Binary Tree",
+            "slug": "maximum-binary-tree",
+            "acceptance": "84.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "889",
+            "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+            "slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+            "acceptance": "71.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "912",
+            "title": "Sort an Array",
+            "slug": "sort-an-array",
+            "acceptance": "59.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "918",
+            "title": "Maximum Sum Circular Subarray",
+            "slug": "maximum-sum-circular-subarray",
+            "acceptance": "43.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "932",
+            "title": "Beautiful Array",
+            "slug": "beautiful-array",
+            "acceptance": "65.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "65.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1274",
+            "title": "Number of Ships in a Rectangle",
+            "slug": "number-of-ships-in-a-rectangle",
+            "acceptance": "69.18%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1382",
+            "title": "Balance a Binary Search Tree",
+            "slug": "balance-a-binary-search-tree",
+            "acceptance": "80.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1569",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+            "acceptance": "47.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1649",
+            "title": "Create Sorted Array through Instructions",
+            "slug": "create-sorted-array-through-instructions",
+            "acceptance": "37.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1738",
+            "title": "Find Kth Largest XOR Coordinate Value",
+            "slug": "find-kth-largest-xor-coordinate-value",
+            "acceptance": "61.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1763",
+            "title": "Longest Nice Substring",
+            "slug": "longest-nice-substring",
+            "acceptance": "61.47%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1982",
+            "title": "Find Array Given Subset Sums",
+            "slug": "find-array-given-subset-sums",
+            "acceptance": "47.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1985",
+            "title": "Find the Kth Largest Integer in the Array",
+            "slug": "find-the-kth-largest-integer-in-the-array",
+            "acceptance": "44.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2031",
+            "title": "Count Subarrays With More Ones Than Zeros",
+            "slug": "count-subarrays-with-more-ones-than-zeros",
+            "acceptance": "51.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2179",
+            "title": "Count Good Triplets in an Array",
+            "slug": "count-good-triplets-in-an-array",
+            "acceptance": "38.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2343",
+            "title": "Query Kth Smallest Trimmed Number",
+            "slug": "query-kth-smallest-trimmed-number",
+            "acceptance": "41.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2407",
+            "title": "Longest Increasing Subsequence II",
+            "slug": "longest-increasing-subsequence-ii",
+            "acceptance": "22.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2426",
+            "title": "Number of Pairs Satisfying Inequality",
+            "slug": "number-of-pairs-satisfying-inequality",
+            "acceptance": "43.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2519",
+            "title": "Count the Number of K-Big Indices",
+            "slug": "count-the-number-of-k-big-indices",
+            "acceptance": "64.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2613",
+            "title": "Beautiful Pairs",
+            "slug": "beautiful-pairs",
+            "acceptance": "47.67%",
+            "difficulty": "Hard"
+        }
+    ]
+}

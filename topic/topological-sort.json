@@ -1,0 +1,214 @@
+{
+    "questions": [
+        {
+            "id": "210",
+            "title": "Course Schedule II",
+            "slug": "course-schedule-ii",
+            "acceptance": "48.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "269",
+            "title": "Alien Dictionary",
+            "slug": "alien-dictionary",
+            "acceptance": "35.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "310",
+            "title": "Minimum Height Trees",
+            "slug": "minimum-height-trees",
+            "acceptance": "38.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "329",
+            "title": "Longest Increasing Path in a Matrix",
+            "slug": "longest-increasing-path-in-a-matrix",
+            "acceptance": "52.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "444",
+            "title": "Sequence Reconstruction",
+            "slug": "sequence-reconstruction",
+            "acceptance": "26.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "631",
+            "title": "Design Excel Sum Formula",
+            "slug": "design-excel-sum-formula",
+            "acceptance": "43.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "802",
+            "title": "Find Eventual Safe States",
+            "slug": "find-eventual-safe-states",
+            "acceptance": "56.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "851",
+            "title": "Loud and Rich",
+            "slug": "loud-and-rich",
+            "acceptance": "58.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "913",
+            "title": "Cat and Mouse",
+            "slug": "cat-and-mouse",
+            "acceptance": "34.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1136",
+            "title": "Parallel Courses",
+            "slug": "parallel-courses",
+            "acceptance": "61.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1203",
+            "title": "Sort Items by Groups Respecting Dependencies",
+            "slug": "sort-items-by-groups-respecting-dependencies",
+            "acceptance": "51.11%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1245",
+            "title": "Tree Diameter",
+            "slug": "tree-diameter",
+            "acceptance": "61.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1462",
+            "title": "Course Schedule IV",
+            "slug": "course-schedule-iv",
+            "acceptance": "49.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1591",
+            "title": "Strange Printer II",
+            "slug": "strange-printer-ii",
+            "acceptance": "58.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1632",
+            "title": "Rank Transform of a Matrix",
+            "slug": "rank-transform-of-a-matrix",
+            "acceptance": "40.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1728",
+            "title": "Cat and Mouse II",
+            "slug": "cat-and-mouse-ii",
+            "acceptance": "39.35%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1786",
+            "title": "Number of Restricted Paths From First to Last Node",
+            "slug": "number-of-restricted-paths-from-first-to-last-node",
+            "acceptance": "39.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1857",
+            "title": "Largest Color Value in a Directed Graph",
+            "slug": "largest-color-value-in-a-directed-graph",
+            "acceptance": "52.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1916",
+            "title": "Count Ways to Build Rooms in an Ant Colony",
+            "slug": "count-ways-to-build-rooms-in-an-ant-colony",
+            "acceptance": "49.21%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1976",
+            "title": "Number of Ways to Arrive at Destination",
+            "slug": "number-of-ways-to-arrive-at-destination",
+            "acceptance": "30.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2050",
+            "title": "Parallel Courses III",
+            "slug": "parallel-courses-iii",
+            "acceptance": "59.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2115",
+            "title": "Find All Possible Recipes from Given Supplies",
+            "slug": "find-all-possible-recipes-from-given-supplies",
+            "acceptance": "48.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2127",
+            "title": "Maximum Employees to Be Invited to a Meeting",
+            "slug": "maximum-employees-to-be-invited-to-a-meeting",
+            "acceptance": "34.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2192",
+            "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+            "slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+            "acceptance": "50.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2246",
+            "title": "Longest Path With Different Adjacent Characters",
+            "slug": "longest-path-with-different-adjacent-characters",
+            "acceptance": "55.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2328",
+            "title": "Number of Increasing Paths in a Grid",
+            "slug": "number-of-increasing-paths-in-a-grid",
+            "acceptance": "47.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2360",
+            "title": "Longest Cycle in a Graph",
+            "slug": "longest-cycle-in-a-graph",
+            "acceptance": "50.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2371",
+            "title": "Minimize Maximum Value in a Grid",
+            "slug": "minimize-maximum-value-in-a-grid",
+            "acceptance": "71.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2392",
+            "title": "Build a Matrix With Conditions",
+            "slug": "build-a-matrix-with-conditions",
+            "acceptance": "59.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2603",
+            "title": "Collect Coins in a Tree",
+            "slug": "collect-coins-in-a-tree",
+            "acceptance": "37.59%",
+            "difficulty": "Hard"
+        }
+    ]
+}

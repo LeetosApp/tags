@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "7",
+            "title": "Reverse Integer",
+            "slug": "reverse-integer",
+            "acceptance": "25.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "46",
+            "title": "Permutations",
+            "slug": "permutations",
+            "acceptance": "63.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "664",
+            "title": "Strange Printer",
+            "slug": "strange-printer",
+            "acceptance": "40.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "826",
+            "title": "Most Profit Assigning Work",
+            "slug": "most-profit-assigning-work",
+            "acceptance": "38.5%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "questions": [
+        {
+            "id": "740",
+            "title": "Delete and Earn",
+            "slug": "delete-and-earn",
+            "acceptance": "48.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "366",
+            "title": "Find Leaves of Binary Tree",
+            "slug": "find-leaves-of-binary-tree",
+            "acceptance": "70.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "547",
+            "title": "Friend Circles",
+            "slug": "friend-circles",
+            "acceptance": "58.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1010",
+            "title": "Pairs of Songs With Total Durations Divisible by 60",
+            "slug": "pairs-of-songs-with-total-durations-divisible-by-60",
+            "acceptance": "47.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "28",
+            "title": "Implement strStr()",
+            "slug": "implement-strstr",
+            "acceptance": "34.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "133",
+            "title": "Clone Graph",
+            "slug": "clone-graph",
+            "acceptance": "34.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "75",
+            "title": "Sort Colors",
+            "slug": "sort-colors",
+            "acceptance": "47.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "285",
+            "title": "Inorder Successor in BST",
+            "slug": "inorder-successor-in-bst",
+            "acceptance": "40.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "10",
+            "title": "Regular Expression Matching",
+            "slug": "regular-expression-matching",
+            "acceptance": "26.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "214",
+            "title": "Shortest Palindrome",
+            "slug": "shortest-palindrome",
+            "acceptance": "29.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "61.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "40.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "269",
+            "title": "Alien Dictionary",
+            "slug": "alien-dictionary",
+            "acceptance": "33.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "772",
+            "title": "Basic Calculator III",
+            "slug": "basic-calculator-iii",
+            "acceptance": "41.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "442",
+            "title": "Find All Duplicates in an Array",
+            "slug": "find-all-duplicates-in-an-array",
+            "acceptance": "67.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "380",
+            "title": "Insert Delete GetRandom O(1)",
+            "slug": "insert-delete-getrandom-o1",
+            "acceptance": "47.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "424",
+            "title": "Longest Repeating Character Replacement",
+            "slug": "longest-repeating-character-replacement",
+            "acceptance": "47.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "600",
+            "title": "Non-negative Integers without Consecutive Ones",
+            "slug": "non-negative-integers-without-consecutive-ones",
+            "acceptance": "34.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "51.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "questions": [
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "45.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "140",
+            "title": "Word Break II",
+            "slug": "word-break-ii",
+            "acceptance": "45.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "241",
+            "title": "Different Ways to Add Parentheses",
+            "slug": "different-ways-to-add-parentheses",
+            "acceptance": "64.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "294",
+            "title": "Flip Game II",
+            "slug": "flip-game-ii",
+            "acceptance": "51.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "329",
+            "title": "Longest Increasing Path in a Matrix",
+            "slug": "longest-increasing-path-in-a-matrix",
+            "acceptance": "52.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "397",
+            "title": "Integer Replacement",
+            "slug": "integer-replacement",
+            "acceptance": "35.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "464",
+            "title": "Can I Win",
+            "slug": "can-i-win",
+            "acceptance": "29.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "488",
+            "title": "Zuma Game",
+            "slug": "zuma-game",
+            "acceptance": "33.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "509",
+            "title": "Fibonacci Number",
+            "slug": "fibonacci-number",
+            "acceptance": "69.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "546",
+            "title": "Remove Boxes",
+            "slug": "remove-boxes",
+            "acceptance": "47.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "638",
+            "title": "Shopping Offers",
+            "slug": "shopping-offers",
+            "acceptance": "53.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "698",
+            "title": "Partition to K Equal Sum Subsets",
+            "slug": "partition-to-k-equal-sum-subsets",
+            "acceptance": "39.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "894",
+            "title": "All Possible Full Binary Trees",
+            "slug": "all-possible-full-binary-trees",
+            "acceptance": "79.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "913",
+            "title": "Cat and Mouse",
+            "slug": "cat-and-mouse",
+            "acceptance": "34.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "964",
+            "title": "Least Operators to Express Number",
+            "slug": "least-operators-to-express-number",
+            "acceptance": "47.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1137",
+            "title": "N-th Tribonacci Number",
+            "slug": "n-th-tribonacci-number",
+            "acceptance": "63.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1387",
+            "title": "Sort Integers by The Power Value",
+            "slug": "sort-integers-by-the-power-value",
+            "acceptance": "70.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1444",
+            "title": "Number of Ways of Cutting a Pizza",
+            "slug": "number-of-ways-of-cutting-a-pizza",
+            "acceptance": "63.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1553",
+            "title": "Minimum Number of Days to Eat N Oranges",
+            "slug": "minimum-number-of-days-to-eat-n-oranges",
+            "acceptance": "34.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1569",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+            "acceptance": "47.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1575",
+            "title": "Count All Possible Routes",
+            "slug": "count-all-possible-routes",
+            "acceptance": "56.74%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1611",
+            "title": "Minimum One Bit Operations to Make Integers Zero",
+            "slug": "minimum-one-bit-operations-to-make-integers-zero",
+            "acceptance": "63.39%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1659",
+            "title": "Maximize Grid Happiness",
+            "slug": "maximize-grid-happiness",
+            "acceptance": "38.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1728",
+            "title": "Cat and Mouse II",
+            "slug": "cat-and-mouse-ii",
+            "acceptance": "39.35%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1815",
+            "title": "Maximum Number of Groups Getting Fresh Donuts",
+            "slug": "maximum-number-of-groups-getting-fresh-donuts",
+            "acceptance": "39.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1857",
+            "title": "Largest Color Value in a Directed Graph",
+            "slug": "largest-color-value-in-a-directed-graph",
+            "acceptance": "52.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1900",
+            "title": "The Earliest and Latest Rounds Where Players Compete",
+            "slug": "the-earliest-and-latest-rounds-where-players-compete",
+            "acceptance": "51.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2019",
+            "title": "The Score of Students Solving Math Expression",
+            "slug": "the-score-of-students-solving-math-expression",
+            "acceptance": "33.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2311",
+            "title": "Longest Binary Subsequence Less Than or Equal to K",
+            "slug": "longest-binary-subsequence-less-than-or-equal-to-k",
+            "acceptance": "37.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2312",
+            "title": "Selling Pieces of Wood",
+            "slug": "selling-pieces-of-wood",
+            "acceptance": "48.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2318",
+            "title": "Number of Distinct Roll Sequences",
+            "slug": "number-of-distinct-roll-sequences",
+            "acceptance": "56.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2328",
+            "title": "Number of Increasing Paths in a Grid",
+            "slug": "number-of-increasing-paths-in-a-grid",
+            "acceptance": "47.65%",
+            "difficulty": "Hard"
+        }
+    ]
+}

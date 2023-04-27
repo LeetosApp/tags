@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": "529",
+            "title": "Minesweeper",
+            "slug": "minesweeper",
+            "acceptance": "59.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "575",
+            "title": "Distribute Candies",
+            "slug": "distribute-candies",
+            "acceptance": "61.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "581",
+            "title": "Shortest Unsorted Continuous Subarray",
+            "slug": "shortest-unsorted-continuous-subarray",
+            "acceptance": "31.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "785",
+            "title": "Is Graph Bipartite?",
+            "slug": "is-graph-bipartite",
+            "acceptance": "47.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "594",
+            "title": "Longest Harmonious Subsequence",
+            "slug": "longest-harmonious-subsequence",
+            "acceptance": "46.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "949",
+            "title": "Largest Time for Given Digits",
+            "slug": "largest-time-for-given-digits",
+            "acceptance": "35.8%",
+            "difficulty": "Easy"
+        }
+    ]
+}

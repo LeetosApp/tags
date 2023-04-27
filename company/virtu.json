@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "1243",
+            "title": "Array Transformation",
+            "slug": "array-transformation",
+            "acceptance": "51.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1271",
+            "title": "Hexspeak",
+            "slug": "hexspeak",
+            "acceptance": "54.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1180",
+            "title": "Count Substrings with Only One Distinct Letter",
+            "slug": "count-substrings-with-only-one-distinct-letter",
+            "acceptance": "77.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1196",
+            "title": "How Many Apples Can You Put into the Basket",
+            "slug": "how-many-apples-can-you-put-into-the-basket",
+            "acceptance": "67.9%",
+            "difficulty": "Easy"
+        }
+    ]
+}

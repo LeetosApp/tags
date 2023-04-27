@@ -1,0 +1,95 @@
+{
+    "questions": [
+        {
+            "id": "1296",
+            "title": "Divide Array in Sets of K Consecutive Numbers",
+            "slug": "divide-array-in-sets-of-k-consecutive-numbers",
+            "acceptance": "53.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "759",
+            "title": "Employee Free Time",
+            "slug": "employee-free-time",
+            "acceptance": "66.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "114",
+            "title": "Flatten Binary Tree to Linked List",
+            "slug": "flatten-binary-tree-to-linked-list",
+            "acceptance": "49.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "394",
+            "title": "Decode String",
+            "slug": "decode-string",
+            "acceptance": "50.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "79",
+            "title": "Word Search",
+            "slug": "word-search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "3",
+            "title": "Longest Substring Without Repeating Characters",
+            "slug": "longest-substring-without-repeating-characters",
+            "acceptance": "30.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "78",
+            "title": "Subsets",
+            "slug": "subsets",
+            "acceptance": "62.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "40.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "340",
+            "title": "Longest Substring with At Most K Distinct Characters",
+            "slug": "longest-substring-with-at-most-k-distinct-characters",
+            "acceptance": "44.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "715",
+            "title": "Range Module",
+            "slug": "range-module",
+            "acceptance": "38.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "724",
+            "title": "Find Pivot Index",
+            "slug": "find-pivot-index",
+            "acceptance": "44.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "776",
+            "title": "Split BST",
+            "slug": "split-bst",
+            "acceptance": "55.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

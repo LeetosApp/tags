@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1291",
+            "title": "Sequential Digits",
+            "slug": "sequential-digits",
+            "acceptance": "53.4%",
+            "difficulty": "Medium"
+        }
+    ]
+}

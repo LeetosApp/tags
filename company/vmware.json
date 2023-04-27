@@ -1,0 +1,718 @@
+{
+    "questions": [
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "697",
+            "title": "Degree of an Array",
+            "slug": "degree-of-an-array",
+            "acceptance": "53.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "460",
+            "title": "LFU Cache",
+            "slug": "lfu-cache",
+            "acceptance": "34.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "37",
+            "title": "Sudoku Solver",
+            "slug": "sudoku-solver",
+            "acceptance": "43.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "4",
+            "title": "Median of Two Sorted Arrays",
+            "slug": "median-of-two-sorted-arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "97",
+            "title": "Interleaving String",
+            "slug": "interleaving-string",
+            "acceptance": "31.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "93",
+            "title": "Restore IP Addresses",
+            "slug": "restore-ip-addresses",
+            "acceptance": "35.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1048",
+            "title": "Longest String Chain",
+            "slug": "longest-string-chain",
+            "acceptance": "54.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "75",
+            "title": "Sort Colors",
+            "slug": "sort-colors",
+            "acceptance": "47.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "85",
+            "title": "Maximal Rectangle",
+            "slug": "maximal-rectangle",
+            "acceptance": "37.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "221",
+            "title": "Maximal Square",
+            "slug": "maximal-square",
+            "acceptance": "37.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "76",
+            "title": "Minimum Window Substring",
+            "slug": "minimum-window-substring",
+            "acceptance": "34.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "23",
+            "title": "Merge k Sorted Lists",
+            "slug": "merge-k-sorted-lists",
+            "acceptance": "40.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "322",
+            "title": "Coin Change",
+            "slug": "coin-change",
+            "acceptance": "35.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1328",
+            "title": "Break a Palindrome",
+            "slug": "break-a-palindrome",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "44.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "706",
+            "title": "Design HashMap",
+            "slug": "design-hashmap",
+            "acceptance": "61.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2",
+            "title": "Add Two Numbers",
+            "slug": "add-two-numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "300",
+            "title": "Longest Increasing Subsequence",
+            "slug": "longest-increasing-subsequence",
+            "acceptance": "42.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "609",
+            "title": "Find Duplicate File in System",
+            "slug": "find-duplicate-file-in-system",
+            "acceptance": "59.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "733",
+            "title": "Flood Fill",
+            "slug": "flood-fill",
+            "acceptance": "55.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "243",
+            "title": "Shortest Word Distance",
+            "slug": "shortest-word-distance",
+            "acceptance": "61.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "981",
+            "title": "Time Based Key-Value Store",
+            "slug": "time-based-key-value-store",
+            "acceptance": "53.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "47",
+            "title": "Permutations II",
+            "slug": "permutations-ii",
+            "acceptance": "46.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "206",
+            "title": "Reverse Linked List",
+            "slug": "reverse-linked-list",
+            "acceptance": "62.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "88",
+            "title": "Merge Sorted Array",
+            "slug": "merge-sorted-array",
+            "acceptance": "39.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "17",
+            "title": "Letter Combinations of a Phone Number",
+            "slug": "letter-combinations-of-a-phone-number",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "5",
+            "title": "Longest Palindromic Substring",
+            "slug": "longest-palindromic-substring",
+            "acceptance": "29.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "277",
+            "title": "Find the Celebrity",
+            "slug": "find-the-celebrity",
+            "acceptance": "41.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "116",
+            "title": "Populating Next Right Pointers in Each Node",
+            "slug": "populating-next-right-pointers-in-each-node",
+            "acceptance": "45.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "3",
+            "title": "Longest Substring Without Repeating Characters",
+            "slug": "longest-substring-without-repeating-characters",
+            "acceptance": "30.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "25",
+            "title": "Reverse Nodes in k-Group",
+            "slug": "reverse-nodes-in-k-group",
+            "acceptance": "42.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "297",
+            "title": "Serialize and Deserialize Binary Tree",
+            "slug": "serialize-and-deserialize-binary-tree",
+            "acceptance": "47.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "8",
+            "title": "String to Integer (atoi)",
+            "slug": "string-to-integer-atoi",
+            "acceptance": "15.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "acceptance": "59.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "829",
+            "title": "Consecutive Numbers Sum",
+            "slug": "consecutive-numbers-sum",
+            "acceptance": "37.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "186",
+            "title": "Reverse Words in a String II",
+            "slug": "reverse-words-in-a-string-ii",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "46",
+            "title": "Permutations",
+            "slug": "permutations",
+            "acceptance": "63.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "39",
+            "title": "Combination Sum",
+            "slug": "combination-sum",
+            "acceptance": "56.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "269",
+            "title": "Alien Dictionary",
+            "slug": "alien-dictionary",
+            "acceptance": "33.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "133",
+            "title": "Clone Graph",
+            "slug": "clone-graph",
+            "acceptance": "34.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "238",
+            "title": "Product of Array Except Self",
+            "slug": "product-of-array-except-self",
+            "acceptance": "60.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "698",
+            "title": "Partition to K Equal Sum Subsets",
+            "slug": "partition-to-k-equal-sum-subsets",
+            "acceptance": "45.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "556",
+            "title": "Next Greater Element III",
+            "slug": "next-greater-element-iii",
+            "acceptance": "31.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "98",
+            "title": "Validate Binary Search Tree",
+            "slug": "validate-binary-search-tree",
+            "acceptance": "27.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "341",
+            "title": "Flatten Nested List Iterator",
+            "slug": "flatten-nested-list-iterator",
+            "acceptance": "52.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "525",
+            "title": "Contiguous Array",
+            "slug": "contiguous-array",
+            "acceptance": "42.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "slug": "best-time-to-buy-and-sell-stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "141",
+            "title": "Linked List Cycle",
+            "slug": "linked-list-cycle",
+            "acceptance": "41.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "72",
+            "title": "Edit Distance",
+            "slug": "edit-distance",
+            "acceptance": "44.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "380",
+            "title": "Insert Delete GetRandom O(1)",
+            "slug": "insert-delete-getrandom-o1",
+            "acceptance": "47.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "905",
+            "title": "Sort Array By Parity",
+            "slug": "sort-array-by-parity",
+            "acceptance": "74.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "21",
+            "title": "Merge Two Sorted Lists",
+            "slug": "merge-two-sorted-lists",
+            "acceptance": "53.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "124",
+            "title": "Binary Tree Maximum Path Sum",
+            "slug": "binary-tree-maximum-path-sum",
+            "acceptance": "34.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "150",
+            "title": "Evaluate Reverse Polish Notation",
+            "slug": "evaluate-reverse-polish-notation",
+            "acceptance": "36.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "239",
+            "title": "Sliding Window Maximum",
+            "slug": "sliding-window-maximum",
+            "acceptance": "43.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "55",
+            "title": "Jump Game",
+            "slug": "jump-game",
+            "acceptance": "34.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "26",
+            "title": "Remove Duplicates from Sorted Array",
+            "slug": "remove-duplicates-from-sorted-array",
+            "acceptance": "45.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "268",
+            "title": "Missing Number",
+            "slug": "missing-number",
+            "acceptance": "51.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "62",
+            "title": "Unique Paths",
+            "slug": "unique-paths",
+            "acceptance": "54.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "11",
+            "title": "Container With Most Water",
+            "slug": "container-with-most-water",
+            "acceptance": "50.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "162",
+            "title": "Find Peak Element",
+            "slug": "find-peak-element",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "40.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "127",
+            "title": "Word Ladder",
+            "slug": "word-ladder",
+            "acceptance": "29.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "647",
+            "title": "Palindromic Substrings",
+            "slug": "palindromic-substrings",
+            "acceptance": "60.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1209",
+            "title": "Remove All Adjacent Duplicates in String II",
+            "slug": "remove-all-adjacent-duplicates-in-string-ii",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "102",
+            "title": "Binary Tree Level Order Traversal",
+            "slug": "binary-tree-level-order-traversal",
+            "acceptance": "54.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "113",
+            "title": "Path Sum II",
+            "slug": "path-sum-ii",
+            "acceptance": "46.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "63",
+            "title": "Unique Paths II",
+            "slug": "unique-paths-ii",
+            "acceptance": "34.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "402",
+            "title": "Remove K Digits",
+            "slug": "remove-k-digits",
+            "acceptance": "28.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "977",
+            "title": "Squares of a Sorted Array",
+            "slug": "squares-of-a-sorted-array",
+            "acceptance": "72.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "80",
+            "title": "Remove Duplicates from Sorted Array II",
+            "slug": "remove-duplicates-from-sorted-array-ii",
+            "acceptance": "44.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "109",
+            "title": "Convert Sorted List to Binary Search Tree",
+            "slug": "convert-sorted-list-to-binary-search-tree",
+            "acceptance": "47.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "230",
+            "title": "Kth Smallest Element in a BST",
+            "slug": "kth-smallest-element-in-a-bst",
+            "acceptance": "60.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "304",
+            "title": "Range Sum Query 2D - Immutable",
+            "slug": "range-sum-query-2d-immutable",
+            "acceptance": "38.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "101",
+            "title": "Symmetric Tree",
+            "slug": "symmetric-tree",
+            "acceptance": "46.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "226",
+            "title": "Invert Binary Tree",
+            "slug": "invert-binary-tree",
+            "acceptance": "65.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "287",
+            "title": "Find the Duplicate Number",
+            "slug": "find-the-duplicate-number",
+            "acceptance": "55.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "234",
+            "title": "Palindrome Linked List",
+            "slug": "palindrome-linked-list",
+            "acceptance": "39.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "28",
+            "title": "Implement strStr()",
+            "slug": "implement-strstr",
+            "acceptance": "34.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "50",
+            "title": "Pow(x;n)",
+            "slug": "powx-n",
+            "acceptance": "30.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "416",
+            "title": "Partition Equal Subset Sum",
+            "slug": "partition-equal-subset-sum",
+            "acceptance": "43.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "394",
+            "title": "Decode String",
+            "slug": "decode-string",
+            "acceptance": "50.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "16",
+            "title": "3Sum Closest",
+            "slug": "3sum-closest",
+            "acceptance": "46.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "51.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "36",
+            "title": "Valid Sudoku",
+            "slug": "valid-sudoku",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "19",
+            "title": "Remove Nth Node From End of List",
+            "slug": "remove-nth-node-from-end-of-list",
+            "acceptance": "35.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "151",
+            "title": "Reverse Words in a String",
+            "slug": "reverse-words-in-a-string",
+            "acceptance": "21.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "199",
+            "title": "Binary Tree Right Side View",
+            "slug": "binary-tree-right-side-view",
+            "acceptance": "54.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "621",
+            "title": "Task Scheduler",
+            "slug": "task-scheduler",
+            "acceptance": "50.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "153",
+            "title": "Find Minimum in Rotated Sorted Array",
+            "slug": "find-minimum-in-rotated-sorted-array",
+            "acceptance": "45.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "61.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "79",
+            "title": "Word Search",
+            "slug": "word-search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium"
+        }
+    ]
+}

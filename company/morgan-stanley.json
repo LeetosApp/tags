@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "slug": "best-time-to-buy-and-sell-stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "160",
+            "title": "Intersection of Two Linked Lists",
+            "slug": "intersection-of-two-linked-lists",
+            "acceptance": "40.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "17",
+            "title": "Letter Combinations of a Phone Number",
+            "slug": "letter-combinations-of-a-phone-number",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "242",
+            "title": "Valid Anagram",
+            "slug": "valid-anagram",
+            "acceptance": "56.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "50",
+            "title": "Pow(x;n)",
+            "slug": "powx-n",
+            "acceptance": "30.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "155",
+            "title": "Min Stack",
+            "slug": "min-stack",
+            "acceptance": "44.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1217",
+            "title": "Play with Chips",
+            "slug": "play-with-chips",
+            "acceptance": "64.2%",
+            "difficulty": "Easy"
+        }
+    ]
+}

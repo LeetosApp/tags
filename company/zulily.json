@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1138",
+            "title": "Alphabet Board Path",
+            "slug": "alphabet-board-path",
+            "acceptance": "48.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "242",
+            "title": "Valid Anagram",
+            "slug": "valid-anagram",
+            "acceptance": "56.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "10",
+            "title": "Regular Expression Matching",
+            "slug": "regular-expression-matching",
+            "acceptance": "26.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "387",
+            "title": "First Unique Character in a String",
+            "slug": "first-unique-character-in-a-string",
+            "acceptance": "53.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "4",
+            "title": "Median of Two Sorted Arrays",
+            "slug": "median-of-two-sorted-arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "70",
+            "title": "Climbing Stairs",
+            "slug": "climbing-stairs",
+            "acceptance": "47.8%",
+            "difficulty": "Easy"
+        }
+    ]
+}

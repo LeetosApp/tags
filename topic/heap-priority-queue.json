@@ -1,0 +1,970 @@
+{
+    "questions": [
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "66.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "218",
+            "title": "The Skyline Problem",
+            "slug": "the-skyline-problem",
+            "acceptance": "41.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "239",
+            "title": "Sliding Window Maximum",
+            "slug": "sliding-window-maximum",
+            "acceptance": "46.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "253",
+            "title": "Meeting Rooms II",
+            "slug": "meeting-rooms-ii",
+            "acceptance": "50.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "264",
+            "title": "Ugly Number II",
+            "slug": "ugly-number-ii",
+            "acceptance": "46.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "272",
+            "title": "Closest Binary Search Tree Value II",
+            "slug": "closest-binary-search-tree-value-ii",
+            "acceptance": "58.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "51.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "64.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "355",
+            "title": "Design Twitter",
+            "slug": "design-twitter",
+            "acceptance": "37.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "358",
+            "title": "Rearrange String k Distance Apart",
+            "slug": "rearrange-string-k-distance-apart",
+            "acceptance": "37.79%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "373",
+            "title": "Find K Pairs with Smallest Sums",
+            "slug": "find-k-pairs-with-smallest-sums",
+            "acceptance": "38.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "378",
+            "title": "Kth Smallest Element in a Sorted Matrix",
+            "slug": "kth-smallest-element-in-a-sorted-matrix",
+            "acceptance": "61.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "407",
+            "title": "Trapping Rain Water II",
+            "slug": "trapping-rain-water-ii",
+            "acceptance": "47.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "420",
+            "title": "Strong Password Checker",
+            "slug": "strong-password-checker",
+            "acceptance": "13.77%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "451",
+            "title": "Sort Characters By Frequency",
+            "slug": "sort-characters-by-frequency",
+            "acceptance": "70.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "480",
+            "title": "Sliding Window Median",
+            "slug": "sliding-window-median",
+            "acceptance": "40.98%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "499",
+            "title": "The Maze III",
+            "slug": "the-maze-iii",
+            "acceptance": "47.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "502",
+            "title": "IPO",
+            "slug": "ipo",
+            "acceptance": "49.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "505",
+            "title": "The Maze II",
+            "slug": "the-maze-ii",
+            "acceptance": "52.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "506",
+            "title": "Relative Ranks",
+            "slug": "relative-ranks",
+            "acceptance": "60.77%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "621",
+            "title": "Task Scheduler",
+            "slug": "task-scheduler",
+            "acceptance": "56.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "630",
+            "title": "Course Schedule III",
+            "slug": "course-schedule-iii",
+            "acceptance": "40.15%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "632",
+            "title": "Smallest Range Covering Elements from K Lists",
+            "slug": "smallest-range-covering-elements-from-k-lists",
+            "acceptance": "61.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "658",
+            "title": "Find K Closest Elements",
+            "slug": "find-k-closest-elements",
+            "acceptance": "46.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "659",
+            "title": "Split Array into Consecutive Subsequences",
+            "slug": "split-array-into-consecutive-subsequences",
+            "acceptance": "50.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "675",
+            "title": "Cut Off Trees for Golf Event",
+            "slug": "cut-off-trees-for-golf-event",
+            "acceptance": "34.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "57.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "703",
+            "title": "Kth Largest Element in a Stream",
+            "slug": "kth-largest-element-in-a-stream",
+            "acceptance": "55.46%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "743",
+            "title": "Network Delay Time",
+            "slug": "network-delay-time",
+            "acceptance": "51.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "759",
+            "title": "Employee Free Time",
+            "slug": "employee-free-time",
+            "acceptance": "71.81%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "767",
+            "title": "Reorganize String",
+            "slug": "reorganize-string",
+            "acceptance": "52.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "778",
+            "title": "Swim in Rising Water",
+            "slug": "swim-in-rising-water",
+            "acceptance": "59.81%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "786",
+            "title": "K-th Smallest Prime Fraction",
+            "slug": "k-th-smallest-prime-fraction",
+            "acceptance": "51.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "787",
+            "title": "Cheapest Flights Within K Stops",
+            "slug": "cheapest-flights-within-k-stops",
+            "acceptance": "37.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "855",
+            "title": "Exam Room",
+            "slug": "exam-room",
+            "acceptance": "43.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "857",
+            "title": "Minimum Cost to Hire K Workers",
+            "slug": "minimum-cost-to-hire-k-workers",
+            "acceptance": "52.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "862",
+            "title": "Shortest Subarray with Sum at Least K",
+            "slug": "shortest-subarray-with-sum-at-least-k",
+            "acceptance": "26.01%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "871",
+            "title": "Minimum Number of Refueling Stops",
+            "slug": "minimum-number-of-refueling-stops",
+            "acceptance": "39.79%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "882",
+            "title": "Reachable Nodes In Subdivided Graph",
+            "slug": "reachable-nodes-in-subdivided-graph",
+            "acceptance": "50.04%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "912",
+            "title": "Sort an Array",
+            "slug": "sort-an-array",
+            "acceptance": "59.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "65.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1046",
+            "title": "Last Stone Weight",
+            "slug": "last-stone-weight",
+            "acceptance": "65.47%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1054",
+            "title": "Distant Barcodes",
+            "slug": "distant-barcodes",
+            "acceptance": "45.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1094",
+            "title": "Car Pooling",
+            "slug": "car-pooling",
+            "acceptance": "56.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1102",
+            "title": "Path With Maximum Minimum Value",
+            "slug": "path-with-maximum-minimum-value",
+            "acceptance": "53.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1135",
+            "title": "Connecting Cities With Minimum Cost",
+            "slug": "connecting-cities-with-minimum-cost",
+            "acceptance": "61.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1167",
+            "title": "Minimum Cost to Connect Sticks",
+            "slug": "minimum-cost-to-connect-sticks",
+            "acceptance": "68.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1172",
+            "title": "Dinner Plate Stacks",
+            "slug": "dinner-plate-stacks",
+            "acceptance": "32.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1183",
+            "title": "Maximum Number of Ones",
+            "slug": "maximum-number-of-ones",
+            "acceptance": "61.35%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1199",
+            "title": "Minimum Time to Build Blocks",
+            "slug": "minimum-time-to-build-blocks",
+            "acceptance": "41.03%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1263",
+            "title": "Minimum Moves to Move a Box to Their Target Location",
+            "slug": "minimum-moves-to-move-a-box-to-their-target-location",
+            "acceptance": "48.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1337",
+            "title": "The K Weakest Rows in a Matrix",
+            "slug": "the-k-weakest-rows-in-a-matrix",
+            "acceptance": "72.02%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1338",
+            "title": "Reduce Array Size to The Half",
+            "slug": "reduce-array-size-to-the-half",
+            "acceptance": "69.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1353",
+            "title": "Maximum Number of Events That Can Be Attended",
+            "slug": "maximum-number-of-events-that-can-be-attended",
+            "acceptance": "32.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1354",
+            "title": "Construct Target Array With Multiple Sums",
+            "slug": "construct-target-array-with-multiple-sums",
+            "acceptance": "36.26%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1368",
+            "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+            "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+            "acceptance": "61.62%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1383",
+            "title": "Maximum Performance of a Team",
+            "slug": "maximum-performance-of-a-team",
+            "acceptance": "48.45%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1388",
+            "title": "Pizza With 3n Slices",
+            "slug": "pizza-with-3n-slices",
+            "acceptance": "50.28%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1405",
+            "title": "Longest Happy String",
+            "slug": "longest-happy-string",
+            "acceptance": "57.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1424",
+            "title": "Diagonal Traverse II",
+            "slug": "diagonal-traverse-ii",
+            "acceptance": "50.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1425",
+            "title": "Constrained Subsequence Sum",
+            "slug": "constrained-subsequence-sum",
+            "acceptance": "47.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1438",
+            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+            "acceptance": "48.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1439",
+            "title": "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
+            "slug": "find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+            "acceptance": "61.42%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1464",
+            "title": "Maximum Product of Two Elements in an Array",
+            "slug": "maximum-product-of-two-elements-in-an-array",
+            "acceptance": "80.05%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1488",
+            "title": "Avoid Flood in The City",
+            "slug": "avoid-flood-in-the-city",
+            "acceptance": "26.47%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1499",
+            "title": "Max Value of Equation",
+            "slug": "max-value-of-equation",
+            "acceptance": "45.55%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1500",
+            "title": "Design a File Sharing System",
+            "slug": "design-a-file-sharing-system",
+            "acceptance": "44.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1514",
+            "title": "Path with Maximum Probability",
+            "slug": "path-with-maximum-probability",
+            "acceptance": "48.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1606",
+            "title": "Find Servers That Handled Most Number of Requests",
+            "slug": "find-servers-that-handled-most-number-of-requests",
+            "acceptance": "43.06%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1631",
+            "title": "Path With Minimum Effort",
+            "slug": "path-with-minimum-effort",
+            "acceptance": "55.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1642",
+            "title": "Furthest Building You Can Reach",
+            "slug": "furthest-building-you-can-reach",
+            "acceptance": "48.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1648",
+            "title": "Sell Diminishing-Valued Colored Balls",
+            "slug": "sell-diminishing-valued-colored-balls",
+            "acceptance": "30.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1675",
+            "title": "Minimize Deviation in Array",
+            "slug": "minimize-deviation-in-array",
+            "acceptance": "54.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1686",
+            "title": "Stone Game VI",
+            "slug": "stone-game-vi",
+            "acceptance": "54.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1687",
+            "title": "Delivering Boxes from Storage to Ports",
+            "slug": "delivering-boxes-from-storage-to-ports",
+            "acceptance": "38.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1696",
+            "title": "Jump Game VI",
+            "slug": "jump-game-vi",
+            "acceptance": "46.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1705",
+            "title": "Maximum Number of Eaten Apples",
+            "slug": "maximum-number-of-eaten-apples",
+            "acceptance": "37.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1738",
+            "title": "Find Kth Largest XOR Coordinate Value",
+            "slug": "find-kth-largest-xor-coordinate-value",
+            "acceptance": "61.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1753",
+            "title": "Maximum Score From Removing Stones",
+            "slug": "maximum-score-from-removing-stones",
+            "acceptance": "66.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1776",
+            "title": "Car Fleet II",
+            "slug": "car-fleet-ii",
+            "acceptance": "53.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1786",
+            "title": "Number of Restricted Paths From First to Last Node",
+            "slug": "number-of-restricted-paths-from-first-to-last-node",
+            "acceptance": "39.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1792",
+            "title": "Maximum Average Pass Ratio",
+            "slug": "maximum-average-pass-ratio",
+            "acceptance": "52.47%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1801",
+            "title": "Number of Orders in the Backlog",
+            "slug": "number-of-orders-in-the-backlog",
+            "acceptance": "48.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1810",
+            "title": "Minimum Path Cost in a Hidden Grid",
+            "slug": "minimum-path-cost-in-a-hidden-grid",
+            "acceptance": "54.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1825",
+            "title": "Finding MK Average",
+            "slug": "finding-mk-average",
+            "acceptance": "35.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1834",
+            "title": "Single-Threaded CPU",
+            "slug": "single-threaded-cpu",
+            "acceptance": "45.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1845",
+            "title": "Seat Reservation Manager",
+            "slug": "seat-reservation-manager",
+            "acceptance": "65.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1851",
+            "title": "Minimum Interval to Include Each Query",
+            "slug": "minimum-interval-to-include-each-query",
+            "acceptance": "48.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1878",
+            "title": "Get Biggest Three Rhombus Sums in a Grid",
+            "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+            "acceptance": "47.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1882",
+            "title": "Process Tasks Using Servers",
+            "slug": "process-tasks-using-servers",
+            "acceptance": "39.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1912",
+            "title": "Design Movie Rental System",
+            "slug": "design-movie-rental-system",
+            "acceptance": "39.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1942",
+            "title": "The Number of the Smallest Unoccupied Chair",
+            "slug": "the-number-of-the-smallest-unoccupied-chair",
+            "acceptance": "40.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1962",
+            "title": "Remove Stones to Minimize the Total",
+            "slug": "remove-stones-to-minimize-the-total",
+            "acceptance": "60.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1985",
+            "title": "Find the Kth Largest Integer in the Array",
+            "slug": "find-the-kth-largest-integer-in-the-array",
+            "acceptance": "44.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2015",
+            "title": "Average Height of Buildings in Each Segment",
+            "slug": "average-height-of-buildings-in-each-segment",
+            "acceptance": "58.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2034",
+            "title": "Stock Price Fluctuation ",
+            "slug": "stock-price-fluctuation",
+            "acceptance": "48.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2054",
+            "title": "Two Best Non-Overlapping Events",
+            "slug": "two-best-non-overlapping-events",
+            "acceptance": "45.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2099",
+            "title": "Find Subsequence of Length K With the Largest Sum",
+            "slug": "find-subsequence-of-length-k-with-the-largest-sum",
+            "acceptance": "42.87%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2102",
+            "title": "Sequentially Ordinal Rank Tracker",
+            "slug": "sequentially-ordinal-rank-tracker",
+            "acceptance": "65.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2146",
+            "title": "K Highest Ranked Items Within a Price Range",
+            "slug": "k-highest-ranked-items-within-a-price-range",
+            "acceptance": "41.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2163",
+            "title": "Minimum Difference in Sums After Removal of Elements",
+            "slug": "minimum-difference-in-sums-after-removal-of-elements",
+            "acceptance": "47.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2182",
+            "title": "Construct String With Repeat Limit",
+            "slug": "construct-string-with-repeat-limit",
+            "acceptance": "52.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2208",
+            "title": "Minimum Operations to Halve Array Sum",
+            "slug": "minimum-operations-to-halve-array-sum",
+            "acceptance": "45.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2231",
+            "title": "Largest Number After Digit Swaps by Parity",
+            "slug": "largest-number-after-digit-swaps-by-parity",
+            "acceptance": "60.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2233",
+            "title": "Maximum Product After K Increments",
+            "slug": "maximum-product-after-k-increments",
+            "acceptance": "41.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2285",
+            "title": "Maximum Total Importance of Roads",
+            "slug": "maximum-total-importance-of-roads",
+            "acceptance": "60.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2290",
+            "title": "Minimum Obstacle Removal to Reach Corner",
+            "slug": "minimum-obstacle-removal-to-reach-corner",
+            "acceptance": "49.71%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2333",
+            "title": "Minimum Sum of Squared Difference",
+            "slug": "minimum-sum-of-squared-difference",
+            "acceptance": "25.45%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2335",
+            "title": "Minimum Amount of Time to Fill Cups",
+            "slug": "minimum-amount-of-time-to-fill-cups",
+            "acceptance": "56.48%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2336",
+            "title": "Smallest Number in Infinite Set",
+            "slug": "smallest-number-in-infinite-set",
+            "acceptance": "75.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2342",
+            "title": "Max Sum of a Pair With Equal Sum of Digits",
+            "slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+            "acceptance": "53.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2343",
+            "title": "Query Kth Smallest Trimmed Number",
+            "slug": "query-kth-smallest-trimmed-number",
+            "acceptance": "41.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2344",
+            "title": "Minimum Deletions to Make Array Divisible",
+            "slug": "minimum-deletions-to-make-array-divisible",
+            "acceptance": "56.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2349",
+            "title": "Design a Number Container System",
+            "slug": "design-a-number-container-system",
+            "acceptance": "45.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2353",
+            "title": "Design a Food Rating System",
+            "slug": "design-a-food-rating-system",
+            "acceptance": "34.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2357",
+            "title": "Make Array Zero by Subtracting Equal Amounts",
+            "slug": "make-array-zero-by-subtracting-equal-amounts",
+            "acceptance": "72.44%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2386",
+            "title": "Find the K-Sum of an Array",
+            "slug": "find-the-k-sum-of-an-array",
+            "acceptance": "38.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2398",
+            "title": "Maximum Number of Robots Within Budget",
+            "slug": "maximum-number-of-robots-within-budget",
+            "acceptance": "33.09%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2402",
+            "title": "Meeting Rooms III",
+            "slug": "meeting-rooms-iii",
+            "acceptance": "33.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2406",
+            "title": "Divide Intervals Into Minimum Number of Groups",
+            "slug": "divide-intervals-into-minimum-number-of-groups",
+            "acceptance": "46.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2424",
+            "title": "Longest Uploaded Prefix",
+            "slug": "longest-uploaded-prefix",
+            "acceptance": "54.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2454",
+            "title": "Next Greater Element IV",
+            "slug": "next-greater-element-iv",
+            "acceptance": "39.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2456",
+            "title": "Most Popular Video Creator",
+            "slug": "most-popular-video-creator",
+            "acceptance": "43.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2462",
+            "title": "Total Cost to Hire K Workers",
+            "slug": "total-cost-to-hire-k-workers",
+            "acceptance": "37.34%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2473",
+            "title": "Minimum Cost to Buy Apples",
+            "slug": "minimum-cost-to-buy-apples",
+            "acceptance": "62.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2497",
+            "title": "Maximum Star Sum of a Graph",
+            "slug": "maximum-star-sum-of-a-graph",
+            "acceptance": "38.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2503",
+            "title": "Maximum Number of Points From Grid Queries",
+            "slug": "maximum-number-of-points-from-grid-queries",
+            "acceptance": "36.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2512",
+            "title": "Reward Top K Students",
+            "slug": "reward-top-k-students",
+            "acceptance": "46.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2530",
+            "title": "Maximal Score After Applying K Operations",
+            "slug": "maximal-score-after-applying-k-operations",
+            "acceptance": "43.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2532",
+            "title": "Time to Cross a Bridge",
+            "slug": "time-to-cross-a-bridge",
+            "acceptance": "52.06%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2542",
+            "title": "Maximum Subsequence Score",
+            "slug": "maximum-subsequence-score",
+            "acceptance": "38.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2551",
+            "title": "Put Marbles in Bags",
+            "slug": "put-marbles-in-bags",
+            "acceptance": "52.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2558",
+            "title": "Take Gifts From the Richest Pile",
+            "slug": "take-gifts-from-the-richest-pile",
+            "acceptance": "66.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2577",
+            "title": "Minimum Time to Visit a Cell In a Grid",
+            "slug": "minimum-time-to-visit-a-cell-in-a-grid",
+            "acceptance": "34.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2593",
+            "title": "Find Score of an Array After Marking All Elements",
+            "slug": "find-score-of-an-array-after-marking-all-elements",
+            "acceptance": "53.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2599",
+            "title": "Make the Prefix Sum Non-negative",
+            "slug": "make-the-prefix-sum-non-negative",
+            "acceptance": "51.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2611",
+            "title": "Mice and Cheese",
+            "slug": "mice-and-cheese",
+            "acceptance": "42.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2642",
+            "title": "Design Graph With Shortest Path Calculator",
+            "slug": "design-graph-with-shortest-path-calculator",
+            "acceptance": "56.32%",
+            "difficulty": "Hard"
+        }
+    ]
+}

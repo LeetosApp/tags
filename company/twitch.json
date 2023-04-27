@@ -1,0 +1,102 @@
+{
+    "questions": [
+        {
+            "id": "828",
+            "title": "Count Unique Characters of All Substrings of a Given String",
+            "slug": "count-unique-characters-of-all-substrings-of-a-given-string",
+            "acceptance": "45.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "695",
+            "title": "Max Area of Island",
+            "slug": "max-area-of-island",
+            "acceptance": "62.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "723",
+            "title": "Candy Crush",
+            "slug": "candy-crush",
+            "acceptance": "69.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "977",
+            "title": "Squares of a Sorted Array",
+            "slug": "squares-of-a-sorted-array",
+            "acceptance": "72.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "767",
+            "title": "Reorganize String",
+            "slug": "reorganize-string",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "3",
+            "title": "Longest Substring Without Repeating Characters",
+            "slug": "longest-substring-without-repeating-characters",
+            "acceptance": "30.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1230",
+            "title": "Toss Strange Coins",
+            "slug": "toss-strange-coins",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1435",
+            "title": "Create a Session Bar Chart",
+            "slug": "create-a-session-bar-chart",
+            "acceptance": "76.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1500",
+            "title": "Design a File Sharing System",
+            "slug": "design-a-file-sharing-system",
+            "acceptance": "45.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

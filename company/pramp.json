@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1229",
+            "title": "Meeting Scheduler",
+            "slug": "meeting-scheduler",
+            "acceptance": "52.7%",
+            "difficulty": "Medium"
+        }
+    ]
+}

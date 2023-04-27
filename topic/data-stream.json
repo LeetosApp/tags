@@ -1,0 +1,123 @@
+{
+    "questions": [
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "51.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "346",
+            "title": "Moving Average from Data Stream",
+            "slug": "moving-average-from-data-stream",
+            "acceptance": "77.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "642",
+            "title": "Design Search Autocomplete System",
+            "slug": "design-search-autocomplete-system",
+            "acceptance": "48.62%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "703",
+            "title": "Kth Largest Element in a Stream",
+            "slug": "kth-largest-element-in-a-stream",
+            "acceptance": "55.46%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "901",
+            "title": "Online Stock Span",
+            "slug": "online-stock-span",
+            "acceptance": "65.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "933",
+            "title": "Number of Recent Calls",
+            "slug": "number-of-recent-calls",
+            "acceptance": "73.17%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1032",
+            "title": "Stream of Characters",
+            "slug": "stream-of-characters",
+            "acceptance": "51.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1352",
+            "title": "Product of the Last K Numbers",
+            "slug": "product-of-the-last-k-numbers",
+            "acceptance": "50.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1429",
+            "title": "First Unique Number",
+            "slug": "first-unique-number",
+            "acceptance": "53.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1472",
+            "title": "Design Browser History",
+            "slug": "design-browser-history",
+            "acceptance": "78.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1500",
+            "title": "Design a File Sharing System",
+            "slug": "design-a-file-sharing-system",
+            "acceptance": "44.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1656",
+            "title": "Design an Ordered Stream",
+            "slug": "design-an-ordered-stream",
+            "acceptance": "85.05%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1670",
+            "title": "Design Front Middle Back Queue",
+            "slug": "design-front-middle-back-queue",
+            "acceptance": "57.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1825",
+            "title": "Finding MK Average",
+            "slug": "finding-mk-average",
+            "acceptance": "35.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2034",
+            "title": "Stock Price Fluctuation ",
+            "slug": "stock-price-fluctuation",
+            "acceptance": "48.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2102",
+            "title": "Sequentially Ordinal Rank Tracker",
+            "slug": "sequentially-ordinal-rank-tracker",
+            "acceptance": "65.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2526",
+            "title": "Find Consecutive Integers from a Data Stream",
+            "slug": "find-consecutive-integers-from-a-data-stream",
+            "acceptance": "45.56%",
+            "difficulty": "Medium"
+        }
+    ]
+}

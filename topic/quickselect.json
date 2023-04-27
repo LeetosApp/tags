@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "id": "324",
+            "title": "Wiggle Sort II",
+            "slug": "wiggle-sort-ii",
+            "acceptance": "33.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "64.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "65.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1738",
+            "title": "Find Kth Largest XOR Coordinate Value",
+            "slug": "find-kth-largest-xor-coordinate-value",
+            "acceptance": "61.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1985",
+            "title": "Find the Kth Largest Integer in the Array",
+            "slug": "find-the-kth-largest-integer-in-the-array",
+            "acceptance": "44.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2343",
+            "title": "Query Kth Smallest Trimmed Number",
+            "slug": "query-kth-smallest-trimmed-number",
+            "acceptance": "41.36%",
+            "difficulty": "Medium"
+        }
+    ]
+}

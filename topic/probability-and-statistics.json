@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "id": "808",
+            "title": "Soup Servings",
+            "slug": "soup-servings",
+            "acceptance": "43.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "837",
+            "title": "New 21 Game",
+            "slug": "new-21-game",
+            "acceptance": "36.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1093",
+            "title": "Statistics from a Large Sample",
+            "slug": "statistics-from-a-large-sample",
+            "acceptance": "43.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1227",
+            "title": "Airplane Seat Assignment Probability",
+            "slug": "airplane-seat-assignment-probability",
+            "acceptance": "65.61%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1230",
+            "title": "Toss Strange Coins",
+            "slug": "toss-strange-coins",
+            "acceptance": "54.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1467",
+            "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+            "slug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+            "acceptance": "60.52%",
+            "difficulty": "Hard"
+        }
+    ]
+}

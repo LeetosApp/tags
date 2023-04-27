@@ -1,0 +1,158 @@
+{
+    "questions": [
+        {
+            "id": "202",
+            "title": "Happy Number",
+            "slug": "happy-number",
+            "acceptance": "50.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "322",
+            "title": "Coin Change",
+            "slug": "coin-change",
+            "acceptance": "35.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "slug": "best-time-to-buy-and-sell-stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1328",
+            "title": "Break a Palindrome",
+            "slug": "break-a-palindrome",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "31",
+            "title": "Next Permutation",
+            "slug": "next-permutation",
+            "acceptance": "32.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "273",
+            "title": "Integer to English Words",
+            "slug": "integer-to-english-words",
+            "acceptance": "27.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "9",
+            "title": "Palindrome Number",
+            "slug": "palindrome-number",
+            "acceptance": "48.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "7",
+            "title": "Reverse Integer",
+            "slug": "reverse-integer",
+            "acceptance": "25.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "17",
+            "title": "Letter Combinations of a Phone Number",
+            "slug": "letter-combinations-of-a-phone-number",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "5",
+            "title": "Longest Palindromic Substring",
+            "slug": "longest-palindromic-substring",
+            "acceptance": "29.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "4",
+            "title": "Median of Two Sorted Arrays",
+            "slug": "median-of-two-sorted-arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "349",
+            "title": "Intersection of Two Arrays",
+            "slug": "intersection-of-two-arrays",
+            "acceptance": "62.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "79",
+            "title": "Word Search",
+            "slug": "word-search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "39",
+            "title": "Combination Sum",
+            "slug": "combination-sum",
+            "acceptance": "56.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "387",
+            "title": "First Unique Character in a String",
+            "slug": "first-unique-character-in-a-string",
+            "acceptance": "53.4%",
+            "difficulty": "Easy"
+        }
+    ]
+}

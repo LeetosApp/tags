@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1124",
+            "title": "Longest Well-Performing Interval",
+            "slug": "longest-well-performing-interval",
+            "acceptance": "32.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1540",
+            "title": "Can Convert String in K Moves",
+            "slug": "can-convert-string-in-k-moves",
+            "acceptance": "27.2%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "questions": [
+        {
+            "id": "258",
+            "title": "Add Digits",
+            "slug": "add-digits",
+            "acceptance": "65.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "858",
+            "title": "Mirror Reflection",
+            "slug": "mirror-reflection",
+            "acceptance": "63.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "914",
+            "title": "X of a Kind in a Deck of Cards",
+            "slug": "x-of-a-kind-in-a-deck-of-cards",
+            "acceptance": "31.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1201",
+            "title": "Ugly Number III",
+            "slug": "ugly-number-iii",
+            "acceptance": "28.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1250",
+            "title": "Check If It Is a Good Array",
+            "slug": "check-if-it-is-a-good-array",
+            "acceptance": "58.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1447",
+            "title": "Simplified Fractions",
+            "slug": "simplified-fractions",
+            "acceptance": "65.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1492",
+            "title": "The kth Factor of n",
+            "slug": "the-kth-factor-of-n",
+            "acceptance": "62.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1735",
+            "title": "Count Ways to Make Array With Product",
+            "slug": "count-ways-to-make-array-with-product",
+            "acceptance": "49.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1799",
+            "title": "Maximize Score After N Operations",
+            "slug": "maximize-score-after-n-operations",
+            "acceptance": "46.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1819",
+            "title": "Number of Different Subsequences GCDs",
+            "slug": "number-of-different-subsequences-gcds",
+            "acceptance": "39.05%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1979",
+            "title": "Find Greatest Common Divisor of Array",
+            "slug": "find-greatest-common-divisor-of-array",
+            "acceptance": "76.99%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2001",
+            "title": "Number of Pairs of Interchangeable Rectangles",
+            "slug": "number-of-pairs-of-interchangeable-rectangles",
+            "acceptance": "46.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2183",
+            "title": "Count Array Pairs Divisible by K",
+            "slug": "count-array-pairs-divisible-by-k",
+            "acceptance": "28.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2197",
+            "title": "Replace Non-Coprime Numbers in Array",
+            "slug": "replace-non-coprime-numbers-in-array",
+            "acceptance": "38.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2280",
+            "title": "Minimum Lines to Represent a Line Chart",
+            "slug": "minimum-lines-to-represent-a-line-chart",
+            "acceptance": "24.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2338",
+            "title": "Count the Number of Ideal Arrays",
+            "slug": "count-the-number-of-ideal-arrays",
+            "acceptance": "26.25%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2344",
+            "title": "Minimum Deletions to Make Array Divisible",
+            "slug": "minimum-deletions-to-make-array-divisible",
+            "acceptance": "56.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2413",
+            "title": "Smallest Even Multiple",
+            "slug": "smallest-even-multiple",
+            "acceptance": "87.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2427",
+            "title": "Number of Common Factors",
+            "slug": "number-of-common-factors",
+            "acceptance": "79.45%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2436",
+            "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+            "slug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+            "acceptance": "73.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2447",
+            "title": "Number of Subarrays With GCD Equal to K",
+            "slug": "number-of-subarrays-with-gcd-equal-to-k",
+            "acceptance": "48.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2464",
+            "title": "Minimum Subarrays in a Valid Split",
+            "slug": "minimum-subarrays-in-a-valid-split",
+            "acceptance": "55.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2470",
+            "title": "Number of Subarrays With LCM Equal to K",
+            "slug": "number-of-subarrays-with-lcm-equal-to-k",
+            "acceptance": "38.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2507",
+            "title": "Smallest Value After Replacing With Sum of Prime Factors",
+            "slug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+            "acceptance": "48.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2513",
+            "title": "Minimize the Maximum of Two Arrays",
+            "slug": "minimize-the-maximum-of-two-arrays",
+            "acceptance": "26.45%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2521",
+            "title": "Distinct Prime Factors of Product of Array",
+            "slug": "distinct-prime-factors-of-product-of-array",
+            "acceptance": "50.21%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2523",
+            "title": "Closest Prime Numbers in Range",
+            "slug": "closest-prime-numbers-in-range",
+            "acceptance": "36.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2543",
+            "title": "Check if Point Is Reachable",
+            "slug": "check-if-point-is-reachable",
+            "acceptance": "42.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2584",
+            "title": "Split the Array to Make Coprime Products",
+            "slug": "split-the-array-to-make-coprime-products",
+            "acceptance": "21.96%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2601",
+            "title": "Prime Subtraction Operation",
+            "slug": "prime-subtraction-operation",
+            "acceptance": "36.81%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2607",
+            "title": "Make K-Subarray Sums Equal",
+            "slug": "make-k-subarray-sums-equal",
+            "acceptance": "32.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2614",
+            "title": "Prime In Diagonal",
+            "slug": "prime-in-diagonal",
+            "acceptance": "32.43%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2652",
+            "title": "Sum Multiples",
+            "slug": "sum-multiples",
+            "acceptance": "85.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2654",
+            "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+            "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+            "acceptance": "34.78%",
+            "difficulty": "Medium"
+        }
+    ]
+}

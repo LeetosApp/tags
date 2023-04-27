@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "id": "592",
+            "title": "Fraction Addition and Subtraction",
+            "slug": "fraction-addition-and-subtraction",
+            "acceptance": "49.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "691",
+            "title": "Stickers to Spell Word",
+            "slug": "stickers-to-spell-word",
+            "acceptance": "42.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "598",
+            "title": "Range Addition II",
+            "slug": "range-addition-ii",
+            "acceptance": "49.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "634",
+            "title": "Find the Derangement of An Array",
+            "slug": "find-the-derangement-of-an-array",
+            "acceptance": "40.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "166",
+            "title": "Fraction to Recurring Decimal",
+            "slug": "fraction-to-recurring-decimal",
+            "acceptance": "21.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "697",
+            "title": "Degree of an Array",
+            "slug": "degree-of-an-array",
+            "acceptance": "53.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "717",
+            "title": "1-bit and 2-bit Characters",
+            "slug": "1-bit-and-2-bit-characters",
+            "acceptance": "48.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "14",
+            "title": "Longest Common Prefix",
+            "slug": "longest-common-prefix",
+            "acceptance": "35.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "945",
+            "title": "Minimum Increment to Make Array Unique",
+            "slug": "minimum-increment-to-make-array-unique",
+            "acceptance": "46.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "234",
+            "title": "Palindrome Linked List",
+            "slug": "palindrome-linked-list",
+            "acceptance": "39.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "23",
+            "title": "Merge k Sorted Lists",
+            "slug": "merge-k-sorted-lists",
+            "acceptance": "40.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "227",
+            "title": "Basic Calculator II",
+            "slug": "basic-calculator-ii",
+            "acceptance": "36.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "518",
+            "title": "Coin Change 2",
+            "slug": "coin-change-2",
+            "acceptance": "50.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "162",
+            "title": "Find Peak Element",
+            "slug": "find-peak-element",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        }
+    ]
+}

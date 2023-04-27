@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "478",
+            "title": "Generate Random Point in a Circle",
+            "slug": "generate-random-point-in-a-circle",
+            "acceptance": "39.56%",
+            "difficulty": "Medium"
+        }
+    ]
+}

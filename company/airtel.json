@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1310",
+            "title": "XOR Queries of a Subarray",
+            "slug": "xor-queries-of-a-subarray",
+            "acceptance": "68.7%",
+            "difficulty": "Medium"
+        }
+    ]
+}

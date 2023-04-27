@@ -1,0 +1,193 @@
+{
+    "questions": [
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "695",
+            "title": "Max Area of Island",
+            "slug": "max-area-of-island",
+            "acceptance": "62.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "449",
+            "title": "Serialize and Deserialize BST",
+            "slug": "serialize-and-deserialize-bst",
+            "acceptance": "52.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "42",
+            "title": "Trapping Rain Water",
+            "slug": "trapping-rain-water",
+            "acceptance": "48.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "127",
+            "title": "Word Ladder",
+            "slug": "word-ladder",
+            "acceptance": "29.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "173",
+            "title": "Binary Search Tree Iterator",
+            "slug": "binary-search-tree-iterator",
+            "acceptance": "56.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "138",
+            "title": "Copy List with Random Pointer",
+            "slug": "copy-list-with-random-pointer",
+            "acceptance": "36.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "40.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1041",
+            "title": "Robot Bounded In Circle",
+            "slug": "robot-bounded-in-circle",
+            "acceptance": "49.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "733",
+            "title": "Flood Fill",
+            "slug": "flood-fill",
+            "acceptance": "55.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "13",
+            "title": "Roman to Integer",
+            "slug": "roman-to-integer",
+            "acceptance": "55.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "103",
+            "title": "Binary Tree Zigzag Level Order Traversal",
+            "slug": "binary-tree-zigzag-level-order-traversal",
+            "acceptance": "48.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "119",
+            "title": "Pascal's Triangle II",
+            "slug": "pascals-triangle-ii",
+            "acceptance": "49.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "332",
+            "title": "Reconstruct Itinerary",
+            "slug": "reconstruct-itinerary",
+            "acceptance": "36.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "722",
+            "title": "Remove Comments",
+            "slug": "remove-comments",
+            "acceptance": "34.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "729",
+            "title": "My Calendar I",
+            "slug": "my-calendar-i",
+            "acceptance": "51.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "208",
+            "title": "Implement Trie (Prefix Tree)",
+            "slug": "implement-trie-prefix-tree",
+            "acceptance": "49.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "131",
+            "title": "Palindrome Partitioning",
+            "slug": "palindrome-partitioning",
+            "acceptance": "47.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "297",
+            "title": "Serialize and Deserialize Binary Tree",
+            "slug": "serialize-and-deserialize-binary-tree",
+            "acceptance": "47.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "767",
+            "title": "Reorganize String",
+            "slug": "reorganize-string",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "543",
+            "title": "Diameter of Binary Tree",
+            "slug": "diameter-of-binary-tree",
+            "acceptance": "48.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "69",
+            "title": "Sqrt(x)",
+            "slug": "sqrtx",
+            "acceptance": "33.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "44.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "238",
+            "title": "Product of Array Except Self",
+            "slug": "product-of-array-except-self",
+            "acceptance": "60.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "34",
+            "title": "Find First and Last Position of Element in Sorted Array",
+            "slug": "find-first-and-last-position-of-element-in-sorted-array",
+            "acceptance": "36.2%",
+            "difficulty": "Medium"
+        }
+    ]
+}

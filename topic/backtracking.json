@@ -1,0 +1,662 @@
+{
+    "questions": [
+        {
+            "id": "22",
+            "title": "Generate Parentheses",
+            "slug": "generate-parentheses",
+            "acceptance": "72.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "37",
+            "title": "Sudoku Solver",
+            "slug": "sudoku-solver",
+            "acceptance": "57.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "39",
+            "title": "Combination Sum",
+            "slug": "combination-sum",
+            "acceptance": "68.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "40",
+            "title": "Combination Sum II",
+            "slug": "combination-sum-ii",
+            "acceptance": "53.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "46",
+            "title": "Permutations",
+            "slug": "permutations",
+            "acceptance": "75.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "47",
+            "title": "Permutations II",
+            "slug": "permutations-ii",
+            "acceptance": "57.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "51",
+            "title": "N-Queens",
+            "slug": "n-queens",
+            "acceptance": "64.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "52",
+            "title": "N-Queens II",
+            "slug": "n-queens-ii",
+            "acceptance": "71.69%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "77",
+            "title": "Combinations",
+            "slug": "combinations",
+            "acceptance": "67.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "78",
+            "title": "Subsets",
+            "slug": "subsets",
+            "acceptance": "75.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "79",
+            "title": "Word Search",
+            "slug": "word-search",
+            "acceptance": "40.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "89",
+            "title": "Gray Code",
+            "slug": "gray-code",
+            "acceptance": "57.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "90",
+            "title": "Subsets II",
+            "slug": "subsets-ii",
+            "acceptance": "55.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "93",
+            "title": "Restore IP Addresses",
+            "slug": "restore-ip-addresses",
+            "acceptance": "47.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "95",
+            "title": "Unique Binary Search Trees II",
+            "slug": "unique-binary-search-trees-ii",
+            "acceptance": "52.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "113",
+            "title": "Path Sum II",
+            "slug": "path-sum-ii",
+            "acceptance": "57.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "126",
+            "title": "Word Ladder II",
+            "slug": "word-ladder-ii",
+            "acceptance": "27.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "131",
+            "title": "Palindrome Partitioning",
+            "slug": "palindrome-partitioning",
+            "acceptance": "64.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "140",
+            "title": "Word Break II",
+            "slug": "word-break-ii",
+            "acceptance": "45.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "212",
+            "title": "Word Search II",
+            "slug": "word-search-ii",
+            "acceptance": "36.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "216",
+            "title": "Combination Sum III",
+            "slug": "combination-sum-iii",
+            "acceptance": "67.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "254",
+            "title": "Factor Combinations",
+            "slug": "factor-combinations",
+            "acceptance": "49.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "257",
+            "title": "Binary Tree Paths",
+            "slug": "binary-tree-paths",
+            "acceptance": "61.53%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "267",
+            "title": "Palindrome Permutation II",
+            "slug": "palindrome-permutation-ii",
+            "acceptance": "40.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "282",
+            "title": "Expression Add Operators",
+            "slug": "expression-add-operators",
+            "acceptance": "39.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "291",
+            "title": "Word Pattern II",
+            "slug": "word-pattern-ii",
+            "acceptance": "47.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "294",
+            "title": "Flip Game II",
+            "slug": "flip-game-ii",
+            "acceptance": "51.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "301",
+            "title": "Remove Invalid Parentheses",
+            "slug": "remove-invalid-parentheses",
+            "acceptance": "47.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "306",
+            "title": "Additive Number",
+            "slug": "additive-number",
+            "acceptance": "31.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "320",
+            "title": "Generalized Abbreviation",
+            "slug": "generalized-abbreviation",
+            "acceptance": "57.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "351",
+            "title": "Android Unlock Patterns",
+            "slug": "android-unlock-patterns",
+            "acceptance": "51.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "357",
+            "title": "Count Numbers with Unique Digits",
+            "slug": "count-numbers-with-unique-digits",
+            "acceptance": "51.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "401",
+            "title": "Binary Watch",
+            "slug": "binary-watch",
+            "acceptance": "52.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "411",
+            "title": "Minimum Unique Word Abbreviation",
+            "slug": "minimum-unique-word-abbreviation",
+            "acceptance": "39.46%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "425",
+            "title": "Word Squares",
+            "slug": "word-squares",
+            "acceptance": "52.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "465",
+            "title": "Optimal Account Balancing",
+            "slug": "optimal-account-balancing",
+            "acceptance": "49.18%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "473",
+            "title": "Matchsticks to Square",
+            "slug": "matchsticks-to-square",
+            "acceptance": "40.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "489",
+            "title": "Robot Room Cleaner",
+            "slug": "robot-room-cleaner",
+            "acceptance": "76.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "491",
+            "title": "Non-decreasing Subsequences",
+            "slug": "non-decreasing-subsequences",
+            "acceptance": "60.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "494",
+            "title": "Target Sum",
+            "slug": "target-sum",
+            "acceptance": "45.69%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "526",
+            "title": "Beautiful Arrangement",
+            "slug": "beautiful-arrangement",
+            "acceptance": "64.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "638",
+            "title": "Shopping Offers",
+            "slug": "shopping-offers",
+            "acceptance": "53.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "679",
+            "title": "24 Game",
+            "slug": "24-game",
+            "acceptance": "49.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "691",
+            "title": "Stickers to Spell Word",
+            "slug": "stickers-to-spell-word",
+            "acceptance": "46.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "698",
+            "title": "Partition to K Equal Sum Subsets",
+            "slug": "partition-to-k-equal-sum-subsets",
+            "acceptance": "39.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "784",
+            "title": "Letter Case Permutation",
+            "slug": "letter-case-permutation",
+            "acceptance": "73.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "797",
+            "title": "All Paths From Source to Target",
+            "slug": "all-paths-from-source-to-target",
+            "acceptance": "82.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "816",
+            "title": "Ambiguous Coordinates",
+            "slug": "ambiguous-coordinates",
+            "acceptance": "56.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "842",
+            "title": "Split Array into Fibonacci Sequence",
+            "slug": "split-array-into-fibonacci-sequence",
+            "acceptance": "38.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "967",
+            "title": "Numbers With Same Consecutive Differences",
+            "slug": "numbers-with-same-consecutive-differences",
+            "acceptance": "57.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "980",
+            "title": "Unique Paths III",
+            "slug": "unique-paths-iii",
+            "acceptance": "81.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "996",
+            "title": "Number of Squareful Arrays",
+            "slug": "number-of-squareful-arrays",
+            "acceptance": "49.15%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1066",
+            "title": "Campus Bikes II",
+            "slug": "campus-bikes-ii",
+            "acceptance": "54.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1079",
+            "title": "Letter Tile Possibilities",
+            "slug": "letter-tile-possibilities",
+            "acceptance": "76.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1087",
+            "title": "Brace Expansion",
+            "slug": "brace-expansion",
+            "acceptance": "66.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1088",
+            "title": "Confusing Number II",
+            "slug": "confusing-number-ii",
+            "acceptance": "47.22%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1096",
+            "title": "Brace Expansion II",
+            "slug": "brace-expansion-ii",
+            "acceptance": "63.48%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1215",
+            "title": "Stepping Numbers",
+            "slug": "stepping-numbers",
+            "acceptance": "46.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1219",
+            "title": "Path with Maximum Gold",
+            "slug": "path-with-maximum-gold",
+            "acceptance": "63.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1238",
+            "title": "Circular Permutation in Binary Representation",
+            "slug": "circular-permutation-in-binary-representation",
+            "acceptance": "68.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1239",
+            "title": "Maximum Length of a Concatenated String with Unique Characters",
+            "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+            "acceptance": "52.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1240",
+            "title": "Tiling a Rectangle with the Fewest Squares",
+            "slug": "tiling-a-rectangle-with-the-fewest-squares",
+            "acceptance": "53.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1255",
+            "title": "Maximum Score Words Formed by Letters",
+            "slug": "maximum-score-words-formed-by-letters",
+            "acceptance": "72.28%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1258",
+            "title": "Synonymous Sentences",
+            "slug": "synonymous-sentences",
+            "acceptance": "56.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1286",
+            "title": "Iterator for Combination",
+            "slug": "iterator-for-combination",
+            "acceptance": "73.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1307",
+            "title": "Verbal Arithmetic Puzzle",
+            "slug": "verbal-arithmetic-puzzle",
+            "acceptance": "34.12%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1415",
+            "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+            "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+            "acceptance": "72.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1467",
+            "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+            "slug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+            "acceptance": "60.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1593",
+            "title": "Split a String Into the Max Number of Unique Substrings",
+            "slug": "split-a-string-into-the-max-number-of-unique-substrings",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1601",
+            "title": "Maximum Number of Achievable Transfer Requests",
+            "slug": "maximum-number-of-achievable-transfer-requests",
+            "acceptance": "51.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1655",
+            "title": "Distribute Repeating Integers",
+            "slug": "distribute-repeating-integers",
+            "acceptance": "39.41%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1718",
+            "title": "Construct the Lexicographically Largest Valid Sequence",
+            "slug": "construct-the-lexicographically-largest-valid-sequence",
+            "acceptance": "52.21%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1723",
+            "title": "Find Minimum Time to Finish All Jobs",
+            "slug": "find-minimum-time-to-finish-all-jobs",
+            "acceptance": "42.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1774",
+            "title": "Closest Dessert Cost",
+            "slug": "closest-dessert-cost",
+            "acceptance": "47.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1799",
+            "title": "Maximize Score After N Operations",
+            "slug": "maximize-score-after-n-operations",
+            "acceptance": "46.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1820",
+            "title": "Maximum Number of Accepted Invitations",
+            "slug": "maximum-number-of-accepted-invitations",
+            "acceptance": "49.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1849",
+            "title": "Splitting a String Into Descending Consecutive Values",
+            "slug": "splitting-a-string-into-descending-consecutive-values",
+            "acceptance": "33.34%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1863",
+            "title": "Sum of All Subset XOR Totals",
+            "slug": "sum-of-all-subset-xor-totals",
+            "acceptance": "80.22%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1947",
+            "title": "Maximum Compatibility Score Sum",
+            "slug": "maximum-compatibility-score-sum",
+            "acceptance": "61.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1980",
+            "title": "Find Unique Binary String",
+            "slug": "find-unique-binary-string",
+            "acceptance": "65.21%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1986",
+            "title": "Minimum Number of Work Sessions to Finish the Tasks",
+            "slug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+            "acceptance": "32.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2002",
+            "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+            "slug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
+            "acceptance": "54.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2014",
+            "title": "Longest Subsequence Repeated k Times",
+            "slug": "longest-subsequence-repeated-k-times",
+            "acceptance": "55.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2044",
+            "title": "Count Number of Maximum Bitwise-OR Subsets",
+            "slug": "count-number-of-maximum-bitwise-or-subsets",
+            "acceptance": "75.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2048",
+            "title": "Next Greater Numerically Balanced Number",
+            "slug": "next-greater-numerically-balanced-number",
+            "acceptance": "47.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2056",
+            "title": "Number of Valid Move Combinations On Chessboard",
+            "slug": "number-of-valid-move-combinations-on-chessboard",
+            "acceptance": "54.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2065",
+            "title": "Maximum Path Quality of a Graph",
+            "slug": "maximum-path-quality-of-a-graph",
+            "acceptance": "56.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2151",
+            "title": "Maximum Good People Based on Statements",
+            "slug": "maximum-good-people-based-on-statements",
+            "acceptance": "49.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2152",
+            "title": "Minimum Number of Lines to Cover Points",
+            "slug": "minimum-number-of-lines-to-cover-points",
+            "acceptance": "47.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2178",
+            "title": "Maximum Split of Positive Even Integers",
+            "slug": "maximum-split-of-positive-even-integers",
+            "acceptance": "59.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2305",
+            "title": "Fair Distribution of Cookies",
+            "slug": "fair-distribution-of-cookies",
+            "acceptance": "61.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2375",
+            "title": "Construct Smallest Number From DI String",
+            "slug": "construct-smallest-number-from-di-string",
+            "acceptance": "74.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2397",
+            "title": "Maximum Rows Covered by Columns",
+            "slug": "maximum-rows-covered-by-columns",
+            "acceptance": "53.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2597",
+            "title": "The Number of Beautiful Subsets",
+            "slug": "the-number-of-beautiful-subsets",
+            "acceptance": "29.17%",
+            "difficulty": "Medium"
+        }
+    ]
+}

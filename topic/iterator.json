@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": "251",
+            "title": "Flatten 2D Vector",
+            "slug": "flatten-2d-vector",
+            "acceptance": "49.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "281",
+            "title": "Zigzag Iterator",
+            "slug": "zigzag-iterator",
+            "acceptance": "62.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "284",
+            "title": "Peeking Iterator",
+            "slug": "peeking-iterator",
+            "acceptance": "58.69%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "341",
+            "title": "Flatten Nested List Iterator",
+            "slug": "flatten-nested-list-iterator",
+            "acceptance": "61.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "604",
+            "title": "Design Compressed String Iterator",
+            "slug": "design-compressed-string-iterator",
+            "acceptance": "39.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "900",
+            "title": "RLE Iterator",
+            "slug": "rle-iterator",
+            "acceptance": "59.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1286",
+            "title": "Iterator for Combination",
+            "slug": "iterator-for-combination",
+            "acceptance": "73.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1586",
+            "title": "Binary Search Tree Iterator II",
+            "slug": "binary-search-tree-iterator-ii",
+            "acceptance": "70.77%",
+            "difficulty": "Medium"
+        }
+    ]
+}

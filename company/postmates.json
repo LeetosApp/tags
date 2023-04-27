@@ -1,0 +1,67 @@
+{
+    "questions": [
+        {
+            "id": "301",
+            "title": "Remove Invalid Parentheses",
+            "slug": "remove-invalid-parentheses",
+            "acceptance": "43.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1190",
+            "title": "Reverse Substrings Between Each Pair of Parentheses",
+            "slug": "reverse-substrings-between-each-pair-of-parentheses",
+            "acceptance": "61.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "55",
+            "title": "Jump Game",
+            "slug": "jump-game",
+            "acceptance": "34.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "253",
+            "title": "Meeting Rooms II",
+            "slug": "meeting-rooms-ii",
+            "acceptance": "45.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "227",
+            "title": "Basic Calculator II",
+            "slug": "basic-calculator-ii",
+            "acceptance": "36.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "759",
+            "title": "Employee Free Time",
+            "slug": "employee-free-time",
+            "acceptance": "66.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

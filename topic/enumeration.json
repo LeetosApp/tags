@@ -1,0 +1,326 @@
+{
+    "questions": [
+        {
+            "id": "681",
+            "title": "Next Closest Time",
+            "slug": "next-closest-time",
+            "acceptance": "46.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "800",
+            "title": "Similar RGB Color",
+            "slug": "similar-rgb-color",
+            "acceptance": "67.03%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "829",
+            "title": "Consecutive Numbers Sum",
+            "slug": "consecutive-numbers-sum",
+            "acceptance": "41.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "845",
+            "title": "Longest Mountain in Array",
+            "slug": "longest-mountain-in-array",
+            "acceptance": "40.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "869",
+            "title": "Reordered Power of 2",
+            "slug": "reordered-power-of-2",
+            "acceptance": "63.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "906",
+            "title": "Super Palindromes",
+            "slug": "super-palindromes",
+            "acceptance": "38.89%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "949",
+            "title": "Largest Time for Given Digits",
+            "slug": "largest-time-for-given-digits",
+            "acceptance": "35.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1291",
+            "title": "Sequential Digits",
+            "slug": "sequential-digits",
+            "acceptance": "61.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1534",
+            "title": "Count Good Triplets",
+            "slug": "count-good-triplets",
+            "acceptance": "80.88%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1566",
+            "title": "Detect Pattern of Length M Repeated K or More Times",
+            "slug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+            "acceptance": "43.32%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1601",
+            "title": "Maximum Number of Achievable Transfer Requests",
+            "slug": "maximum-number-of-achievable-transfer-requests",
+            "acceptance": "51.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1617",
+            "title": "Count Subtrees With Max Distance Between Cities",
+            "slug": "count-subtrees-with-max-distance-between-cities",
+            "acceptance": "65.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1620",
+            "title": "Coordinate With Maximum Network Quality",
+            "slug": "coordinate-with-maximum-network-quality",
+            "acceptance": "37.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1925",
+            "title": "Count Square Sum Triples",
+            "slug": "count-square-sum-triples",
+            "acceptance": "67.97%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1956",
+            "title": "Minimum Time For K Virus Variants to Spread",
+            "slug": "minimum-time-for-k-virus-variants-to-spread",
+            "acceptance": "48.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1958",
+            "title": "Check if Move is Legal",
+            "slug": "check-if-move-is-legal",
+            "acceptance": "45.45%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1995",
+            "title": "Count Special Quadruplets",
+            "slug": "count-special-quadruplets",
+            "acceptance": "59.88%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1999",
+            "title": "Smallest Greater Multiple Made of Two Digits",
+            "slug": "smallest-greater-multiple-made-of-two-digits",
+            "acceptance": "49.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2014",
+            "title": "Longest Subsequence Repeated k Times",
+            "slug": "longest-subsequence-repeated-k-times",
+            "acceptance": "55.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2018",
+            "title": "Check if Word Can Be Placed In Crossword",
+            "slug": "check-if-word-can-be-placed-in-crossword",
+            "acceptance": "49.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2025",
+            "title": "Maximum Number of Ways to Partition an Array",
+            "slug": "maximum-number-of-ways-to-partition-an-array",
+            "acceptance": "32.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2048",
+            "title": "Next Greater Numerically Balanced Number",
+            "slug": "next-greater-numerically-balanced-number",
+            "acceptance": "47.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2081",
+            "title": "Sum of k-Mirror Numbers",
+            "slug": "sum-of-k-mirror-numbers",
+            "acceptance": "41.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2094",
+            "title": "Finding 3-Digit Even Numbers",
+            "slug": "finding-3-digit-even-numbers",
+            "acceptance": "57.83%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2122",
+            "title": "Recover the Original Array",
+            "slug": "recover-the-original-array",
+            "acceptance": "38.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2151",
+            "title": "Maximum Good People Based on Statements",
+            "slug": "maximum-good-people-based-on-statements",
+            "acceptance": "49.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2162",
+            "title": "Minimum Cost to Set Cooking Time",
+            "slug": "minimum-cost-to-set-cooking-time",
+            "acceptance": "40.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2212",
+            "title": "Maximum Points in an Archery Competition",
+            "slug": "maximum-points-in-an-archery-competition",
+            "acceptance": "49.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2232",
+            "title": "Minimize Result by Adding Parentheses to Expression",
+            "slug": "minimize-result-by-adding-parentheses-to-expression",
+            "acceptance": "65.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2240",
+            "title": "Number of Ways to Buy Pens and Pencils",
+            "slug": "number-of-ways-to-buy-pens-and-pencils",
+            "acceptance": "56.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2242",
+            "title": "Maximum Score of a Node Sequence",
+            "slug": "maximum-score-of-a-node-sequence",
+            "acceptance": "37.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2249",
+            "title": "Count Lattice Points Inside a Circle",
+            "slug": "count-lattice-points-inside-a-circle",
+            "acceptance": "50.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2259",
+            "title": "Remove Digit From Number to Maximize Result",
+            "slug": "remove-digit-from-number-to-maximize-result",
+            "acceptance": "45.95%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2261",
+            "title": "K Divisible Elements Subarrays",
+            "slug": "k-divisible-elements-subarrays",
+            "acceptance": "48.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2306",
+            "title": "Naming a Company",
+            "slug": "naming-a-company",
+            "acceptance": "47.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2309",
+            "title": "Greatest English Letter in Upper and Lower Case",
+            "slug": "greatest-english-letter-in-upper-and-lower-case",
+            "acceptance": "68.79%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2310",
+            "title": "Sum of Numbers With Units Digit K",
+            "slug": "sum-of-numbers-with-units-digit-k",
+            "acceptance": "25.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2367",
+            "title": "Number of Arithmetic Triplets",
+            "slug": "number-of-arithmetic-triplets",
+            "acceptance": "83.54%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2397",
+            "title": "Maximum Rows Covered by Columns",
+            "slug": "maximum-rows-covered-by-columns",
+            "acceptance": "53.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2417",
+            "title": "Closest Fair Integer",
+            "slug": "closest-fair-integer",
+            "acceptance": "44.69%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2427",
+            "title": "Number of Common Factors",
+            "slug": "number-of-common-factors",
+            "acceptance": "79.45%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2437",
+            "title": "Number of Valid Clock Times",
+            "slug": "number-of-valid-clock-times",
+            "acceptance": "43.31%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2440",
+            "title": "Create Components With Same Value",
+            "slug": "create-components-with-same-value",
+            "acceptance": "53.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2443",
+            "title": "Sum of Number and Its Reverse",
+            "slug": "sum-of-number-and-its-reverse",
+            "acceptance": "45.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2552",
+            "title": "Count Increasing Quadruplets",
+            "slug": "count-increasing-quadruplets",
+            "acceptance": "30.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2605",
+            "title": "Form Smallest Number From Two Digit Arrays",
+            "slug": "form-smallest-number-from-two-digit-arrays",
+            "acceptance": "53.64%",
+            "difficulty": "Easy"
+        }
+    ]
+}

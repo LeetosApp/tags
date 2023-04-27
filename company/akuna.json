@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "995",
+            "title": "Minimum Number of K Consecutive Bit Flips",
+            "slug": "minimum-number-of-k-consecutive-bit-flips",
+            "acceptance": "46.8%",
+            "difficulty": "Hard"
+        }
+    ]
+}

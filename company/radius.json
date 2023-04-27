@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "724",
+            "title": "Find Pivot Index",
+            "slug": "find-pivot-index",
+            "acceptance": "44.0%",
+            "difficulty": "Easy"
+        }
+    ]
+}

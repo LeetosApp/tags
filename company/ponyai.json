@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "291",
+            "title": "Word Pattern II",
+            "slug": "word-pattern-ii",
+            "acceptance": "43.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "786",
+            "title": "K-th Smallest Prime Fraction",
+            "slug": "k-th-smallest-prime-fraction",
+            "acceptance": "41.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "301",
+            "title": "Remove Invalid Parentheses",
+            "slug": "remove-invalid-parentheses",
+            "acceptance": "43.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1235",
+            "title": "Maximum Profit in Job Scheduling",
+            "slug": "maximum-profit-in-job-scheduling",
+            "acceptance": "44.0%",
+            "difficulty": "Hard"
+        }
+    ]
+}

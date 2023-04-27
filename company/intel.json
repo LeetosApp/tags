@@ -1,0 +1,81 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "206",
+            "title": "Reverse Linked List",
+            "slug": "reverse-linked-list",
+            "acceptance": "62.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "238",
+            "title": "Product of Array Except Self",
+            "slug": "product-of-array-except-self",
+            "acceptance": "60.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2",
+            "title": "Add Two Numbers",
+            "slug": "add-two-numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "204",
+            "title": "Count Primes",
+            "slug": "count-primes",
+            "acceptance": "31.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "slug": "best-time-to-buy-and-sell-stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "234",
+            "title": "Palindrome Linked List",
+            "slug": "palindrome-linked-list",
+            "acceptance": "39.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "21",
+            "title": "Merge Two Sorted Lists",
+            "slug": "merge-two-sorted-lists",
+            "acceptance": "53.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "543",
+            "title": "Diameter of Binary Tree",
+            "slug": "diameter-of-binary-tree",
+            "acceptance": "48.4%",
+            "difficulty": "Easy"
+        }
+    ]
+}

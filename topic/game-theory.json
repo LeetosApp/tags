@@ -1,0 +1,165 @@
+{
+    "questions": [
+        {
+            "id": "294",
+            "title": "Flip Game II",
+            "slug": "flip-game-ii",
+            "acceptance": "51.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "375",
+            "title": "Guess Number Higher or Lower II",
+            "slug": "guess-number-higher-or-lower-ii",
+            "acceptance": "46.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "464",
+            "title": "Can I Win",
+            "slug": "can-i-win",
+            "acceptance": "29.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "486",
+            "title": "Predict the Winner",
+            "slug": "predict-the-winner",
+            "acceptance": "51.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "810",
+            "title": "Chalkboard XOR Game",
+            "slug": "chalkboard-xor-game",
+            "acceptance": "55.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "843",
+            "title": "Guess the Word",
+            "slug": "guess-the-word",
+            "acceptance": "41.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "877",
+            "title": "Stone Game",
+            "slug": "stone-game",
+            "acceptance": "69.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "913",
+            "title": "Cat and Mouse",
+            "slug": "cat-and-mouse",
+            "acceptance": "34.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1025",
+            "title": "Divisor Game",
+            "slug": "divisor-game",
+            "acceptance": "67.64%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1140",
+            "title": "Stone Game II",
+            "slug": "stone-game-ii",
+            "acceptance": "64.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1406",
+            "title": "Stone Game III",
+            "slug": "stone-game-iii",
+            "acceptance": "59.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1510",
+            "title": "Stone Game IV",
+            "slug": "stone-game-iv",
+            "acceptance": "60.14%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1561",
+            "title": "Maximum Number of Coins You Can Get",
+            "slug": "maximum-number-of-coins-you-can-get",
+            "acceptance": "79.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1563",
+            "title": "Stone Game V",
+            "slug": "stone-game-v",
+            "acceptance": "40.34%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1686",
+            "title": "Stone Game VI",
+            "slug": "stone-game-vi",
+            "acceptance": "54.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1690",
+            "title": "Stone Game VII",
+            "slug": "stone-game-vii",
+            "acceptance": "58.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1728",
+            "title": "Cat and Mouse II",
+            "slug": "cat-and-mouse-ii",
+            "acceptance": "39.35%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1872",
+            "title": "Stone Game VIII",
+            "slug": "stone-game-viii",
+            "acceptance": "52.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1908",
+            "title": "Game of Nim",
+            "slug": "game-of-nim",
+            "acceptance": "64.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1927",
+            "title": "Sum Game",
+            "slug": "sum-game",
+            "acceptance": "46.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2005",
+            "title": "Subtree Removal Game with Fibonacci Tree",
+            "slug": "subtree-removal-game-with-fibonacci-tree",
+            "acceptance": "62.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2029",
+            "title": "Stone Game IX",
+            "slug": "stone-game-ix",
+            "acceptance": "26.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2038",
+            "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+            "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+            "acceptance": "57.94%",
+            "difficulty": "Medium"
+        }
+    ]
+}

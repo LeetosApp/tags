@@ -1,0 +1,221 @@
+{
+    "questions": [
+        {
+            "id": "223",
+            "title": "Rectangle Area",
+            "slug": "rectangle-area",
+            "acceptance": "45.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "335",
+            "title": "Self Crossing",
+            "slug": "self-crossing",
+            "acceptance": "29.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "469",
+            "title": "Convex Polygon",
+            "slug": "convex-polygon",
+            "acceptance": "39.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "478",
+            "title": "Generate Random Point in a Circle",
+            "slug": "generate-random-point-in-a-circle",
+            "acceptance": "39.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "587",
+            "title": "Erect the Fence",
+            "slug": "erect-the-fence",
+            "acceptance": "52.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "593",
+            "title": "Valid Square",
+            "slug": "valid-square",
+            "acceptance": "43.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "812",
+            "title": "Largest Triangle Area",
+            "slug": "largest-triangle-area",
+            "acceptance": "59.98%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "836",
+            "title": "Rectangle Overlap",
+            "slug": "rectangle-overlap",
+            "acceptance": "43.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "858",
+            "title": "Mirror Reflection",
+            "slug": "mirror-reflection",
+            "acceptance": "63.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "883",
+            "title": "Projection Area of 3D Shapes",
+            "slug": "projection-area-of-3d-shapes",
+            "acceptance": "71.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "892",
+            "title": "Surface Area of 3D Shapes",
+            "slug": "surface-area-of-3d-shapes",
+            "acceptance": "64.13%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "939",
+            "title": "Minimum Area Rectangle",
+            "slug": "minimum-area-rectangle",
+            "acceptance": "52.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "963",
+            "title": "Minimum Area Rectangle II",
+            "slug": "minimum-area-rectangle-ii",
+            "acceptance": "54.61%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "65.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1030",
+            "title": "Matrix Cells in Distance Order",
+            "slug": "matrix-cells-in-distance-order",
+            "acceptance": "69.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1037",
+            "title": "Valid Boomerang",
+            "slug": "valid-boomerang",
+            "acceptance": "36.99%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1232",
+            "title": "Check If It Is a Straight Line",
+            "slug": "check-if-it-is-a-straight-line",
+            "acceptance": "40.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1266",
+            "title": "Minimum Time Visiting All Points",
+            "slug": "minimum-time-visiting-all-points",
+            "acceptance": "79.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1401",
+            "title": "Circle and Rectangle Overlapping",
+            "slug": "circle-and-rectangle-overlapping",
+            "acceptance": "44.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1453",
+            "title": "Maximum Number of Darts Inside of a Circular Dartboard",
+            "slug": "maximum-number-of-darts-inside-of-a-circular-dartboard",
+            "acceptance": "36.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1515",
+            "title": "Best Position for a Service Centre",
+            "slug": "best-position-for-a-service-centre",
+            "acceptance": "37.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1610",
+            "title": "Maximum Number of Visible Points",
+            "slug": "maximum-number-of-visible-points",
+            "acceptance": "37.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1828",
+            "title": "Queries on Number of Points Inside a Circle",
+            "slug": "queries-on-number-of-points-inside-a-circle",
+            "acceptance": "86.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1924",
+            "title": "Erect the Fence II",
+            "slug": "erect-the-fence-ii",
+            "acceptance": "52.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1956",
+            "title": "Minimum Time For K Virus Variants to Spread",
+            "slug": "minimum-time-for-k-virus-variants-to-spread",
+            "acceptance": "48.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2101",
+            "title": "Detonate the Maximum Bombs",
+            "slug": "detonate-the-maximum-bombs",
+            "acceptance": "42.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2152",
+            "title": "Minimum Number of Lines to Cover Points",
+            "slug": "minimum-number-of-lines-to-cover-points",
+            "acceptance": "47.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2249",
+            "title": "Count Lattice Points Inside a Circle",
+            "slug": "count-lattice-points-inside-a-circle",
+            "acceptance": "50.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2280",
+            "title": "Minimum Lines to Represent a Line Chart",
+            "slug": "minimum-lines-to-represent-a-line-chart",
+            "acceptance": "24.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2481",
+            "title": "Minimum Cuts to Divide a Circle",
+            "slug": "minimum-cuts-to-divide-a-circle",
+            "acceptance": "52.52%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2613",
+            "title": "Beautiful Pairs",
+            "slug": "beautiful-pairs",
+            "acceptance": "47.67%",
+            "difficulty": "Hard"
+        }
+    ]
+}

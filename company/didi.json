@@ -1,0 +1,67 @@
+{
+    "questions": [
+        {
+            "id": "364",
+            "title": "Nested List Weight Sum II",
+            "slug": "nested-list-weight-sum-ii",
+            "acceptance": "62.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "815",
+            "title": "Bus Routes",
+            "slug": "bus-routes",
+            "acceptance": "42.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1293",
+            "title": "Shortest Path in a Grid with Obstacles Elimination",
+            "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+            "acceptance": "42.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1374",
+            "title": "Generate a String With Characters That Have Odd Counts",
+            "slug": "generate-a-string-with-characters-that-have-odd-counts",
+            "acceptance": "75.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "863",
+            "title": "All Nodes Distance K in Binary Tree",
+            "slug": "all-nodes-distance-k-in-binary-tree",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "402",
+            "title": "Remove K Digits",
+            "slug": "remove-k-digits",
+            "acceptance": "28.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "4",
+            "title": "Median of Two Sorted Arrays",
+            "slug": "median-of-two-sorted-arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "116",
+            "title": "Populating Next Right Pointers in Each Node",
+            "slug": "populating-next-right-pointers-in-each-node",
+            "acceptance": "45.2%",
+            "difficulty": "Medium"
+        }
+    ]
+}

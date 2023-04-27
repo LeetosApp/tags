@@ -1,0 +1,67 @@
+{
+    "questions": [
+        {
+            "id": "92",
+            "title": "Reverse Linked List II",
+            "slug": "reverse-linked-list-ii",
+            "acceptance": "38.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "49",
+            "title": "Group Anagrams",
+            "slug": "group-anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "71",
+            "title": "Simplify Path",
+            "slug": "simplify-path",
+            "acceptance": "32.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "73",
+            "title": "Set Matrix Zeroes",
+            "slug": "set-matrix-zeroes",
+            "acceptance": "43.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "206",
+            "title": "Reverse Linked List",
+            "slug": "reverse-linked-list",
+            "acceptance": "62.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "242",
+            "title": "Valid Anagram",
+            "slug": "valid-anagram",
+            "acceptance": "56.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2",
+            "title": "Add Two Numbers",
+            "slug": "add-two-numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "79",
+            "title": "Word Search",
+            "slug": "word-search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium"
+        }
+    ]
+}

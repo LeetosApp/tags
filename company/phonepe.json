@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1202",
+            "title": "Smallest String With Swaps",
+            "slug": "smallest-string-with-swaps",
+            "acceptance": "46.5%",
+            "difficulty": "Medium"
+        }
+    ]
+}

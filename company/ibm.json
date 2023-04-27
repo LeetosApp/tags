@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": "134",
+            "title": "Gas Station",
+            "slug": "gas-station",
+            "acceptance": "38.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "268",
+            "title": "Missing Number",
+            "slug": "missing-number",
+            "acceptance": "51.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "259",
+            "title": "3Sum Smaller",
+            "slug": "3sum-smaller",
+            "acceptance": "47.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "700",
+            "title": "Search in a Binary Search Tree",
+            "slug": "search-in-a-binary-search-tree",
+            "acceptance": "73.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "14",
+            "title": "Longest Common Prefix",
+            "slug": "longest-common-prefix",
+            "acceptance": "35.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "88",
+            "title": "Merge Sorted Array",
+            "slug": "merge-sorted-array",
+            "acceptance": "39.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2",
+            "title": "Add Two Numbers",
+            "slug": "add-two-numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1355",
+            "title": "Activity Participants",
+            "slug": "activity-participants",
+            "acceptance": "69.4%",
+            "difficulty": "Medium"
+        }
+    ]
+}

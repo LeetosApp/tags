@@ -1,0 +1,368 @@
+{
+    "questions": [
+        {
+            "id": "220",
+            "title": "Contains Duplicate III",
+            "slug": "contains-duplicate-iii",
+            "acceptance": "22.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "315",
+            "title": "Count of Smaller Numbers After Self",
+            "slug": "count-of-smaller-numbers-after-self",
+            "acceptance": "42.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "327",
+            "title": "Count of Range Sum",
+            "slug": "count-of-range-sum",
+            "acceptance": "35.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "352",
+            "title": "Data Stream as Disjoint Intervals",
+            "slug": "data-stream-as-disjoint-intervals",
+            "acceptance": "59.74%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "363",
+            "title": "Max Sum of Rectangle No Larger Than K",
+            "slug": "max-sum-of-rectangle-no-larger-than-k",
+            "acceptance": "43.98%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "456",
+            "title": "132 Pattern",
+            "slug": "132-pattern",
+            "acceptance": "32.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "493",
+            "title": "Reverse Pairs",
+            "slug": "reverse-pairs",
+            "acceptance": "30.85%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "497",
+            "title": "Random Point in Non-overlapping Rectangles",
+            "slug": "random-point-in-non-overlapping-rectangles",
+            "acceptance": "39.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "635",
+            "title": "Design Log Storage System",
+            "slug": "design-log-storage-system",
+            "acceptance": "62.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "683",
+            "title": "K Empty Slots",
+            "slug": "k-empty-slots",
+            "acceptance": "36.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "699",
+            "title": "Falling Squares",
+            "slug": "falling-squares",
+            "acceptance": "44.68%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "715",
+            "title": "Range Module",
+            "slug": "range-module",
+            "acceptance": "44.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "716",
+            "title": "Max Stack",
+            "slug": "max-stack",
+            "acceptance": "45.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "729",
+            "title": "My Calendar I",
+            "slug": "my-calendar-i",
+            "acceptance": "56.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "731",
+            "title": "My Calendar II",
+            "slug": "my-calendar-ii",
+            "acceptance": "55.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "732",
+            "title": "My Calendar III",
+            "slug": "my-calendar-iii",
+            "acceptance": "71.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "850",
+            "title": "Rectangle Area II",
+            "slug": "rectangle-area-ii",
+            "acceptance": "53.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "855",
+            "title": "Exam Room",
+            "slug": "exam-room",
+            "acceptance": "43.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "895",
+            "title": "Maximum Frequency Stack",
+            "slug": "maximum-frequency-stack",
+            "acceptance": "66.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "975",
+            "title": "Odd Even Jump",
+            "slug": "odd-even-jump",
+            "acceptance": "38.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1348",
+            "title": "Tweet Counts Per Frequency",
+            "slug": "tweet-counts-per-frequency",
+            "acceptance": "43.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1418",
+            "title": "Display Table of Food Orders in a Restaurant",
+            "slug": "display-table-of-food-orders-in-a-restaurant",
+            "acceptance": "73.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1438",
+            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+            "acceptance": "48.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1606",
+            "title": "Find Servers That Handled Most Number of Requests",
+            "slug": "find-servers-that-handled-most-number-of-requests",
+            "acceptance": "43.06%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1649",
+            "title": "Create Sorted Array through Instructions",
+            "slug": "create-sorted-array-through-instructions",
+            "acceptance": "37.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1675",
+            "title": "Minimize Deviation in Array",
+            "slug": "minimize-deviation-in-array",
+            "acceptance": "54.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1756",
+            "title": "Design Most Recently Used Queue",
+            "slug": "design-most-recently-used-queue",
+            "acceptance": "78.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1818",
+            "title": "Minimum Absolute Sum Difference",
+            "slug": "minimum-absolute-sum-difference",
+            "acceptance": "30.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1825",
+            "title": "Finding MK Average",
+            "slug": "finding-mk-average",
+            "acceptance": "35.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1902",
+            "title": "Depth of BST Given Insertion Order",
+            "slug": "depth-of-bst-given-insertion-order",
+            "acceptance": "44.38%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1912",
+            "title": "Design Movie Rental System",
+            "slug": "design-movie-rental-system",
+            "acceptance": "39.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1942",
+            "title": "The Number of the Smallest Unoccupied Chair",
+            "slug": "the-number-of-the-smallest-unoccupied-chair",
+            "acceptance": "40.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2021",
+            "title": "Brightest Position on Street",
+            "slug": "brightest-position-on-street",
+            "acceptance": "62.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2031",
+            "title": "Count Subarrays With More Ones Than Zeros",
+            "slug": "count-subarrays-with-more-ones-than-zeros",
+            "acceptance": "51.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2034",
+            "title": "Stock Price Fluctuation ",
+            "slug": "stock-price-fluctuation",
+            "acceptance": "48.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2035",
+            "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+            "slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+            "acceptance": "18.89%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2102",
+            "title": "Sequentially Ordinal Rank Tracker",
+            "slug": "sequentially-ordinal-rank-tracker",
+            "acceptance": "65.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2158",
+            "title": "Amount of New Area Painted Each Day",
+            "slug": "amount-of-new-area-painted-each-day",
+            "acceptance": "54.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2179",
+            "title": "Count Good Triplets in an Array",
+            "slug": "count-good-triplets-in-an-array",
+            "acceptance": "38.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2213",
+            "title": "Longest Substring of One Repeating Character",
+            "slug": "longest-substring-of-one-repeating-character",
+            "acceptance": "30.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2251",
+            "title": "Number of Flowers in Full Bloom",
+            "slug": "number-of-flowers-in-full-bloom",
+            "acceptance": "51.06%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2254",
+            "title": "Design Video Sharing Platform",
+            "slug": "design-video-sharing-platform",
+            "acceptance": "64.34%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2276",
+            "title": "Count Integers in Intervals",
+            "slug": "count-integers-in-intervals",
+            "acceptance": "34.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2349",
+            "title": "Design a Number Container System",
+            "slug": "design-a-number-container-system",
+            "acceptance": "45.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2353",
+            "title": "Design a Food Rating System",
+            "slug": "design-a-food-rating-system",
+            "acceptance": "34.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2363",
+            "title": "Merge Similar Items",
+            "slug": "merge-similar-items",
+            "acceptance": "75.55%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2382",
+            "title": "Maximum Segment Sum After Removals",
+            "slug": "maximum-segment-sum-after-removals",
+            "acceptance": "47.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2424",
+            "title": "Longest Uploaded Prefix",
+            "slug": "longest-uploaded-prefix",
+            "acceptance": "54.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2426",
+            "title": "Number of Pairs Satisfying Inequality",
+            "slug": "number-of-pairs-satisfying-inequality",
+            "acceptance": "43.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2519",
+            "title": "Count the Number of K-Big Indices",
+            "slug": "count-the-number-of-k-big-indices",
+            "acceptance": "64.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2612",
+            "title": "Minimum Reverse Operations",
+            "slug": "minimum-reverse-operations",
+            "acceptance": "14.48%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2613",
+            "title": "Beautiful Pairs",
+            "slug": "beautiful-pairs",
+            "acceptance": "47.67%",
+            "difficulty": "Hard"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "507",
+            "title": "Perfect Number",
+            "slug": "perfect-number",
+            "acceptance": "35.5%",
+            "difficulty": "Easy"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": "1323",
+            "title": "Maximum 69 Number",
+            "slug": "maximum-69-number",
+            "acceptance": "77.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1317",
+            "title": "Convert Integer to the Sum of Two No-Zero Integers",
+            "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+            "acceptance": "56.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1342",
+            "title": "Number of Steps to Reduce a Number to Zero",
+            "slug": "number-of-steps-to-reduce-a-number-to-zero",
+            "acceptance": "86.3%",
+            "difficulty": "Easy"
+        }
+    ]
+}

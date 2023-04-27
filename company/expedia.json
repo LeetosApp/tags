@@ -1,0 +1,333 @@
+{
+    "questions": [
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "974",
+            "title": "Subarray Sums Divisible by K",
+            "slug": "subarray-sums-divisible-by-k",
+            "acceptance": "48.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "73",
+            "title": "Set Matrix Zeroes",
+            "slug": "set-matrix-zeroes",
+            "acceptance": "43.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1283",
+            "title": "Find the Smallest Divisor Given a Threshold",
+            "slug": "find-the-smallest-divisor-given-a-threshold",
+            "acceptance": "47.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "443",
+            "title": "String Compression",
+            "slug": "string-compression",
+            "acceptance": "41.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "33",
+            "title": "Search in Rotated Sorted Array",
+            "slug": "search-in-rotated-sorted-array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "44.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "37",
+            "title": "Sudoku Solver",
+            "slug": "sudoku-solver",
+            "acceptance": "43.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "451",
+            "title": "Sort Characters By Frequency",
+            "slug": "sort-characters-by-frequency",
+            "acceptance": "63.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "713",
+            "title": "Subarray Product Less Than K",
+            "slug": "subarray-product-less-than-k",
+            "acceptance": "39.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "973",
+            "title": "K Closest Points to Origin",
+            "slug": "k-closest-points-to-origin",
+            "acceptance": "63.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "88",
+            "title": "Merge Sorted Array",
+            "slug": "merge-sorted-array",
+            "acceptance": "39.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "53",
+            "title": "Maximum Subarray",
+            "slug": "maximum-subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "240",
+            "title": "Search a 2D Matrix II",
+            "slug": "search-a-2d-matrix-ii",
+            "acceptance": "43.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "297",
+            "title": "Serialize and Deserialize Binary Tree",
+            "slug": "serialize-and-deserialize-binary-tree",
+            "acceptance": "47.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "slug": "best-time-to-buy-and-sell-stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "138",
+            "title": "Copy List with Random Pointer",
+            "slug": "copy-list-with-random-pointer",
+            "acceptance": "36.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "884",
+            "title": "Uncommon Words from Two Sentences",
+            "slug": "uncommon-words-from-two-sentences",
+            "acceptance": "63.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "198",
+            "title": "House Robber",
+            "slug": "house-robber",
+            "acceptance": "42.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "43",
+            "title": "Multiply Strings",
+            "slug": "multiply-strings",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "724",
+            "title": "Find Pivot Index",
+            "slug": "find-pivot-index",
+            "acceptance": "44.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "253",
+            "title": "Meeting Rooms II",
+            "slug": "meeting-rooms-ii",
+            "acceptance": "45.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "404",
+            "title": "Sum of Left Leaves",
+            "slug": "sum-of-left-leaves",
+            "acceptance": "50.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "134",
+            "title": "Gas Station",
+            "slug": "gas-station",
+            "acceptance": "38.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "51.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "3",
+            "title": "Longest Substring Without Repeating Characters",
+            "slug": "longest-substring-without-repeating-characters",
+            "acceptance": "30.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "127",
+            "title": "Word Ladder",
+            "slug": "word-ladder",
+            "acceptance": "29.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "739",
+            "title": "Daily Temperatures",
+            "slug": "daily-temperatures",
+            "acceptance": "63.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "96",
+            "title": "Unique Binary Search Trees",
+            "slug": "unique-binary-search-trees",
+            "acceptance": "52.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "160",
+            "title": "Intersection of Two Linked Lists",
+            "slug": "intersection-of-two-linked-lists",
+            "acceptance": "40.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "314",
+            "title": "Binary Tree Vertical Order Traversal",
+            "slug": "binary-tree-vertical-order-traversal",
+            "acceptance": "45.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "91",
+            "title": "Decode Ways",
+            "slug": "decode-ways",
+            "acceptance": "24.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "242",
+            "title": "Valid Anagram",
+            "slug": "valid-anagram",
+            "acceptance": "56.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "167",
+            "title": "Two Sum II - Input array is sorted",
+            "slug": "two-sum-ii-input-array-is-sorted",
+            "acceptance": "54.1%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "560",
+            "title": "Subarray Sum Equals K",
+            "slug": "subarray-sum-equals-k",
+            "acceptance": "43.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "102",
+            "title": "Binary Tree Level Order Traversal",
+            "slug": "binary-tree-level-order-traversal",
+            "acceptance": "54.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "611",
+            "title": "Valid Triangle Number",
+            "slug": "valid-triangle-number",
+            "acceptance": "48.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1101",
+            "title": "The Earliest Moment When Everyone Become Friends",
+            "slug": "the-earliest-moment-when-everyone-become-friends",
+            "acceptance": "66.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1151",
+            "title": "Minimum Swaps to Group All 1's Together",
+            "slug": "minimum-swaps-to-group-all-1s-together",
+            "acceptance": "59.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1328",
+            "title": "Break a Palindrome",
+            "slug": "break-a-palindrome",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1451",
+            "title": "Rearrange Words in a Sentence",
+            "slug": "rearrange-words-in-a-sentence",
+            "acceptance": "54.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1492",
+            "title": "The kth Factor of n",
+            "slug": "the-kth-factor-of-n",
+            "acceptance": "67.9%",
+            "difficulty": "Medium"
+        }
+    ]
+}

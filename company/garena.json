@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": "46",
+            "title": "Permutations",
+            "slug": "permutations",
+            "acceptance": "63.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "4",
+            "title": "Median of Two Sorted Arrays",
+            "slug": "median-of-two-sorted-arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "810",
+            "title": "Chalkboard XOR Game",
+            "slug": "chalkboard-xor-game",
+            "acceptance": "48.2%",
+            "difficulty": "Hard"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1036",
+            "title": "Escape a Large Maze",
+            "slug": "escape-a-large-maze",
+            "acceptance": "35.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1162",
+            "title": "As Far from Land as Possible",
+            "slug": "as-far-from-land-as-possible",
+            "acceptance": "43.5%",
+            "difficulty": "Medium"
+        }
+    ]
+}

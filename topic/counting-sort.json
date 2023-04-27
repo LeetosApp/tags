@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "561",
+            "title": "Array Partition",
+            "slug": "array-partition",
+            "acceptance": "77.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "912",
+            "title": "Sort an Array",
+            "slug": "sort-an-array",
+            "acceptance": "59.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1051",
+            "title": "Height Checker",
+            "slug": "height-checker",
+            "acceptance": "75.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1122",
+            "title": "Relative Sort Array",
+            "slug": "relative-sort-array",
+            "acceptance": "68.66%",
+            "difficulty": "Easy"
+        }
+    ]
+}

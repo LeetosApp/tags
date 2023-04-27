@@ -1,0 +1,270 @@
+{
+    "questions": [
+        {
+            "id": "232",
+            "title": "Implement Queue using Stacks",
+            "slug": "implement-queue-using-stacks",
+            "acceptance": "63.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "239",
+            "title": "Sliding Window Maximum",
+            "slug": "sliding-window-maximum",
+            "acceptance": "46.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "281",
+            "title": "Zigzag Iterator",
+            "slug": "zigzag-iterator",
+            "acceptance": "62.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "341",
+            "title": "Flatten Nested List Iterator",
+            "slug": "flatten-nested-list-iterator",
+            "acceptance": "61.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "346",
+            "title": "Moving Average from Data Stream",
+            "slug": "moving-average-from-data-stream",
+            "acceptance": "77.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "353",
+            "title": "Design Snake Game",
+            "slug": "design-snake-game",
+            "acceptance": "39.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "362",
+            "title": "Design Hit Counter",
+            "slug": "design-hit-counter",
+            "acceptance": "68.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "379",
+            "title": "Design Phone Directory",
+            "slug": "design-phone-directory",
+            "acceptance": "51.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "387",
+            "title": "First Unique Character in a String",
+            "slug": "first-unique-character-in-a-string",
+            "acceptance": "59.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "622",
+            "title": "Design Circular Queue",
+            "slug": "design-circular-queue",
+            "acceptance": "51.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "641",
+            "title": "Design Circular Deque",
+            "slug": "design-circular-deque",
+            "acceptance": "57.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "649",
+            "title": "Dota2 Senate",
+            "slug": "dota2-senate",
+            "acceptance": "40.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "862",
+            "title": "Shortest Subarray with Sum at Least K",
+            "slug": "shortest-subarray-with-sum-at-least-k",
+            "acceptance": "26.01%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "918",
+            "title": "Maximum Sum Circular Subarray",
+            "slug": "maximum-sum-circular-subarray",
+            "acceptance": "43.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "933",
+            "title": "Number of Recent Calls",
+            "slug": "number-of-recent-calls",
+            "acceptance": "73.17%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "936",
+            "title": "Stamping The Sequence",
+            "slug": "stamping-the-sequence",
+            "acceptance": "62.79%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "950",
+            "title": "Reveal Cards In Increasing Order",
+            "slug": "reveal-cards-in-increasing-order",
+            "acceptance": "77.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "995",
+            "title": "Minimum Number of K Consecutive Bit Flips",
+            "slug": "minimum-number-of-k-consecutive-bit-flips",
+            "acceptance": "51.09%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1352",
+            "title": "Product of the Last K Numbers",
+            "slug": "product-of-the-last-k-numbers",
+            "acceptance": "50.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1425",
+            "title": "Constrained Subsequence Sum",
+            "slug": "constrained-subsequence-sum",
+            "acceptance": "47.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1429",
+            "title": "First Unique Number",
+            "slug": "first-unique-number",
+            "acceptance": "53.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1438",
+            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+            "acceptance": "48.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1499",
+            "title": "Max Value of Equation",
+            "slug": "max-value-of-equation",
+            "acceptance": "45.55%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1670",
+            "title": "Design Front Middle Back Queue",
+            "slug": "design-front-middle-back-queue",
+            "acceptance": "57.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1687",
+            "title": "Delivering Boxes from Storage to Ports",
+            "slug": "delivering-boxes-from-storage-to-ports",
+            "acceptance": "38.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1696",
+            "title": "Jump Game VI",
+            "slug": "jump-game-vi",
+            "acceptance": "46.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1700",
+            "title": "Number of Students Unable to Eat Lunch",
+            "slug": "number-of-students-unable-to-eat-lunch",
+            "acceptance": "68.95%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1823",
+            "title": "Find the Winner of the Circular Game",
+            "slug": "find-the-winner-of-the-circular-game",
+            "acceptance": "78.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1825",
+            "title": "Finding MK Average",
+            "slug": "finding-mk-average",
+            "acceptance": "35.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2071",
+            "title": "Maximum Number of Tasks You Can Assign",
+            "slug": "maximum-number-of-tasks-you-can-assign",
+            "acceptance": "33.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2073",
+            "title": "Time Needed to Buy Tickets",
+            "slug": "time-needed-to-buy-tickets",
+            "acceptance": "62.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2327",
+            "title": "Number of People Aware of a Secret",
+            "slug": "number-of-people-aware-of-a-secret",
+            "acceptance": "44.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2398",
+            "title": "Maximum Number of Robots Within Budget",
+            "slug": "maximum-number-of-robots-within-budget",
+            "acceptance": "33.09%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2407",
+            "title": "Longest Increasing Subsequence II",
+            "slug": "longest-increasing-subsequence-ii",
+            "acceptance": "22.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2444",
+            "title": "Count Subarrays With Fixed Bounds",
+            "slug": "count-subarrays-with-fixed-bounds",
+            "acceptance": "61.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2526",
+            "title": "Find Consecutive Integers from a Data Stream",
+            "slug": "find-consecutive-integers-from-a-data-stream",
+            "acceptance": "45.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2528",
+            "title": "Maximize the Minimum Powered City",
+            "slug": "maximize-the-minimum-powered-city",
+            "acceptance": "31.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2534",
+            "title": "Time Taken to Cross the Door",
+            "slug": "time-taken-to-cross-the-door",
+            "acceptance": "67.69%",
+            "difficulty": "Hard"
+        }
+    ]
+}

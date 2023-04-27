@@ -1,0 +1,683 @@
+{
+    "questions": [
+        {
+            "id": "229",
+            "title": "Majority Element II",
+            "slug": "majority-element-ii",
+            "acceptance": "45.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "299",
+            "title": "Bulls and Cows",
+            "slug": "bulls-and-cows",
+            "acceptance": "49.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "347",
+            "title": "Top K Frequent Elements",
+            "slug": "top-k-frequent-elements",
+            "acceptance": "64.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "358",
+            "title": "Rearrange String k Distance Apart",
+            "slug": "rearrange-string-k-distance-apart",
+            "acceptance": "37.79%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "383",
+            "title": "Ransom Note",
+            "slug": "ransom-note",
+            "acceptance": "58.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "387",
+            "title": "First Unique Character in a String",
+            "slug": "first-unique-character-in-a-string",
+            "acceptance": "59.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "451",
+            "title": "Sort Characters By Frequency",
+            "slug": "sort-characters-by-frequency",
+            "acceptance": "70.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "621",
+            "title": "Task Scheduler",
+            "slug": "task-scheduler",
+            "acceptance": "56.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "57.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "767",
+            "title": "Reorganize String",
+            "slug": "reorganize-string",
+            "acceptance": "52.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "811",
+            "title": "Subdomain Visit Count",
+            "slug": "subdomain-visit-count",
+            "acceptance": "75.53%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "819",
+            "title": "Most Common Word",
+            "slug": "most-common-word",
+            "acceptance": "44.72%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "869",
+            "title": "Reordered Power of 2",
+            "slug": "reordered-power-of-2",
+            "acceptance": "63.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "900",
+            "title": "RLE Iterator",
+            "slug": "rle-iterator",
+            "acceptance": "59.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "914",
+            "title": "X of a Kind in a Deck of Cards",
+            "slug": "x-of-a-kind-in-a-deck-of-cards",
+            "acceptance": "31.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "923",
+            "title": "3Sum With Multiplicity",
+            "slug": "3sum-with-multiplicity",
+            "acceptance": "45.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "945",
+            "title": "Minimum Increment to Make Array Unique",
+            "slug": "minimum-increment-to-make-array-unique",
+            "acceptance": "51.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "992",
+            "title": "Subarrays with K Different Integers",
+            "slug": "subarrays-with-k-different-integers",
+            "acceptance": "54.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1010",
+            "title": "Pairs of Songs With Total Durations Divisible by 60",
+            "slug": "pairs-of-songs-with-total-durations-divisible-by-60",
+            "acceptance": "52.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1054",
+            "title": "Distant Barcodes",
+            "slug": "distant-barcodes",
+            "acceptance": "45.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1079",
+            "title": "Letter Tile Possibilities",
+            "slug": "letter-tile-possibilities",
+            "acceptance": "76.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1090",
+            "title": "Largest Values From Labels",
+            "slug": "largest-values-from-labels",
+            "acceptance": "61.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1128",
+            "title": "Number of Equivalent Domino Pairs",
+            "slug": "number-of-equivalent-domino-pairs",
+            "acceptance": "47.19%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1189",
+            "title": "Maximum Number of Balloons",
+            "slug": "maximum-number-of-balloons",
+            "acceptance": "60.88%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1198",
+            "title": "Find Smallest Common Element in All Rows",
+            "slug": "find-smallest-common-element-in-all-rows",
+            "acceptance": "76.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1213",
+            "title": "Intersection of Three Sorted Arrays",
+            "slug": "intersection-of-three-sorted-arrays",
+            "acceptance": "79.93%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1221",
+            "title": "Split a String in Balanced Strings",
+            "slug": "split-a-string-in-balanced-strings",
+            "acceptance": "85.22%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1267",
+            "title": "Count Servers that Communicate",
+            "slug": "count-servers-that-communicate",
+            "acceptance": "59.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1347",
+            "title": "Minimum Number of Steps to Make Two Strings Anagram",
+            "slug": "minimum-number-of-steps-to-make-two-strings-anagram",
+            "acceptance": "77.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1356",
+            "title": "Sort Integers by The Number of 1 Bits",
+            "slug": "sort-integers-by-the-number-of-1-bits",
+            "acceptance": "73.26%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1365",
+            "title": "How Many Numbers Are Smaller Than the Current Number",
+            "slug": "how-many-numbers-are-smaller-than-the-current-number",
+            "acceptance": "86.62%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1366",
+            "title": "Rank Teams by Votes",
+            "slug": "rank-teams-by-votes",
+            "acceptance": "57.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1370",
+            "title": "Increasing Decreasing String",
+            "slug": "increasing-decreasing-string",
+            "acceptance": "76.86%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1394",
+            "title": "Find Lucky Integer in an Array",
+            "slug": "find-lucky-integer-in-an-array",
+            "acceptance": "64.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1400",
+            "title": "Construct K Palindrome Strings",
+            "slug": "construct-k-palindrome-strings",
+            "acceptance": "62.81%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1419",
+            "title": "Minimum Number of Frogs Croaking",
+            "slug": "minimum-number-of-frogs-croaking",
+            "acceptance": "50.14%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1481",
+            "title": "Least Number of Unique Integers after K Removals",
+            "slug": "least-number-of-unique-integers-after-k-removals",
+            "acceptance": "55.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1497",
+            "title": "Check If Array Pairs Are Divisible by k",
+            "slug": "check-if-array-pairs-are-divisible-by-k",
+            "acceptance": "39.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1512",
+            "title": "Number of Good Pairs",
+            "slug": "number-of-good-pairs",
+            "acceptance": "88.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1519",
+            "title": "Number of Nodes in the Sub-Tree With the Same Label",
+            "slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+            "acceptance": "55.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1603",
+            "title": "Design Parking System",
+            "slug": "design-parking-system",
+            "acceptance": "87.89%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1704",
+            "title": "Determine if String Halves Are Alike",
+            "slug": "determine-if-string-halves-are-alike",
+            "acceptance": "77.72%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1737",
+            "title": "Change Minimum Characters to Satisfy One of Three Conditions",
+            "slug": "change-minimum-characters-to-satisfy-one-of-three-conditions",
+            "acceptance": "35.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1742",
+            "title": "Maximum Number of Balls in a Box",
+            "slug": "maximum-number-of-balls-in-a-box",
+            "acceptance": "73.63%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1748",
+            "title": "Sum of Unique Elements",
+            "slug": "sum-of-unique-elements",
+            "acceptance": "76.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1775",
+            "title": "Equal Sum Arrays With Minimum Number of Operations",
+            "slug": "equal-sum-arrays-with-minimum-number-of-operations",
+            "acceptance": "53.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1781",
+            "title": "Sum of Beauty of All Substrings",
+            "slug": "sum-of-beauty-of-all-substrings",
+            "acceptance": "61.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1790",
+            "title": "Check if One String Swap Can Make Strings Equal",
+            "slug": "check-if-one-string-swap-can-make-strings-equal",
+            "acceptance": "45.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1814",
+            "title": "Count Nice Pairs in an Array",
+            "slug": "count-nice-pairs-in-an-array",
+            "acceptance": "42.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1819",
+            "title": "Number of Different Subsequences GCDs",
+            "slug": "number-of-different-subsequences-gcds",
+            "acceptance": "39.05%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1854",
+            "title": "Maximum Population Year",
+            "slug": "maximum-population-year",
+            "acceptance": "60.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1857",
+            "title": "Largest Color Value in a Directed Graph",
+            "slug": "largest-color-value-in-a-directed-graph",
+            "acceptance": "52.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1876",
+            "title": "Substrings of Size Three with Distinct Characters",
+            "slug": "substrings-of-size-three-with-distinct-characters",
+            "acceptance": "71.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1897",
+            "title": "Redistribute Characters to Make All Strings Equal",
+            "slug": "redistribute-characters-to-make-all-strings-equal",
+            "acceptance": "59.41%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1940",
+            "title": "Longest Common Subsequence Between Sorted Arrays",
+            "slug": "longest-common-subsequence-between-sorted-arrays",
+            "acceptance": "78.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1941",
+            "title": "Check if All Characters Have Equal Number of Occurrences",
+            "slug": "check-if-all-characters-have-equal-number-of-occurrences",
+            "acceptance": "76.79%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2001",
+            "title": "Number of Pairs of Interchangeable Rectangles",
+            "slug": "number-of-pairs-of-interchangeable-rectangles",
+            "acceptance": "46.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2006",
+            "title": "Count Number of Pairs With Absolute Difference K",
+            "slug": "count-number-of-pairs-with-absolute-difference-k",
+            "acceptance": "82.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2013",
+            "title": "Detect Squares",
+            "slug": "detect-squares",
+            "acceptance": "50.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2014",
+            "title": "Longest Subsequence Repeated k Times",
+            "slug": "longest-subsequence-repeated-k-times",
+            "acceptance": "55.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2025",
+            "title": "Maximum Number of Ways to Partition an Array",
+            "slug": "maximum-number-of-ways-to-partition-an-array",
+            "acceptance": "32.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2029",
+            "title": "Stone Game IX",
+            "slug": "stone-game-ix",
+            "acceptance": "26.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2053",
+            "title": "Kth Distinct String in an Array",
+            "slug": "kth-distinct-string-in-an-array",
+            "acceptance": "72.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2067",
+            "title": "Number of Equal Count Substrings",
+            "slug": "number-of-equal-count-substrings",
+            "acceptance": "48.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2068",
+            "title": "Check Whether Two Strings are Almost Equivalent",
+            "slug": "check-whether-two-strings-are-almost-equivalent",
+            "acceptance": "63.89%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2083",
+            "title": "Substrings That Begin and End With the Same Letter",
+            "slug": "substrings-that-begin-and-end-with-the-same-letter",
+            "acceptance": "67.89%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2085",
+            "title": "Count Common Words With One Occurrence",
+            "slug": "count-common-words-with-one-occurrence",
+            "acceptance": "70.03%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2131",
+            "title": "Longest Palindrome by Concatenating Two Letter Words",
+            "slug": "longest-palindrome-by-concatenating-two-letter-words",
+            "acceptance": "48.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2150",
+            "title": "Find All Lonely Numbers in the Array",
+            "slug": "find-all-lonely-numbers-in-the-array",
+            "acceptance": "60.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2168",
+            "title": "Unique Substrings With Equal Digit Frequency",
+            "slug": "unique-substrings-with-equal-digit-frequency",
+            "acceptance": "59.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2170",
+            "title": "Minimum Operations to Make the Array Alternating",
+            "slug": "minimum-operations-to-make-the-array-alternating",
+            "acceptance": "33.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2182",
+            "title": "Construct String With Repeat Limit",
+            "slug": "construct-string-with-repeat-limit",
+            "acceptance": "52.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2186",
+            "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+            "slug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+            "acceptance": "71.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2190",
+            "title": "Most Frequent Number Following Key In an Array",
+            "slug": "most-frequent-number-following-key-in-an-array",
+            "acceptance": "59.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2206",
+            "title": "Divide Array Into Equal Pairs",
+            "slug": "divide-array-into-equal-pairs",
+            "acceptance": "73.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2225",
+            "title": "Find Players With Zero or One Losses",
+            "slug": "find-players-with-zero-or-one-losses",
+            "acceptance": "72.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2244",
+            "title": "Minimum Rounds to Complete All Tasks",
+            "slug": "minimum-rounds-to-complete-all-tasks",
+            "acceptance": "62.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2248",
+            "title": "Intersection of Multiple Arrays",
+            "slug": "intersection-of-multiple-arrays",
+            "acceptance": "68.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2268",
+            "title": "Minimum Number of Keypresses",
+            "slug": "minimum-number-of-keypresses",
+            "acceptance": "72.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2275",
+            "title": "Largest Combination With Bitwise AND Greater Than Zero",
+            "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+            "acceptance": "72.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2283",
+            "title": "Check if Number Has Equal Digit Count and Digit Value",
+            "slug": "check-if-number-has-equal-digit-count-and-digit-value",
+            "acceptance": "72.89%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2284",
+            "title": "Sender With Largest Word Count",
+            "slug": "sender-with-largest-word-count",
+            "acceptance": "55.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2287",
+            "title": "Rearrange Characters to Make Target String",
+            "slug": "rearrange-characters-to-make-target-string",
+            "acceptance": "58.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2341",
+            "title": "Maximum Number of Pairs in Array",
+            "slug": "maximum-number-of-pairs-in-array",
+            "acceptance": "75.83%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2347",
+            "title": "Best Poker Hand",
+            "slug": "best-poker-hand",
+            "acceptance": "60.49%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2351",
+            "title": "First Letter to Appear Twice",
+            "slug": "first-letter-to-appear-twice",
+            "acceptance": "74.59%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2404",
+            "title": "Most Frequent Even Element",
+            "slug": "most-frequent-even-element",
+            "acceptance": "50.91%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2416",
+            "title": "Sum of Prefix Scores of Strings",
+            "slug": "sum-of-prefix-scores-of-strings",
+            "acceptance": "43.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2423",
+            "title": "Remove Letter To Equalize Frequency",
+            "slug": "remove-letter-to-equalize-frequency",
+            "acceptance": "17.81%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2453",
+            "title": "Destroy Sequential Targets",
+            "slug": "destroy-sequential-targets",
+            "acceptance": "37.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2499",
+            "title": "Minimum Total Cost to Make Arrays Unequal",
+            "slug": "minimum-total-cost-to-make-arrays-unequal",
+            "acceptance": "43.01%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2514",
+            "title": "Count Anagrams",
+            "slug": "count-anagrams",
+            "acceptance": "33.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2526",
+            "title": "Find Consecutive Integers from a Data Stream",
+            "slug": "find-consecutive-integers-from-a-data-stream",
+            "acceptance": "45.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2529",
+            "title": "Maximum Count of Positive Integer and Negative Integer",
+            "slug": "maximum-count-of-positive-integer-and-negative-integer",
+            "acceptance": "74.06%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2531",
+            "title": "Make Number of Distinct Characters Equal",
+            "slug": "make-number-of-distinct-characters-equal",
+            "acceptance": "25.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2539",
+            "title": "Count the Number of Good Subsequences",
+            "slug": "count-the-number-of-good-subsequences",
+            "acceptance": "72.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2547",
+            "title": "Minimum Cost to Split an Array",
+            "slug": "minimum-cost-to-split-an-array",
+            "acceptance": "38.76%",
+            "difficulty": "Hard"
+        }
+    ]
+}

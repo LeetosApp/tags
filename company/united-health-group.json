@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1185",
+            "title": "Day of the Week",
+            "slug": "day-of-the-week",
+            "acceptance": "64.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1437",
+            "title": "Check If All 1's Are at Least Length K Places Away",
+            "slug": "check-if-all-1s-are-at-least-length-k-places-away",
+            "acceptance": "63.3%",
+            "difficulty": "Medium"
+        }
+    ]
+}

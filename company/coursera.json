@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "id": "920",
+            "title": "Number of Music Playlists",
+            "slug": "number-of-music-playlists",
+            "acceptance": "46.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "453",
+            "title": "Minimum Moves to Equal Array Elements",
+            "slug": "minimum-moves-to-equal-array-elements",
+            "acceptance": "50.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "68",
+            "title": "Text Justification",
+            "slug": "text-justification",
+            "acceptance": "27.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "761",
+            "title": "Special Binary String",
+            "slug": "special-binary-string",
+            "acceptance": "54.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "10",
+            "title": "Regular Expression Matching",
+            "slug": "regular-expression-matching",
+            "acceptance": "26.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "713",
+            "title": "Subarray Product Less Than K",
+            "slug": "subarray-product-less-than-k",
+            "acceptance": "39.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "780",
+            "title": "Reaching Points",
+            "slug": "reaching-points",
+            "acceptance": "29.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "239",
+            "title": "Sliding Window Maximum",
+            "slug": "sliding-window-maximum",
+            "acceptance": "43.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "44",
+            "title": "Wildcard Matching",
+            "slug": "wildcard-matching",
+            "acceptance": "24.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1112",
+            "title": "Highest Grade For Each Student",
+            "slug": "highest-grade-for-each-student",
+            "acceptance": "69.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "647",
+            "title": "Palindromic Substrings",
+            "slug": "palindromic-substrings",
+            "acceptance": "60.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "392",
+            "title": "Is Subsequence",
+            "slug": "is-subsequence",
+            "acceptance": "49.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "945",
+            "title": "Minimum Increment to Make Array Unique",
+            "slug": "minimum-increment-to-make-array-unique",
+            "acceptance": "46.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1137",
+            "title": "N-th Tribonacci Number",
+            "slug": "n-th-tribonacci-number",
+            "acceptance": "55.9%",
+            "difficulty": "Easy"
+        }
+    ]
+}

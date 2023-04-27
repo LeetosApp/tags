@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1330",
+            "title": "Reverse Subarray To Maximize Array Value",
+            "slug": "reverse-subarray-to-maximize-array-value",
+            "acceptance": "35.2%",
+            "difficulty": "Hard"
+        }
+    ]
+}

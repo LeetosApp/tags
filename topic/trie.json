@@ -1,0 +1,305 @@
+{
+    "questions": [
+        {
+            "id": "139",
+            "title": "Word Break",
+            "slug": "word-break",
+            "acceptance": "45.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "140",
+            "title": "Word Break II",
+            "slug": "word-break-ii",
+            "acceptance": "45.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "208",
+            "title": "Implement Trie (Prefix Tree)",
+            "slug": "implement-trie-prefix-tree",
+            "acceptance": "62.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "211",
+            "title": "Design Add and Search Words Data Structure",
+            "slug": "design-add-and-search-words-data-structure",
+            "acceptance": "44.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "212",
+            "title": "Word Search II",
+            "slug": "word-search-ii",
+            "acceptance": "36.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "336",
+            "title": "Palindrome Pairs",
+            "slug": "palindrome-pairs",
+            "acceptance": "34.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "386",
+            "title": "Lexicographical Numbers",
+            "slug": "lexicographical-numbers",
+            "acceptance": "61.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "421",
+            "title": "Maximum XOR of Two Numbers in an Array",
+            "slug": "maximum-xor-of-two-numbers-in-an-array",
+            "acceptance": "53.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "425",
+            "title": "Word Squares",
+            "slug": "word-squares",
+            "acceptance": "52.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "440",
+            "title": "K-th Smallest in Lexicographical Order",
+            "slug": "k-th-smallest-in-lexicographical-order",
+            "acceptance": "31.16%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "472",
+            "title": "Concatenated Words",
+            "slug": "concatenated-words",
+            "acceptance": "49.93%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "527",
+            "title": "Word Abbreviation",
+            "slug": "word-abbreviation",
+            "acceptance": "60.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "588",
+            "title": "Design In-Memory File System",
+            "slug": "design-in-memory-file-system",
+            "acceptance": "48.54%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "616",
+            "title": "Add Bold Tag in String",
+            "slug": "add-bold-tag-in-string",
+            "acceptance": "48.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "642",
+            "title": "Design Search Autocomplete System",
+            "slug": "design-search-autocomplete-system",
+            "acceptance": "48.62%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "648",
+            "title": "Replace Words",
+            "slug": "replace-words",
+            "acceptance": "62.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "676",
+            "title": "Implement Magic Dictionary",
+            "slug": "implement-magic-dictionary",
+            "acceptance": "56.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "677",
+            "title": "Map Sum Pairs",
+            "slug": "map-sum-pairs",
+            "acceptance": "56.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "692",
+            "title": "Top K Frequent Words",
+            "slug": "top-k-frequent-words",
+            "acceptance": "57.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "720",
+            "title": "Longest Word in Dictionary",
+            "slug": "longest-word-in-dictionary",
+            "acceptance": "51.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "745",
+            "title": "Prefix and Suffix Search",
+            "slug": "prefix-and-suffix-search",
+            "acceptance": "41.22%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "758",
+            "title": "Bold Words in String",
+            "slug": "bold-words-in-string",
+            "acceptance": "50.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "792",
+            "title": "Number of Matching Subsequences",
+            "slug": "number-of-matching-subsequences",
+            "acceptance": "51.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "820",
+            "title": "Short Encoding of Words",
+            "slug": "short-encoding-of-words",
+            "acceptance": "60.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1023",
+            "title": "Camelcase Matching",
+            "slug": "camelcase-matching",
+            "acceptance": "60.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1032",
+            "title": "Stream of Characters",
+            "slug": "stream-of-characters",
+            "acceptance": "51.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1065",
+            "title": "Index Pairs of a String",
+            "slug": "index-pairs-of-a-string",
+            "acceptance": "63.93%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1166",
+            "title": "Design File System",
+            "slug": "design-file-system",
+            "acceptance": "62.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1178",
+            "title": "Number of Valid Words for Each Puzzle",
+            "slug": "number-of-valid-words-for-each-puzzle",
+            "acceptance": "46.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1233",
+            "title": "Remove Sub-Folders from the Filesystem",
+            "slug": "remove-sub-folders-from-the-filesystem",
+            "acceptance": "65.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1268",
+            "title": "Search Suggestions System",
+            "slug": "search-suggestions-system",
+            "acceptance": "66.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1316",
+            "title": "Distinct Echo Substrings",
+            "slug": "distinct-echo-substrings",
+            "acceptance": "49.62%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1698",
+            "title": "Number of Distinct Substrings in a String",
+            "slug": "number-of-distinct-substrings-in-a-string",
+            "acceptance": "63.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1707",
+            "title": "Maximum XOR With an Element From Array",
+            "slug": "maximum-xor-with-an-element-from-array",
+            "acceptance": "45.02%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1803",
+            "title": "Count Pairs With XOR in a Range",
+            "slug": "count-pairs-with-xor-in-a-range",
+            "acceptance": "46.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1804",
+            "title": "Implement Trie II (Prefix Tree)",
+            "slug": "implement-trie-ii-prefix-tree",
+            "acceptance": "59.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1858",
+            "title": "Longest Word With All Prefixes",
+            "slug": "longest-word-with-all-prefixes",
+            "acceptance": "67.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1938",
+            "title": "Maximum Genetic Difference Query",
+            "slug": "maximum-genetic-difference-query",
+            "acceptance": "39.68%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1948",
+            "title": "Delete Duplicate Folders in System",
+            "slug": "delete-duplicate-folders-in-system",
+            "acceptance": "56.21%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2227",
+            "title": "Encrypt and Decrypt Strings",
+            "slug": "encrypt-and-decrypt-strings",
+            "acceptance": "39.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2261",
+            "title": "K Divisible Elements Subarrays",
+            "slug": "k-divisible-elements-subarrays",
+            "acceptance": "48.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2416",
+            "title": "Sum of Prefix Scores of Strings",
+            "slug": "sum-of-prefix-scores-of-strings",
+            "acceptance": "43.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2479",
+            "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+            "slug": "maximum-xor-of-two-non-overlapping-subtrees",
+            "acceptance": "46.48%",
+            "difficulty": "Hard"
+        }
+    ]
+}

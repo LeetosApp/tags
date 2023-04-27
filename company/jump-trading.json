@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "224",
+            "title": "Basic Calculator",
+            "slug": "basic-calculator",
+            "acceptance": "36.8%",
+            "difficulty": "Hard"
+        }
+    ]
+}

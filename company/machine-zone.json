@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "715",
+            "title": "Range Module",
+            "slug": "range-module",
+            "acceptance": "38.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1336",
+            "title": "Number of Transactions per Visit",
+            "slug": "number-of-transactions-per-visit",
+            "acceptance": "43.7%",
+            "difficulty": "Hard"
+        }
+    ]
+}

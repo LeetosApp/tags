@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": "319",
+            "title": "Bulb Switcher",
+            "slug": "bulb-switcher",
+            "acceptance": "50.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "810",
+            "title": "Chalkboard XOR Game",
+            "slug": "chalkboard-xor-game",
+            "acceptance": "55.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1025",
+            "title": "Divisor Game",
+            "slug": "divisor-game",
+            "acceptance": "67.64%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1033",
+            "title": "Moving Stones Until Consecutive",
+            "slug": "moving-stones-until-consecutive",
+            "acceptance": "46.21%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1227",
+            "title": "Airplane Seat Assignment Probability",
+            "slug": "airplane-seat-assignment-probability",
+            "acceptance": "65.61%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1503",
+            "title": "Last Moment Before All Ants Fall Out of a Plank",
+            "slug": "last-moment-before-all-ants-fall-out-of-a-plank",
+            "acceptance": "55.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1908",
+            "title": "Game of Nim",
+            "slug": "game-of-nim",
+            "acceptance": "64.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2396",
+            "title": "Strictly Palindromic Number",
+            "slug": "strictly-palindromic-number",
+            "acceptance": "87.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2419",
+            "title": "Longest Subarray With Maximum Bitwise AND",
+            "slug": "longest-subarray-with-maximum-bitwise-and",
+            "acceptance": "48.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2425",
+            "title": "Bitwise XOR of All Pairings",
+            "slug": "bitwise-xor-of-all-pairings",
+            "acceptance": "58.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2505",
+            "title": "Bitwise OR of All Subsequence Sums",
+            "slug": "bitwise-or-of-all-subsequence-sums",
+            "acceptance": "59.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2568",
+            "title": "Minimum Impossible OR",
+            "slug": "minimum-impossible-or",
+            "acceptance": "57.55%",
+            "difficulty": "Medium"
+        }
+    ]
+}

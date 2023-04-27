@@ -1,0 +1,186 @@
+{
+    "questions": [
+        {
+            "id": "307",
+            "title": "Range Sum Query - Mutable",
+            "slug": "range-sum-query-mutable",
+            "acceptance": "40.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "308",
+            "title": "Range Sum Query 2D - Mutable",
+            "slug": "range-sum-query-2d-mutable",
+            "acceptance": "42.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "315",
+            "title": "Count of Smaller Numbers After Self",
+            "slug": "count-of-smaller-numbers-after-self",
+            "acceptance": "42.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "327",
+            "title": "Count of Range Sum",
+            "slug": "count-of-range-sum",
+            "acceptance": "35.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "406",
+            "title": "Queue Reconstruction by Height",
+            "slug": "queue-reconstruction-by-height",
+            "acceptance": "72.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "493",
+            "title": "Reverse Pairs",
+            "slug": "reverse-pairs",
+            "acceptance": "30.85%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "673",
+            "title": "Number of Longest Increasing Subsequence",
+            "slug": "number-of-longest-increasing-subsequence",
+            "acceptance": "42.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "683",
+            "title": "K Empty Slots",
+            "slug": "k-empty-slots",
+            "acceptance": "36.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1157",
+            "title": "Online Majority Element In Subarray",
+            "slug": "online-majority-element-in-subarray",
+            "acceptance": "41.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1395",
+            "title": "Count Number of Teams",
+            "slug": "count-number-of-teams",
+            "acceptance": "67.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1409",
+            "title": "Queries on a Permutation With Key",
+            "slug": "queries-on-a-permutation-with-key",
+            "acceptance": "83.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1505",
+            "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+            "slug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+            "acceptance": "38.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1649",
+            "title": "Create Sorted Array through Instructions",
+            "slug": "create-sorted-array-through-instructions",
+            "acceptance": "37.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1756",
+            "title": "Design Most Recently Used Queue",
+            "slug": "design-most-recently-used-queue",
+            "acceptance": "78.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1964",
+            "title": "Find the Longest Valid Obstacle Course at Each Position",
+            "slug": "find-the-longest-valid-obstacle-course-at-each-position",
+            "acceptance": "47.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2031",
+            "title": "Count Subarrays With More Ones Than Zeros",
+            "slug": "count-subarrays-with-more-ones-than-zeros",
+            "acceptance": "51.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2179",
+            "title": "Count Good Triplets in an Array",
+            "slug": "count-good-triplets-in-an-array",
+            "acceptance": "38.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2193",
+            "title": "Minimum Number of Moves to Make Palindrome",
+            "slug": "minimum-number-of-moves-to-make-palindrome",
+            "acceptance": "51.16%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2250",
+            "title": "Count Number of Rectangles Containing Each Point",
+            "slug": "count-number-of-rectangles-containing-each-point",
+            "acceptance": "34.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2286",
+            "title": "Booking Concert Tickets in Groups",
+            "slug": "booking-concert-tickets-in-groups",
+            "acceptance": "15.57%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2407",
+            "title": "Longest Increasing Subsequence II",
+            "slug": "longest-increasing-subsequence-ii",
+            "acceptance": "22.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2424",
+            "title": "Longest Uploaded Prefix",
+            "slug": "longest-uploaded-prefix",
+            "acceptance": "54.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2426",
+            "title": "Number of Pairs Satisfying Inequality",
+            "slug": "number-of-pairs-satisfying-inequality",
+            "acceptance": "43.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2519",
+            "title": "Count the Number of K-Big Indices",
+            "slug": "count-the-number-of-k-big-indices",
+            "acceptance": "64.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2552",
+            "title": "Count Increasing Quadruplets",
+            "slug": "count-increasing-quadruplets",
+            "acceptance": "30.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2617",
+            "title": "Minimum Number of Visited Cells in a Grid",
+            "slug": "minimum-number-of-visited-cells-in-a-grid",
+            "acceptance": "28.34%",
+            "difficulty": "Hard"
+        }
+    ]
+}

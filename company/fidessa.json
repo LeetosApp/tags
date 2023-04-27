@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "888",
+            "title": "Fair Candy Swap",
+            "slug": "fair-candy-swap",
+            "acceptance": "58.5%",
+            "difficulty": "Easy"
+        }
+    ]
+}

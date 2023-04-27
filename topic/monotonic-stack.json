@@ -1,0 +1,340 @@
+{
+    "questions": [
+        {
+            "id": "84",
+            "title": "Largest Rectangle in Histogram",
+            "slug": "largest-rectangle-in-histogram",
+            "acceptance": "42.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "85",
+            "title": "Maximal Rectangle",
+            "slug": "maximal-rectangle",
+            "acceptance": "44.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "255",
+            "title": "Verify Preorder Sequence in Binary Search Tree",
+            "slug": "verify-preorder-sequence-in-binary-search-tree",
+            "acceptance": "48.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "316",
+            "title": "Remove Duplicate Letters",
+            "slug": "remove-duplicate-letters",
+            "acceptance": "45.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "321",
+            "title": "Create Maximum Number",
+            "slug": "create-maximum-number",
+            "acceptance": "29.12%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "402",
+            "title": "Remove K Digits",
+            "slug": "remove-k-digits",
+            "acceptance": "30.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "456",
+            "title": "132 Pattern",
+            "slug": "132-pattern",
+            "acceptance": "32.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "496",
+            "title": "Next Greater Element I",
+            "slug": "next-greater-element-i",
+            "acceptance": "71.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "503",
+            "title": "Next Greater Element II",
+            "slug": "next-greater-element-ii",
+            "acceptance": "63.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "581",
+            "title": "Shortest Unsorted Continuous Subarray",
+            "slug": "shortest-unsorted-continuous-subarray",
+            "acceptance": "36.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "654",
+            "title": "Maximum Binary Tree",
+            "slug": "maximum-binary-tree",
+            "acceptance": "84.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "739",
+            "title": "Daily Temperatures",
+            "slug": "daily-temperatures",
+            "acceptance": "66.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "768",
+            "title": "Max Chunks To Make Sorted II",
+            "slug": "max-chunks-to-make-sorted-ii",
+            "acceptance": "52.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "769",
+            "title": "Max Chunks To Make Sorted",
+            "slug": "max-chunks-to-make-sorted",
+            "acceptance": "58.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "853",
+            "title": "Car Fleet",
+            "slug": "car-fleet",
+            "acceptance": "50.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "901",
+            "title": "Online Stock Span",
+            "slug": "online-stock-span",
+            "acceptance": "65.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "907",
+            "title": "Sum of Subarray Minimums",
+            "slug": "sum-of-subarray-minimums",
+            "acceptance": "35.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "962",
+            "title": "Maximum Width Ramp",
+            "slug": "maximum-width-ramp",
+            "acceptance": "48.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "975",
+            "title": "Odd Even Jump",
+            "slug": "odd-even-jump",
+            "acceptance": "38.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1008",
+            "title": "Construct Binary Search Tree from Preorder Traversal",
+            "slug": "construct-binary-search-tree-from-preorder-traversal",
+            "acceptance": "81.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1019",
+            "title": "Next Greater Node In Linked List",
+            "slug": "next-greater-node-in-linked-list",
+            "acceptance": "59.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1063",
+            "title": "Number of Valid Subarrays",
+            "slug": "number-of-valid-subarrays",
+            "acceptance": "74.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1081",
+            "title": "Smallest Subsequence of Distinct Characters",
+            "slug": "smallest-subsequence-of-distinct-characters",
+            "acceptance": "57.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1124",
+            "title": "Longest Well-Performing Interval",
+            "slug": "longest-well-performing-interval",
+            "acceptance": "34.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1130",
+            "title": "Minimum Cost Tree From Leaf Values",
+            "slug": "minimum-cost-tree-from-leaf-values",
+            "acceptance": "68.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1475",
+            "title": "Final Prices With a Special Discount in a Shop",
+            "slug": "final-prices-with-a-special-discount-in-a-shop",
+            "acceptance": "76.15%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1504",
+            "title": "Count Submatrices With All Ones",
+            "slug": "count-submatrices-with-all-ones",
+            "acceptance": "57.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1526",
+            "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+            "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+            "acceptance": "68.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1574",
+            "title": "Shortest Subarray to be Removed to Make Array Sorted",
+            "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+            "acceptance": "37.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1673",
+            "title": "Find the Most Competitive Subsequence",
+            "slug": "find-the-most-competitive-subsequence",
+            "acceptance": "49.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1762",
+            "title": "Buildings With an Ocean View",
+            "slug": "buildings-with-an-ocean-view",
+            "acceptance": "79.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1776",
+            "title": "Car Fleet II",
+            "slug": "car-fleet-ii",
+            "acceptance": "53.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1793",
+            "title": "Maximum Score of a Good Subarray",
+            "slug": "maximum-score-of-a-good-subarray",
+            "acceptance": "53.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1856",
+            "title": "Maximum Subarray Min-Product",
+            "slug": "maximum-subarray-min-product",
+            "acceptance": "37.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1944",
+            "title": "Number of Visible People in a Queue",
+            "slug": "number-of-visible-people-in-a-queue",
+            "acceptance": "68.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1950",
+            "title": "Maximum of Minimum Values in All Subarrays",
+            "slug": "maximum-of-minimum-values-in-all-subarrays",
+            "acceptance": "49.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1996",
+            "title": "The Number of Weak Characters in the Game",
+            "slug": "the-number-of-weak-characters-in-the-game",
+            "acceptance": "43.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2030",
+            "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+            "slug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+            "acceptance": "38.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2104",
+            "title": "Sum of Subarray Ranges",
+            "slug": "sum-of-subarray-ranges",
+            "acceptance": "60.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2281",
+            "title": "Sum of Total Strength of Wizards",
+            "slug": "sum-of-total-strength-of-wizards",
+            "acceptance": "27.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2282",
+            "title": "Number of People That Can Be Seen in a Grid",
+            "slug": "number-of-people-that-can-be-seen-in-a-grid",
+            "acceptance": "49.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2289",
+            "title": "Steps to Make Array Non-decreasing",
+            "slug": "steps-to-make-array-non-decreasing",
+            "acceptance": "20.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2297",
+            "title": "Jump Game VIII",
+            "slug": "jump-game-viii",
+            "acceptance": "55.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2334",
+            "title": "Subarray With Elements Greater Than Varying Threshold",
+            "slug": "subarray-with-elements-greater-than-varying-threshold",
+            "acceptance": "41.23%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2345",
+            "title": "Finding the Number of Visible Mountains",
+            "slug": "finding-the-number-of-visible-mountains",
+            "acceptance": "42.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2355",
+            "title": "Maximum Number of Books You Can Take",
+            "slug": "maximum-number-of-books-you-can-take",
+            "acceptance": "44.02%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2454",
+            "title": "Next Greater Element IV",
+            "slug": "next-greater-element-iv",
+            "acceptance": "39.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2487",
+            "title": "Remove Nodes From Linked List",
+            "slug": "remove-nodes-from-linked-list",
+            "acceptance": "67.54%",
+            "difficulty": "Medium"
+        }
+    ]
+}

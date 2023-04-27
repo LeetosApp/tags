@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "912",
+            "title": "Sort an Array",
+            "slug": "sort-an-array",
+            "acceptance": "59.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2343",
+            "title": "Query Kth Smallest Trimmed Number",
+            "slug": "query-kth-smallest-trimmed-number",
+            "acceptance": "41.36%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1047",
+            "title": "Remove All Adjacent Duplicates In String",
+            "slug": "remove-all-adjacent-duplicates-in-string",
+            "acceptance": "68.6%",
+            "difficulty": "Easy"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "984",
+            "title": "String Without AAA or BBB",
+            "slug": "string-without-aaa-or-bbb",
+            "acceptance": "37.7%",
+            "difficulty": "Medium"
+        }
+    ]
+}

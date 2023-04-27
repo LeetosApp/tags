@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "1168",
+            "title": "Optimize Water Distribution in a Village",
+            "slug": "optimize-water-distribution-in-a-village",
+            "acceptance": "64.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1489",
+            "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+            "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+            "acceptance": "52.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1584",
+            "title": "Min Cost to Connect All Points",
+            "slug": "min-cost-to-connect-all-points",
+            "acceptance": "64.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1724",
+            "title": "Checking Existence of Edge Length Limited Paths II",
+            "slug": "checking-existence-of-edge-length-limited-paths-ii",
+            "acceptance": "52.33%",
+            "difficulty": "Hard"
+        }
+    ]
+}

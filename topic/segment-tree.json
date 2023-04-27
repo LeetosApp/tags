@@ -1,0 +1,228 @@
+{
+    "questions": [
+        {
+            "id": "307",
+            "title": "Range Sum Query - Mutable",
+            "slug": "range-sum-query-mutable",
+            "acceptance": "40.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "308",
+            "title": "Range Sum Query 2D - Mutable",
+            "slug": "range-sum-query-2d-mutable",
+            "acceptance": "42.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "315",
+            "title": "Count of Smaller Numbers After Self",
+            "slug": "count-of-smaller-numbers-after-self",
+            "acceptance": "42.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "327",
+            "title": "Count of Range Sum",
+            "slug": "count-of-range-sum",
+            "acceptance": "35.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "406",
+            "title": "Queue Reconstruction by Height",
+            "slug": "queue-reconstruction-by-height",
+            "acceptance": "72.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "493",
+            "title": "Reverse Pairs",
+            "slug": "reverse-pairs",
+            "acceptance": "30.85%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "673",
+            "title": "Number of Longest Increasing Subsequence",
+            "slug": "number-of-longest-increasing-subsequence",
+            "acceptance": "42.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "699",
+            "title": "Falling Squares",
+            "slug": "falling-squares",
+            "acceptance": "44.68%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "715",
+            "title": "Range Module",
+            "slug": "range-module",
+            "acceptance": "44.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "729",
+            "title": "My Calendar I",
+            "slug": "my-calendar-i",
+            "acceptance": "56.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "731",
+            "title": "My Calendar II",
+            "slug": "my-calendar-ii",
+            "acceptance": "55.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "732",
+            "title": "My Calendar III",
+            "slug": "my-calendar-iii",
+            "acceptance": "71.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "850",
+            "title": "Rectangle Area II",
+            "slug": "rectangle-area-ii",
+            "acceptance": "53.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1157",
+            "title": "Online Majority Element In Subarray",
+            "slug": "online-majority-element-in-subarray",
+            "acceptance": "41.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1505",
+            "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+            "slug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+            "acceptance": "38.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1521",
+            "title": "Find a Value of a Mysterious Function Closest to Target",
+            "slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+            "acceptance": "43.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1622",
+            "title": "Fancy Sequence",
+            "slug": "fancy-sequence",
+            "acceptance": "16.21%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1649",
+            "title": "Create Sorted Array through Instructions",
+            "slug": "create-sorted-array-through-instructions",
+            "acceptance": "37.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1687",
+            "title": "Delivering Boxes from Storage to Ports",
+            "slug": "delivering-boxes-from-storage-to-ports",
+            "acceptance": "38.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2031",
+            "title": "Count Subarrays With More Ones Than Zeros",
+            "slug": "count-subarrays-with-more-ones-than-zeros",
+            "acceptance": "51.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2080",
+            "title": "Range Frequency Queries",
+            "slug": "range-frequency-queries",
+            "acceptance": "38.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2158",
+            "title": "Amount of New Area Painted Each Day",
+            "slug": "amount-of-new-area-painted-each-day",
+            "acceptance": "54.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2179",
+            "title": "Count Good Triplets in an Array",
+            "slug": "count-good-triplets-in-an-array",
+            "acceptance": "38.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2213",
+            "title": "Longest Substring of One Repeating Character",
+            "slug": "longest-substring-of-one-repeating-character",
+            "acceptance": "30.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2276",
+            "title": "Count Integers in Intervals",
+            "slug": "count-integers-in-intervals",
+            "acceptance": "34.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2286",
+            "title": "Booking Concert Tickets in Groups",
+            "slug": "booking-concert-tickets-in-groups",
+            "acceptance": "15.57%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2407",
+            "title": "Longest Increasing Subsequence II",
+            "slug": "longest-increasing-subsequence-ii",
+            "acceptance": "22.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2424",
+            "title": "Longest Uploaded Prefix",
+            "slug": "longest-uploaded-prefix",
+            "acceptance": "54.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2426",
+            "title": "Number of Pairs Satisfying Inequality",
+            "slug": "number-of-pairs-satisfying-inequality",
+            "acceptance": "43.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2519",
+            "title": "Count the Number of K-Big Indices",
+            "slug": "count-the-number-of-k-big-indices",
+            "acceptance": "64.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2569",
+            "title": "Handling Sum Queries After Update",
+            "slug": "handling-sum-queries-after-update",
+            "acceptance": "26.82%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2617",
+            "title": "Minimum Number of Visited Cells in a Grid",
+            "slug": "minimum-number-of-visited-cells-in-a-grid",
+            "acceptance": "28.34%",
+            "difficulty": "Hard"
+        }
+    ]
+}

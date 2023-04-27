@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "811",
+            "title": "Subdomain Visit Count",
+            "slug": "subdomain-visit-count",
+            "acceptance": "69.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "224",
+            "title": "Basic Calculator",
+            "slug": "basic-calculator",
+            "acceptance": "36.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "718",
+            "title": "Maximum Length of Repeated Subarray",
+            "slug": "maximum-length-of-repeated-subarray",
+            "acceptance": "49.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "85",
+            "title": "Maximal Rectangle",
+            "slug": "maximal-rectangle",
+            "acceptance": "37.7%",
+            "difficulty": "Hard"
+        }
+    ]
+}

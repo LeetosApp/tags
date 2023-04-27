@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": "1201",
+            "title": "Ugly Number III",
+            "slug": "ugly-number-iii",
+            "acceptance": "25.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1224",
+            "title": "Maximum Equal Frequency",
+            "slug": "maximum-equal-frequency",
+            "acceptance": "33.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1521",
+            "title": "Find a Value of a Mysterious Function Closest to Target",
+            "slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+            "acceptance": "43.2%",
+            "difficulty": "Hard"
+        }
+    ]
+}

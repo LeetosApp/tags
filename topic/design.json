@@ -1,0 +1,837 @@
+{
+    "questions": [
+        {
+            "id": "155",
+            "title": "Min Stack",
+            "slug": "min-stack",
+            "acceptance": "52.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "170",
+            "title": "Two Sum III - Data structure design",
+            "slug": "two-sum-iii-data-structure-design",
+            "acceptance": "37.39%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "173",
+            "title": "Binary Search Tree Iterator",
+            "slug": "binary-search-tree-iterator",
+            "acceptance": "69.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "208",
+            "title": "Implement Trie (Prefix Tree)",
+            "slug": "implement-trie-prefix-tree",
+            "acceptance": "62.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "211",
+            "title": "Design Add and Search Words Data Structure",
+            "slug": "design-add-and-search-words-data-structure",
+            "acceptance": "44.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "225",
+            "title": "Implement Stack using Queues",
+            "slug": "implement-stack-using-queues",
+            "acceptance": "58.78%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "232",
+            "title": "Implement Queue using Stacks",
+            "slug": "implement-queue-using-stacks",
+            "acceptance": "63.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "244",
+            "title": "Shortest Word Distance II",
+            "slug": "shortest-word-distance-ii",
+            "acceptance": "60.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "251",
+            "title": "Flatten 2D Vector",
+            "slug": "flatten-2d-vector",
+            "acceptance": "49.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "271",
+            "title": "Encode and Decode Strings",
+            "slug": "encode-and-decode-strings",
+            "acceptance": "42.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "281",
+            "title": "Zigzag Iterator",
+            "slug": "zigzag-iterator",
+            "acceptance": "62.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "284",
+            "title": "Peeking Iterator",
+            "slug": "peeking-iterator",
+            "acceptance": "58.69%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "288",
+            "title": "Unique Word Abbreviation",
+            "slug": "unique-word-abbreviation",
+            "acceptance": "25.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "295",
+            "title": "Find Median from Data Stream",
+            "slug": "find-median-from-data-stream",
+            "acceptance": "51.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "297",
+            "title": "Serialize and Deserialize Binary Tree",
+            "slug": "serialize-and-deserialize-binary-tree",
+            "acceptance": "55.46%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "303",
+            "title": "Range Sum Query - Immutable",
+            "slug": "range-sum-query-immutable",
+            "acceptance": "59.72%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "304",
+            "title": "Range Sum Query 2D - Immutable",
+            "slug": "range-sum-query-2d-immutable",
+            "acceptance": "52.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "307",
+            "title": "Range Sum Query - Mutable",
+            "slug": "range-sum-query-mutable",
+            "acceptance": "40.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "308",
+            "title": "Range Sum Query 2D - Mutable",
+            "slug": "range-sum-query-2d-mutable",
+            "acceptance": "42.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "341",
+            "title": "Flatten Nested List Iterator",
+            "slug": "flatten-nested-list-iterator",
+            "acceptance": "61.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "346",
+            "title": "Moving Average from Data Stream",
+            "slug": "moving-average-from-data-stream",
+            "acceptance": "77.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "348",
+            "title": "Design Tic-Tac-Toe",
+            "slug": "design-tic-tac-toe",
+            "acceptance": "57.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "352",
+            "title": "Data Stream as Disjoint Intervals",
+            "slug": "data-stream-as-disjoint-intervals",
+            "acceptance": "59.74%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "353",
+            "title": "Design Snake Game",
+            "slug": "design-snake-game",
+            "acceptance": "39.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "355",
+            "title": "Design Twitter",
+            "slug": "design-twitter",
+            "acceptance": "37.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "359",
+            "title": "Logger Rate Limiter",
+            "slug": "logger-rate-limiter",
+            "acceptance": "75.61%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "362",
+            "title": "Design Hit Counter",
+            "slug": "design-hit-counter",
+            "acceptance": "68.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "379",
+            "title": "Design Phone Directory",
+            "slug": "design-phone-directory",
+            "acceptance": "51.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "380",
+            "title": "Insert Delete GetRandom O(1)",
+            "slug": "insert-delete-getrandom-o1",
+            "acceptance": "52.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "381",
+            "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+            "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+            "acceptance": "35.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "431",
+            "title": "Encode N-ary Tree to Binary Tree",
+            "slug": "encode-n-ary-tree-to-binary-tree",
+            "acceptance": "78.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "432",
+            "title": "All O`one Data Structure",
+            "slug": "all-oone-data-structure",
+            "acceptance": "36.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "449",
+            "title": "Serialize and Deserialize BST",
+            "slug": "serialize-and-deserialize-bst",
+            "acceptance": "57.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "460",
+            "title": "LFU Cache",
+            "slug": "lfu-cache",
+            "acceptance": "43.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "535",
+            "title": "Encode and Decode TinyURL",
+            "slug": "encode-and-decode-tinyurl",
+            "acceptance": "85.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "588",
+            "title": "Design In-Memory File System",
+            "slug": "design-in-memory-file-system",
+            "acceptance": "48.54%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "604",
+            "title": "Design Compressed String Iterator",
+            "slug": "design-compressed-string-iterator",
+            "acceptance": "39.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "622",
+            "title": "Design Circular Queue",
+            "slug": "design-circular-queue",
+            "acceptance": "51.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "631",
+            "title": "Design Excel Sum Formula",
+            "slug": "design-excel-sum-formula",
+            "acceptance": "43.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "635",
+            "title": "Design Log Storage System",
+            "slug": "design-log-storage-system",
+            "acceptance": "62.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "641",
+            "title": "Design Circular Deque",
+            "slug": "design-circular-deque",
+            "acceptance": "57.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "642",
+            "title": "Design Search Autocomplete System",
+            "slug": "design-search-autocomplete-system",
+            "acceptance": "48.62%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "676",
+            "title": "Implement Magic Dictionary",
+            "slug": "implement-magic-dictionary",
+            "acceptance": "56.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "677",
+            "title": "Map Sum Pairs",
+            "slug": "map-sum-pairs",
+            "acceptance": "56.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "703",
+            "title": "Kth Largest Element in a Stream",
+            "slug": "kth-largest-element-in-a-stream",
+            "acceptance": "55.46%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "705",
+            "title": "Design HashSet",
+            "slug": "design-hashset",
+            "acceptance": "65.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "706",
+            "title": "Design HashMap",
+            "slug": "design-hashmap",
+            "acceptance": "64.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "707",
+            "title": "Design Linked List",
+            "slug": "design-linked-list",
+            "acceptance": "27.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "715",
+            "title": "Range Module",
+            "slug": "range-module",
+            "acceptance": "44.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "716",
+            "title": "Max Stack",
+            "slug": "max-stack",
+            "acceptance": "45.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "729",
+            "title": "My Calendar I",
+            "slug": "my-calendar-i",
+            "acceptance": "56.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "731",
+            "title": "My Calendar II",
+            "slug": "my-calendar-ii",
+            "acceptance": "55.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "732",
+            "title": "My Calendar III",
+            "slug": "my-calendar-iii",
+            "acceptance": "71.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "745",
+            "title": "Prefix and Suffix Search",
+            "slug": "prefix-and-suffix-search",
+            "acceptance": "41.22%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "855",
+            "title": "Exam Room",
+            "slug": "exam-room",
+            "acceptance": "43.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "895",
+            "title": "Maximum Frequency Stack",
+            "slug": "maximum-frequency-stack",
+            "acceptance": "66.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "900",
+            "title": "RLE Iterator",
+            "slug": "rle-iterator",
+            "acceptance": "59.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "901",
+            "title": "Online Stock Span",
+            "slug": "online-stock-span",
+            "acceptance": "65.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "911",
+            "title": "Online Election",
+            "slug": "online-election",
+            "acceptance": "52.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "919",
+            "title": "Complete Binary Tree Inserter",
+            "slug": "complete-binary-tree-inserter",
+            "acceptance": "65.08%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "933",
+            "title": "Number of Recent Calls",
+            "slug": "number-of-recent-calls",
+            "acceptance": "73.17%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "981",
+            "title": "Time Based Key-Value Store",
+            "slug": "time-based-key-value-store",
+            "acceptance": "52.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1032",
+            "title": "Stream of Characters",
+            "slug": "stream-of-characters",
+            "acceptance": "51.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1146",
+            "title": "Snapshot Array",
+            "slug": "snapshot-array",
+            "acceptance": "37.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1157",
+            "title": "Online Majority Element In Subarray",
+            "slug": "online-majority-element-in-subarray",
+            "acceptance": "41.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1166",
+            "title": "Design File System",
+            "slug": "design-file-system",
+            "acceptance": "62.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1172",
+            "title": "Dinner Plate Stacks",
+            "slug": "dinner-plate-stacks",
+            "acceptance": "32.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1206",
+            "title": "Design Skiplist",
+            "slug": "design-skiplist",
+            "acceptance": "60.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1244",
+            "title": "Design A Leaderboard",
+            "slug": "design-a-leaderboard",
+            "acceptance": "68.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1261",
+            "title": "Find Elements in a Contaminated Binary Tree",
+            "slug": "find-elements-in-a-contaminated-binary-tree",
+            "acceptance": "76.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1286",
+            "title": "Iterator for Combination",
+            "slug": "iterator-for-combination",
+            "acceptance": "73.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1348",
+            "title": "Tweet Counts Per Frequency",
+            "slug": "tweet-counts-per-frequency",
+            "acceptance": "43.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1352",
+            "title": "Product of the Last K Numbers",
+            "slug": "product-of-the-last-k-numbers",
+            "acceptance": "50.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1357",
+            "title": "Apply Discount Every n Orders",
+            "slug": "apply-discount-every-n-orders",
+            "acceptance": "69.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1381",
+            "title": "Design a Stack With Increment Operation",
+            "slug": "design-a-stack-with-increment-operation",
+            "acceptance": "77.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1396",
+            "title": "Design Underground System",
+            "slug": "design-underground-system",
+            "acceptance": "73.53%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1429",
+            "title": "First Unique Number",
+            "slug": "first-unique-number",
+            "acceptance": "53.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1472",
+            "title": "Design Browser History",
+            "slug": "design-browser-history",
+            "acceptance": "78.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1476",
+            "title": "Subrectangle Queries",
+            "slug": "subrectangle-queries",
+            "acceptance": "88.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1483",
+            "title": "Kth Ancestor of a Tree Node",
+            "slug": "kth-ancestor-of-a-tree-node",
+            "acceptance": "33.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1500",
+            "title": "Design a File Sharing System",
+            "slug": "design-a-file-sharing-system",
+            "acceptance": "44.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1570",
+            "title": "Dot Product of Two Sparse Vectors",
+            "slug": "dot-product-of-two-sparse-vectors",
+            "acceptance": "90.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1586",
+            "title": "Binary Search Tree Iterator II",
+            "slug": "binary-search-tree-iterator-ii",
+            "acceptance": "70.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1600",
+            "title": "Throne Inheritance",
+            "slug": "throne-inheritance",
+            "acceptance": "63.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1603",
+            "title": "Design Parking System",
+            "slug": "design-parking-system",
+            "acceptance": "87.89%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1622",
+            "title": "Fancy Sequence",
+            "slug": "fancy-sequence",
+            "acceptance": "16.21%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1628",
+            "title": "Design an Expression Tree With Evaluate Function",
+            "slug": "design-an-expression-tree-with-evaluate-function",
+            "acceptance": "82.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1656",
+            "title": "Design an Ordered Stream",
+            "slug": "design-an-ordered-stream",
+            "acceptance": "85.05%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1670",
+            "title": "Design Front Middle Back Queue",
+            "slug": "design-front-middle-back-queue",
+            "acceptance": "57.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1756",
+            "title": "Design Most Recently Used Queue",
+            "slug": "design-most-recently-used-queue",
+            "acceptance": "78.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1797",
+            "title": "Design Authentication Manager",
+            "slug": "design-authentication-manager",
+            "acceptance": "57.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1804",
+            "title": "Implement Trie II (Prefix Tree)",
+            "slug": "implement-trie-ii-prefix-tree",
+            "acceptance": "59.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1825",
+            "title": "Finding MK Average",
+            "slug": "finding-mk-average",
+            "acceptance": "35.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1845",
+            "title": "Seat Reservation Manager",
+            "slug": "seat-reservation-manager",
+            "acceptance": "65.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1865",
+            "title": "Finding Pairs With a Certain Sum",
+            "slug": "finding-pairs-with-a-certain-sum",
+            "acceptance": "50.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1912",
+            "title": "Design Movie Rental System",
+            "slug": "design-movie-rental-system",
+            "acceptance": "39.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1993",
+            "title": "Operations on Tree",
+            "slug": "operations-on-tree",
+            "acceptance": "43.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2013",
+            "title": "Detect Squares",
+            "slug": "detect-squares",
+            "acceptance": "50.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2034",
+            "title": "Stock Price Fluctuation ",
+            "slug": "stock-price-fluctuation",
+            "acceptance": "48.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2043",
+            "title": "Simple Bank System",
+            "slug": "simple-bank-system",
+            "acceptance": "65.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2069",
+            "title": "Walking Robot Simulation II",
+            "slug": "walking-robot-simulation-ii",
+            "acceptance": "23.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2080",
+            "title": "Range Frequency Queries",
+            "slug": "range-frequency-queries",
+            "acceptance": "38.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2102",
+            "title": "Sequentially Ordinal Rank Tracker",
+            "slug": "sequentially-ordinal-rank-tracker",
+            "acceptance": "65.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2166",
+            "title": "Design Bitset",
+            "slug": "design-bitset",
+            "acceptance": "31.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2227",
+            "title": "Encrypt and Decrypt Strings",
+            "slug": "encrypt-and-decrypt-strings",
+            "acceptance": "39.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2241",
+            "title": "Design an ATM Machine",
+            "slug": "design-an-atm-machine",
+            "acceptance": "38.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2254",
+            "title": "Design Video Sharing Platform",
+            "slug": "design-video-sharing-platform",
+            "acceptance": "64.34%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2276",
+            "title": "Count Integers in Intervals",
+            "slug": "count-integers-in-intervals",
+            "acceptance": "34.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2286",
+            "title": "Booking Concert Tickets in Groups",
+            "slug": "booking-concert-tickets-in-groups",
+            "acceptance": "15.57%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2296",
+            "title": "Design a Text Editor",
+            "slug": "design-a-text-editor",
+            "acceptance": "40.93%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2336",
+            "title": "Smallest Number in Infinite Set",
+            "slug": "smallest-number-in-infinite-set",
+            "acceptance": "75.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2349",
+            "title": "Design a Number Container System",
+            "slug": "design-a-number-container-system",
+            "acceptance": "45.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2353",
+            "title": "Design a Food Rating System",
+            "slug": "design-a-food-rating-system",
+            "acceptance": "34.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2408",
+            "title": "Design SQL",
+            "slug": "design-sql",
+            "acceptance": "83.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2424",
+            "title": "Longest Uploaded Prefix",
+            "slug": "longest-uploaded-prefix",
+            "acceptance": "54.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2502",
+            "title": "Design Memory Allocator",
+            "slug": "design-memory-allocator",
+            "acceptance": "52.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2526",
+            "title": "Find Consecutive Integers from a Data Stream",
+            "slug": "find-consecutive-integers-from-a-data-stream",
+            "acceptance": "45.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2590",
+            "title": "Design a Todo List",
+            "slug": "design-a-todo-list",
+            "acceptance": "60.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2642",
+            "title": "Design Graph With Shortest Path Calculator",
+            "slug": "design-graph-with-shortest-path-calculator",
+            "acceptance": "56.32%",
+            "difficulty": "Hard"
+        }
+    ]
+}

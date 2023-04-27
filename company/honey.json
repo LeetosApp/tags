@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1239",
+            "title": "Maximum Length of a Concatenated String with Unique Characters",
+            "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+            "acceptance": "47.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "847",
+            "title": "Shortest Path Visiting All Nodes",
+            "slug": "shortest-path-visiting-all-nodes",
+            "acceptance": "52.0%",
+            "difficulty": "Hard"
+        }
+    ]
+}

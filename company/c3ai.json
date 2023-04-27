@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1220",
+            "title": "Count Vowels Permutation",
+            "slug": "count-vowels-permutation",
+            "acceptance": "54.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1419",
+            "title": "Minimum Number of Frogs Croaking",
+            "slug": "minimum-number-of-frogs-croaking",
+            "acceptance": "46.3%",
+            "difficulty": "Medium"
+        }
+    ]
+}

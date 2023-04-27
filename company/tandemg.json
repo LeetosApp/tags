@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "915",
+            "title": "Partition Array into Disjoint Intervals",
+            "slug": "partition-array-into-disjoint-intervals",
+            "acceptance": "45.4%",
+            "difficulty": "Medium"
+        }
+    ]
+}

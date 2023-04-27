@@ -1,0 +1,158 @@
+{
+    "questions": [
+        {
+            "id": "811",
+            "title": "Subdomain Visit Count",
+            "slug": "subdomain-visit-count",
+            "acceptance": "69.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "770",
+            "title": "Basic Calculator IV",
+            "slug": "basic-calculator-iv",
+            "acceptance": "48.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "829",
+            "title": "Consecutive Numbers Sum",
+            "slug": "consecutive-numbers-sum",
+            "acceptance": "37.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "224",
+            "title": "Basic Calculator",
+            "slug": "basic-calculator",
+            "acceptance": "36.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1163",
+            "title": "Last Substring in Lexicographical Order",
+            "slug": "last-substring-in-lexicographical-order",
+            "acceptance": "33.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1297",
+            "title": "Maximum Number of Occurrences of a Substring",
+            "slug": "maximum-number-of-occurrences-of-a-substring",
+            "acceptance": "47.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1328",
+            "title": "Break a Palindrome",
+            "slug": "break-a-palindrome",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1248",
+            "title": "Count Number of Nice Subarrays",
+            "slug": "count-number-of-nice-subarrays",
+            "acceptance": "56.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1290",
+            "title": "Convert Binary Number in a Linked List to Integer",
+            "slug": "convert-binary-number-in-a-linked-list-to-integer",
+            "acceptance": "80.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "146",
+            "title": "LRU Cache",
+            "slug": "lru-cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "212",
+            "title": "Word Search II",
+            "slug": "word-search-ii",
+            "acceptance": "34.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "239",
+            "title": "Sliding Window Maximum",
+            "slug": "sliding-window-maximum",
+            "acceptance": "43.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "647",
+            "title": "Palindromic Substrings",
+            "slug": "palindromic-substrings",
+            "acceptance": "60.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "17",
+            "title": "Letter Combinations of a Phone Number",
+            "slug": "letter-combinations-of-a-phone-number",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "37",
+            "title": "Sudoku Solver",
+            "slug": "sudoku-solver",
+            "acceptance": "43.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "36",
+            "title": "Valid Sudoku",
+            "slug": "valid-sudoku",
+            "acceptance": "48.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "5",
+            "title": "Longest Palindromic Substring",
+            "slug": "longest-palindromic-substring",
+            "acceptance": "29.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1282",
+            "title": "Group the People Given the Group Size They Belong To",
+            "slug": "group-the-people-given-the-group-size-they-belong-to",
+            "acceptance": "83.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1280",
+            "title": "Students and Examinations",
+            "slug": "students-and-examinations",
+            "acceptance": "72.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1364",
+            "title": "Number of Trusted Contacts of a Customer",
+            "slug": "number-of-trusted-contacts-of-a-customer",
+            "acceptance": "75.5%",
+            "difficulty": "Medium"
+        }
+    ]
+}

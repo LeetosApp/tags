@@ -1,0 +1,1110 @@
+{
+    "questions": [
+        {
+            "id": "67",
+            "title": "Add Binary",
+            "slug": "add-binary",
+            "acceptance": "52.41%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "78",
+            "title": "Subsets",
+            "slug": "subsets",
+            "acceptance": "75.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "89",
+            "title": "Gray Code",
+            "slug": "gray-code",
+            "acceptance": "57.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "90",
+            "title": "Subsets II",
+            "slug": "subsets-ii",
+            "acceptance": "55.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "136",
+            "title": "Single Number",
+            "slug": "single-number",
+            "acceptance": "70.78%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "137",
+            "title": "Single Number II",
+            "slug": "single-number-ii",
+            "acceptance": "58.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "187",
+            "title": "Repeated DNA Sequences",
+            "slug": "repeated-dna-sequences",
+            "acceptance": "47.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "190",
+            "title": "Reverse Bits",
+            "slug": "reverse-bits",
+            "acceptance": "54.22%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "191",
+            "title": "Number of 1 Bits",
+            "slug": "number-of-1-bits",
+            "acceptance": "66.82%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "201",
+            "title": "Bitwise AND of Numbers Range",
+            "slug": "bitwise-and-of-numbers-range",
+            "acceptance": "42.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "231",
+            "title": "Power of Two",
+            "slug": "power-of-two",
+            "acceptance": "46.03%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "260",
+            "title": "Single Number III",
+            "slug": "single-number-iii",
+            "acceptance": "67.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "266",
+            "title": "Palindrome Permutation",
+            "slug": "palindrome-permutation",
+            "acceptance": "66.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "268",
+            "title": "Missing Number",
+            "slug": "missing-number",
+            "acceptance": "62.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "287",
+            "title": "Find the Duplicate Number",
+            "slug": "find-the-duplicate-number",
+            "acceptance": "59.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "318",
+            "title": "Maximum Product of Word Lengths",
+            "slug": "maximum-product-of-word-lengths",
+            "acceptance": "59.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "320",
+            "title": "Generalized Abbreviation",
+            "slug": "generalized-abbreviation",
+            "acceptance": "57.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "338",
+            "title": "Counting Bits",
+            "slug": "counting-bits",
+            "acceptance": "75.82%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "342",
+            "title": "Power of Four",
+            "slug": "power-of-four",
+            "acceptance": "46.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "371",
+            "title": "Sum of Two Integers",
+            "slug": "sum-of-two-integers",
+            "acceptance": "50.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "389",
+            "title": "Find the Difference",
+            "slug": "find-the-difference",
+            "acceptance": "59.88%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "393",
+            "title": "UTF-8 Validation",
+            "slug": "utf-8-validation",
+            "acceptance": "45.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "397",
+            "title": "Integer Replacement",
+            "slug": "integer-replacement",
+            "acceptance": "35.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "401",
+            "title": "Binary Watch",
+            "slug": "binary-watch",
+            "acceptance": "52.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "405",
+            "title": "Convert a Number to Hexadecimal",
+            "slug": "convert-a-number-to-hexadecimal",
+            "acceptance": "46.82%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "411",
+            "title": "Minimum Unique Word Abbreviation",
+            "slug": "minimum-unique-word-abbreviation",
+            "acceptance": "39.46%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "421",
+            "title": "Maximum XOR of Two Numbers in an Array",
+            "slug": "maximum-xor-of-two-numbers-in-an-array",
+            "acceptance": "53.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "461",
+            "title": "Hamming Distance",
+            "slug": "hamming-distance",
+            "acceptance": "75.01%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "464",
+            "title": "Can I Win",
+            "slug": "can-i-win",
+            "acceptance": "29.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "465",
+            "title": "Optimal Account Balancing",
+            "slug": "optimal-account-balancing",
+            "acceptance": "49.18%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "473",
+            "title": "Matchsticks to Square",
+            "slug": "matchsticks-to-square",
+            "acceptance": "40.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "476",
+            "title": "Number Complement",
+            "slug": "number-complement",
+            "acceptance": "67.37%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "477",
+            "title": "Total Hamming Distance",
+            "slug": "total-hamming-distance",
+            "acceptance": "52.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "491",
+            "title": "Non-decreasing Subsequences",
+            "slug": "non-decreasing-subsequences",
+            "acceptance": "60.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "526",
+            "title": "Beautiful Arrangement",
+            "slug": "beautiful-arrangement",
+            "acceptance": "64.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "638",
+            "title": "Shopping Offers",
+            "slug": "shopping-offers",
+            "acceptance": "53.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "645",
+            "title": "Set Mismatch",
+            "slug": "set-mismatch",
+            "acceptance": "42.65%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "672",
+            "title": "Bulb Switcher II",
+            "slug": "bulb-switcher-ii",
+            "acceptance": "50.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "691",
+            "title": "Stickers to Spell Word",
+            "slug": "stickers-to-spell-word",
+            "acceptance": "46.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "693",
+            "title": "Binary Number with Alternating Bits",
+            "slug": "binary-number-with-alternating-bits",
+            "acceptance": "61.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "698",
+            "title": "Partition to K Equal Sum Subsets",
+            "slug": "partition-to-k-equal-sum-subsets",
+            "acceptance": "39.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "751",
+            "title": "IP to CIDR",
+            "slug": "ip-to-cidr",
+            "acceptance": "54.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "756",
+            "title": "Pyramid Transition Matrix",
+            "slug": "pyramid-transition-matrix",
+            "acceptance": "52.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "762",
+            "title": "Prime Number of Set Bits in Binary Representation",
+            "slug": "prime-number-of-set-bits-in-binary-representation",
+            "acceptance": "68.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "779",
+            "title": "K-th Symbol in Grammar",
+            "slug": "k-th-symbol-in-grammar",
+            "acceptance": "41.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "782",
+            "title": "Transform to Chessboard",
+            "slug": "transform-to-chessboard",
+            "acceptance": "51.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "784",
+            "title": "Letter Case Permutation",
+            "slug": "letter-case-permutation",
+            "acceptance": "73.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "805",
+            "title": "Split Array With Same Average",
+            "slug": "split-array-with-same-average",
+            "acceptance": "25.67%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "810",
+            "title": "Chalkboard XOR Game",
+            "slug": "chalkboard-xor-game",
+            "acceptance": "55.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "847",
+            "title": "Shortest Path Visiting All Nodes",
+            "slug": "shortest-path-visiting-all-nodes",
+            "acceptance": "60.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "861",
+            "title": "Score After Flipping Matrix",
+            "slug": "score-after-flipping-matrix",
+            "acceptance": "74.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "864",
+            "title": "Shortest Path to Get All Keys",
+            "slug": "shortest-path-to-get-all-keys",
+            "acceptance": "45.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "868",
+            "title": "Binary Gap",
+            "slug": "binary-gap",
+            "acceptance": "62.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "898",
+            "title": "Bitwise ORs of Subarrays",
+            "slug": "bitwise-ors-of-subarrays",
+            "acceptance": "37.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "943",
+            "title": "Find the Shortest Superstring",
+            "slug": "find-the-shortest-superstring",
+            "acceptance": "44.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "957",
+            "title": "Prison Cells After N Days",
+            "slug": "prison-cells-after-n-days",
+            "acceptance": "39.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "980",
+            "title": "Unique Paths III",
+            "slug": "unique-paths-iii",
+            "acceptance": "81.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "982",
+            "title": "Triples with Bitwise AND Equal To Zero",
+            "slug": "triples-with-bitwise-and-equal-to-zero",
+            "acceptance": "57.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "995",
+            "title": "Minimum Number of K Consecutive Bit Flips",
+            "slug": "minimum-number-of-k-consecutive-bit-flips",
+            "acceptance": "51.09%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "996",
+            "title": "Number of Squareful Arrays",
+            "slug": "number-of-squareful-arrays",
+            "acceptance": "49.15%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1009",
+            "title": "Complement of Base 10 Integer",
+            "slug": "complement-of-base-10-integer",
+            "acceptance": "61.43%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1066",
+            "title": "Campus Bikes II",
+            "slug": "campus-bikes-ii",
+            "acceptance": "54.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1125",
+            "title": "Smallest Sufficient Team",
+            "slug": "smallest-sufficient-team",
+            "acceptance": "47.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1177",
+            "title": "Can Make Palindrome from Substring",
+            "slug": "can-make-palindrome-from-substring",
+            "acceptance": "38.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1178",
+            "title": "Number of Valid Words for Each Puzzle",
+            "slug": "number-of-valid-words-for-each-puzzle",
+            "acceptance": "46.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1238",
+            "title": "Circular Permutation in Binary Representation",
+            "slug": "circular-permutation-in-binary-representation",
+            "acceptance": "68.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1239",
+            "title": "Maximum Length of a Concatenated String with Unique Characters",
+            "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+            "acceptance": "52.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1255",
+            "title": "Maximum Score Words Formed by Letters",
+            "slug": "maximum-score-words-formed-by-letters",
+            "acceptance": "72.28%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1256",
+            "title": "Encode Number",
+            "slug": "encode-number",
+            "acceptance": "69.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1284",
+            "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+            "slug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+            "acceptance": "71.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1310",
+            "title": "XOR Queries of a Subarray",
+            "slug": "xor-queries-of-a-subarray",
+            "acceptance": "72.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1318",
+            "title": "Minimum Flips to Make a OR b Equal to c",
+            "slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+            "acceptance": "65.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1342",
+            "title": "Number of Steps to Reduce a Number to Zero",
+            "slug": "number-of-steps-to-reduce-a-number-to-zero",
+            "acceptance": "85.09%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1349",
+            "title": "Maximum Students Taking Exam",
+            "slug": "maximum-students-taking-exam",
+            "acceptance": "49.24%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1356",
+            "title": "Sort Integers by The Number of 1 Bits",
+            "slug": "sort-integers-by-the-number-of-1-bits",
+            "acceptance": "73.26%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1371",
+            "title": "Find the Longest Substring Containing Vowels in Even Counts",
+            "slug": "find-the-longest-substring-containing-vowels-in-even-counts",
+            "acceptance": "63.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1386",
+            "title": "Cinema Seat Allocation",
+            "slug": "cinema-seat-allocation",
+            "acceptance": "40.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1404",
+            "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+            "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+            "acceptance": "52.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1434",
+            "title": "Number of Ways to Wear Different Hats to Each Other",
+            "slug": "number-of-ways-to-wear-different-hats-to-each-other",
+            "acceptance": "43.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1442",
+            "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+            "slug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+            "acceptance": "76.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1457",
+            "title": "Pseudo-Palindromic Paths in a Binary Tree",
+            "slug": "pseudo-palindromic-paths-in-a-binary-tree",
+            "acceptance": "67.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1461",
+            "title": "Check If a String Contains All Binary Codes of Size K",
+            "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+            "acceptance": "56.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1486",
+            "title": "XOR Operation in an Array",
+            "slug": "xor-operation-in-an-array",
+            "acceptance": "84.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1494",
+            "title": "Parallel Courses II",
+            "slug": "parallel-courses-ii",
+            "acceptance": "30.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1506",
+            "title": "Find Root of N-Ary Tree",
+            "slug": "find-root-of-n-ary-tree",
+            "acceptance": "78.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1521",
+            "title": "Find a Value of a Mysterious Function Closest to Target",
+            "slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+            "acceptance": "43.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1525",
+            "title": "Number of Good Ways to Split a String",
+            "slug": "number-of-good-ways-to-split-a-string",
+            "acceptance": "68.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1542",
+            "title": "Find Longest Awesome Substring",
+            "slug": "find-longest-awesome-substring",
+            "acceptance": "41.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1558",
+            "title": "Minimum Numbers of Function Calls to Make Target Array",
+            "slug": "minimum-numbers-of-function-calls-to-make-target-array",
+            "acceptance": "63.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1595",
+            "title": "Minimum Cost to Connect Two Groups of Points",
+            "slug": "minimum-cost-to-connect-two-groups-of-points",
+            "acceptance": "46.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1601",
+            "title": "Maximum Number of Achievable Transfer Requests",
+            "slug": "maximum-number-of-achievable-transfer-requests",
+            "acceptance": "51.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1611",
+            "title": "Minimum One Bit Operations to Make Integers Zero",
+            "slug": "minimum-one-bit-operations-to-make-integers-zero",
+            "acceptance": "63.39%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1617",
+            "title": "Count Subtrees With Max Distance Between Cities",
+            "slug": "count-subtrees-with-max-distance-between-cities",
+            "acceptance": "65.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1655",
+            "title": "Distribute Repeating Integers",
+            "slug": "distribute-repeating-integers",
+            "acceptance": "39.41%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1659",
+            "title": "Maximize Grid Happiness",
+            "slug": "maximize-grid-happiness",
+            "acceptance": "38.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1680",
+            "title": "Concatenation of Consecutive Binary Numbers",
+            "slug": "concatenation-of-consecutive-binary-numbers",
+            "acceptance": "57.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1681",
+            "title": "Minimum Incompatibility",
+            "slug": "minimum-incompatibility",
+            "acceptance": "37.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1684",
+            "title": "Count the Number of Consistent Strings",
+            "slug": "count-the-number-of-consistent-strings",
+            "acceptance": "82.34%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1707",
+            "title": "Maximum XOR With an Element From Array",
+            "slug": "maximum-xor-with-an-element-from-array",
+            "acceptance": "45.02%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1720",
+            "title": "Decode XORed Array",
+            "slug": "decode-xored-array",
+            "acceptance": "85.83%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1723",
+            "title": "Find Minimum Time to Finish All Jobs",
+            "slug": "find-minimum-time-to-finish-all-jobs",
+            "acceptance": "42.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1734",
+            "title": "Decode XORed Permutation",
+            "slug": "decode-xored-permutation",
+            "acceptance": "63.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1738",
+            "title": "Find Kth Largest XOR Coordinate Value",
+            "slug": "find-kth-largest-xor-coordinate-value",
+            "acceptance": "61.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1755",
+            "title": "Closest Subsequence Sum",
+            "slug": "closest-subsequence-sum",
+            "acceptance": "36.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1763",
+            "title": "Longest Nice Substring",
+            "slug": "longest-nice-substring",
+            "acceptance": "61.47%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1787",
+            "title": "Make the XOR of All Segments Equal to Zero",
+            "slug": "make-the-xor-of-all-segments-equal-to-zero",
+            "acceptance": "39.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1799",
+            "title": "Maximize Score After N Operations",
+            "slug": "maximize-score-after-n-operations",
+            "acceptance": "46.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1803",
+            "title": "Count Pairs With XOR in a Range",
+            "slug": "count-pairs-with-xor-in-a-range",
+            "acceptance": "46.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1815",
+            "title": "Maximum Number of Groups Getting Fresh Donuts",
+            "slug": "maximum-number-of-groups-getting-fresh-donuts",
+            "acceptance": "39.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1829",
+            "title": "Maximum XOR for Each Query",
+            "slug": "maximum-xor-for-each-query",
+            "acceptance": "76.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1835",
+            "title": "Find XOR Sum of All Pairs Bitwise AND",
+            "slug": "find-xor-sum-of-all-pairs-bitwise-and",
+            "acceptance": "60.54%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1863",
+            "title": "Sum of All Subset XOR Totals",
+            "slug": "sum-of-all-subset-xor-totals",
+            "acceptance": "80.22%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1879",
+            "title": "Minimum XOR Sum of Two Arrays",
+            "slug": "minimum-xor-sum-of-two-arrays",
+            "acceptance": "45.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1908",
+            "title": "Game of Nim",
+            "slug": "game-of-nim",
+            "acceptance": "64.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1915",
+            "title": "Number of Wonderful Substrings",
+            "slug": "number-of-wonderful-substrings",
+            "acceptance": "45.53%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1938",
+            "title": "Maximum Genetic Difference Query",
+            "slug": "maximum-genetic-difference-query",
+            "acceptance": "39.68%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1947",
+            "title": "Maximum Compatibility Score Sum",
+            "slug": "maximum-compatibility-score-sum",
+            "acceptance": "61.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1986",
+            "title": "Minimum Number of Work Sessions to Finish the Tasks",
+            "slug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+            "acceptance": "32.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1994",
+            "title": "The Number of Good Subsets",
+            "slug": "the-number-of-good-subsets",
+            "acceptance": "34.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2002",
+            "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+            "slug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
+            "acceptance": "54.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2035",
+            "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+            "slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+            "acceptance": "18.89%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2044",
+            "title": "Count Number of Maximum Bitwise-OR Subsets",
+            "slug": "count-number-of-maximum-bitwise-or-subsets",
+            "acceptance": "75.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2128",
+            "title": "Remove All Ones With Row and Column Flips",
+            "slug": "remove-all-ones-with-row-and-column-flips",
+            "acceptance": "76.34%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2135",
+            "title": "Count Words Obtained After Adding a Letter",
+            "slug": "count-words-obtained-after-adding-a-letter",
+            "acceptance": "42.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2151",
+            "title": "Maximum Good People Based on Statements",
+            "slug": "maximum-good-people-based-on-statements",
+            "acceptance": "49.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2152",
+            "title": "Minimum Number of Lines to Cover Points",
+            "slug": "minimum-number-of-lines-to-cover-points",
+            "acceptance": "47.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2157",
+            "title": "Groups of Strings",
+            "slug": "groups-of-strings",
+            "acceptance": "25.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2172",
+            "title": "Maximum AND Sum of Array",
+            "slug": "maximum-and-sum-of-array",
+            "acceptance": "48.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2174",
+            "title": "Remove All Ones With Row and Column Flips II",
+            "slug": "remove-all-ones-with-row-and-column-flips-ii",
+            "acceptance": "68.34%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2184",
+            "title": "Number of Ways to Build Sturdy Brick Wall",
+            "slug": "number-of-ways-to-build-sturdy-brick-wall",
+            "acceptance": "50.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2206",
+            "title": "Divide Array Into Equal Pairs",
+            "slug": "divide-array-into-equal-pairs",
+            "acceptance": "73.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2212",
+            "title": "Maximum Points in an Archery Competition",
+            "slug": "maximum-points-in-an-archery-competition",
+            "acceptance": "49.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2220",
+            "title": "Minimum Bit Flips to Convert Number",
+            "slug": "minimum-bit-flips-to-convert-number",
+            "acceptance": "82.42%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2247",
+            "title": "Maximum Cost of Trip With K Highways",
+            "slug": "maximum-cost-of-trip-with-k-highways",
+            "acceptance": "50.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2275",
+            "title": "Largest Combination With Bitwise AND Greater Than Zero",
+            "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+            "acceptance": "72.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2305",
+            "title": "Fair Distribution of Cookies",
+            "slug": "fair-distribution-of-cookies",
+            "acceptance": "61.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2306",
+            "title": "Naming a Company",
+            "slug": "naming-a-company",
+            "acceptance": "47.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2317",
+            "title": "Maximum XOR After Operations ",
+            "slug": "maximum-xor-after-operations",
+            "acceptance": "79.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2322",
+            "title": "Minimum Score After Removals on a Tree",
+            "slug": "minimum-score-after-removals-on-a-tree",
+            "acceptance": "50.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2354",
+            "title": "Number of Excellent Pairs",
+            "slug": "number-of-excellent-pairs",
+            "acceptance": "45.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2397",
+            "title": "Maximum Rows Covered by Columns",
+            "slug": "maximum-rows-covered-by-columns",
+            "acceptance": "53.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2401",
+            "title": "Longest Nice Subarray",
+            "slug": "longest-nice-subarray",
+            "acceptance": "49.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2403",
+            "title": "Minimum Time to Kill All Monsters",
+            "slug": "minimum-time-to-kill-all-monsters",
+            "acceptance": "53.42%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2411",
+            "title": "Smallest Subarrays With Maximum Bitwise OR",
+            "slug": "smallest-subarrays-with-maximum-bitwise-or",
+            "acceptance": "41.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2419",
+            "title": "Longest Subarray With Maximum Bitwise AND",
+            "slug": "longest-subarray-with-maximum-bitwise-and",
+            "acceptance": "48.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2425",
+            "title": "Bitwise XOR of All Pairings",
+            "slug": "bitwise-xor-of-all-pairings",
+            "acceptance": "58.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2429",
+            "title": "Minimize XOR",
+            "slug": "minimize-xor",
+            "acceptance": "42.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2433",
+            "title": "Find The Original Array of Prefix Xor",
+            "slug": "find-the-original-array-of-prefix-xor",
+            "acceptance": "85.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2438",
+            "title": "Range Product Queries of Powers",
+            "slug": "range-product-queries-of-powers",
+            "acceptance": "38.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2505",
+            "title": "Bitwise OR of All Subsequence Sums",
+            "slug": "bitwise-or-of-all-subsequence-sums",
+            "acceptance": "59.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2527",
+            "title": "Find Xor-Beauty of Array",
+            "slug": "find-xor-beauty-of-array",
+            "acceptance": "70.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2546",
+            "title": "Apply Bitwise Operations to Make Strings Equal",
+            "slug": "apply-bitwise-operations-to-make-strings-equal",
+            "acceptance": "40.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2564",
+            "title": "Substring XOR Queries",
+            "slug": "substring-xor-queries",
+            "acceptance": "33.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2568",
+            "title": "Minimum Impossible OR",
+            "slug": "minimum-impossible-or",
+            "acceptance": "57.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2571",
+            "title": "Minimum Operations to Reduce an Integer to 0",
+            "slug": "minimum-operations-to-reduce-an-integer-to-0",
+            "acceptance": "49.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2572",
+            "title": "Count the Number of Square-Free Subsets",
+            "slug": "count-the-number-of-square-free-subsets",
+            "acceptance": "20.82%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2588",
+            "title": "Count the Number of Beautiful Subarrays",
+            "slug": "count-the-number-of-beautiful-subarrays",
+            "acceptance": "49.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2595",
+            "title": "Number of Even and Odd Bits",
+            "slug": "number-of-even-and-odd-bits",
+            "acceptance": "70.9%",
+            "difficulty": "Easy"
+        }
+    ]
+}

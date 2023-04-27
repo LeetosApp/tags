@@ -1,0 +1,508 @@
+{
+    "questions": [
+        {
+            "id": "130",
+            "title": "Surrounded Regions",
+            "slug": "surrounded-regions",
+            "acceptance": "36.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "57.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "261",
+            "title": "Graph Valid Tree",
+            "slug": "graph-valid-tree",
+            "acceptance": "47.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "305",
+            "title": "Number of Islands II",
+            "slug": "number-of-islands-ii",
+            "acceptance": "39.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "323",
+            "title": "Number of Connected Components in an Undirected Graph",
+            "slug": "number-of-connected-components-in-an-undirected-graph",
+            "acceptance": "62.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "399",
+            "title": "Evaluate Division",
+            "slug": "evaluate-division",
+            "acceptance": "59.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "547",
+            "title": "Number of Provinces",
+            "slug": "number-of-provinces",
+            "acceptance": "63.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "684",
+            "title": "Redundant Connection",
+            "slug": "redundant-connection",
+            "acceptance": "62.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "685",
+            "title": "Redundant Connection II",
+            "slug": "redundant-connection-ii",
+            "acceptance": "34.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "694",
+            "title": "Number of Distinct Islands",
+            "slug": "number-of-distinct-islands",
+            "acceptance": "60.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "695",
+            "title": "Max Area of Island",
+            "slug": "max-area-of-island",
+            "acceptance": "71.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "711",
+            "title": "Number of Distinct Islands II",
+            "slug": "number-of-distinct-islands-ii",
+            "acceptance": "52.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "721",
+            "title": "Accounts Merge",
+            "slug": "accounts-merge",
+            "acceptance": "56.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "737",
+            "title": "Sentence Similarity II",
+            "slug": "sentence-similarity-ii",
+            "acceptance": "49.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "765",
+            "title": "Couples Holding Hands",
+            "slug": "couples-holding-hands",
+            "acceptance": "56.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "778",
+            "title": "Swim in Rising Water",
+            "slug": "swim-in-rising-water",
+            "acceptance": "59.81%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "785",
+            "title": "Is Graph Bipartite?",
+            "slug": "is-graph-bipartite",
+            "acceptance": "53.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "803",
+            "title": "Bricks Falling When Hit",
+            "slug": "bricks-falling-when-hit",
+            "acceptance": "34.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "827",
+            "title": "Making A Large Island",
+            "slug": "making-a-large-island",
+            "acceptance": "44.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "839",
+            "title": "Similar String Groups",
+            "slug": "similar-string-groups",
+            "acceptance": "48.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "886",
+            "title": "Possible Bipartition",
+            "slug": "possible-bipartition",
+            "acceptance": "50.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "924",
+            "title": "Minimize Malware Spread",
+            "slug": "minimize-malware-spread",
+            "acceptance": "42.14%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "928",
+            "title": "Minimize Malware Spread II",
+            "slug": "minimize-malware-spread-ii",
+            "acceptance": "42.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "947",
+            "title": "Most Stones Removed with Same Row or Column",
+            "slug": "most-stones-removed-with-same-row-or-column",
+            "acceptance": "58.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "952",
+            "title": "Largest Component Size by Common Factor",
+            "slug": "largest-component-size-by-common-factor",
+            "acceptance": "39.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "959",
+            "title": "Regions Cut By Slashes",
+            "slug": "regions-cut-by-slashes",
+            "acceptance": "69.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "990",
+            "title": "Satisfiability of Equality Equations",
+            "slug": "satisfiability-of-equality-equations",
+            "acceptance": "50.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1020",
+            "title": "Number of Enclaves",
+            "slug": "number-of-enclaves",
+            "acceptance": "68.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1061",
+            "title": "Lexicographically Smallest Equivalent String",
+            "slug": "lexicographically-smallest-equivalent-string",
+            "acceptance": "76.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1101",
+            "title": "The Earliest Moment When Everyone Become Friends",
+            "slug": "the-earliest-moment-when-everyone-become-friends",
+            "acceptance": "64.62%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1102",
+            "title": "Path With Maximum Minimum Value",
+            "slug": "path-with-maximum-minimum-value",
+            "acceptance": "53.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1135",
+            "title": "Connecting Cities With Minimum Cost",
+            "slug": "connecting-cities-with-minimum-cost",
+            "acceptance": "61.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1168",
+            "title": "Optimize Water Distribution in a Village",
+            "slug": "optimize-water-distribution-in-a-village",
+            "acceptance": "64.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1202",
+            "title": "Smallest String With Swaps",
+            "slug": "smallest-string-with-swaps",
+            "acceptance": "57.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1254",
+            "title": "Number of Closed Islands",
+            "slug": "number-of-closed-islands",
+            "acceptance": "67.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1258",
+            "title": "Synonymous Sentences",
+            "slug": "synonymous-sentences",
+            "acceptance": "56.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1267",
+            "title": "Count Servers that Communicate",
+            "slug": "count-servers-that-communicate",
+            "acceptance": "59.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1319",
+            "title": "Number of Operations to Make Network Connected",
+            "slug": "number-of-operations-to-make-network-connected",
+            "acceptance": "62.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1361",
+            "title": "Validate Binary Tree Nodes",
+            "slug": "validate-binary-tree-nodes",
+            "acceptance": "39.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1391",
+            "title": "Check if There is a Valid Path in a Grid",
+            "slug": "check-if-there-is-a-valid-path-in-a-grid",
+            "acceptance": "47.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1489",
+            "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+            "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+            "acceptance": "52.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1559",
+            "title": "Detect Cycles in 2D Grid",
+            "slug": "detect-cycles-in-2d-grid",
+            "acceptance": "48.08%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1569",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+            "acceptance": "47.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1579",
+            "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+            "slug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+            "acceptance": "53.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1584",
+            "title": "Min Cost to Connect All Points",
+            "slug": "min-cost-to-connect-all-points",
+            "acceptance": "64.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1627",
+            "title": "Graph Connectivity With Threshold",
+            "slug": "graph-connectivity-with-threshold",
+            "acceptance": "46.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1631",
+            "title": "Path With Minimum Effort",
+            "slug": "path-with-minimum-effort",
+            "acceptance": "55.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1632",
+            "title": "Rank Transform of a Matrix",
+            "slug": "rank-transform-of-a-matrix",
+            "acceptance": "40.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1697",
+            "title": "Checking Existence of Edge Length Limited Paths",
+            "slug": "checking-existence-of-edge-length-limited-paths",
+            "acceptance": "50.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1722",
+            "title": "Minimize Hamming Distance After Swap Operations",
+            "slug": "minimize-hamming-distance-after-swap-operations",
+            "acceptance": "48.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1724",
+            "title": "Checking Existence of Edge Length Limited Paths II",
+            "slug": "checking-existence-of-edge-length-limited-paths-ii",
+            "acceptance": "52.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1905",
+            "title": "Count Sub Islands",
+            "slug": "count-sub-islands",
+            "acceptance": "67.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1970",
+            "title": "Last Day Where You Can Still Cross",
+            "slug": "last-day-where-you-can-still-cross",
+            "acceptance": "49.47%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1971",
+            "title": "Find if Path Exists in Graph",
+            "slug": "find-if-path-exists-in-graph",
+            "acceptance": "51.97%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1998",
+            "title": "GCD Sort of an Array",
+            "slug": "gcd-sort-of-an-array",
+            "acceptance": "45.41%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2003",
+            "title": "Smallest Missing Genetic Value in Each Subtree",
+            "slug": "smallest-missing-genetic-value-in-each-subtree",
+            "acceptance": "44.73%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2076",
+            "title": "Process Restricted Friend Requests",
+            "slug": "process-restricted-friend-requests",
+            "acceptance": "53.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2092",
+            "title": "Find All People With Secret",
+            "slug": "find-all-people-with-secret",
+            "acceptance": "34.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2157",
+            "title": "Groups of Strings",
+            "slug": "groups-of-strings",
+            "acceptance": "25.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2204",
+            "title": "Distance to a Cycle in Undirected Graph",
+            "slug": "distance-to-a-cycle-in-undirected-graph",
+            "acceptance": "69.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2307",
+            "title": "Check for Contradictions in Equations",
+            "slug": "check-for-contradictions-in-equations",
+            "acceptance": "43.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2316",
+            "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+            "slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+            "acceptance": "50.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2334",
+            "title": "Subarray With Elements Greater Than Varying Threshold",
+            "slug": "subarray-with-elements-greater-than-varying-threshold",
+            "acceptance": "41.23%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2371",
+            "title": "Minimize Maximum Value in a Grid",
+            "slug": "minimize-maximum-value-in-a-grid",
+            "acceptance": "71.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2382",
+            "title": "Maximum Segment Sum After Removals",
+            "slug": "maximum-segment-sum-after-removals",
+            "acceptance": "47.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2421",
+            "title": "Number of Good Paths",
+            "slug": "number-of-good-paths",
+            "acceptance": "57.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2424",
+            "title": "Longest Uploaded Prefix",
+            "slug": "longest-uploaded-prefix",
+            "acceptance": "54.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2492",
+            "title": "Minimum Score of a Path Between Two Cities",
+            "slug": "minimum-score-of-a-path-between-two-cities",
+            "acceptance": "57.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2493",
+            "title": "Divide Nodes Into the Maximum Number of Groups",
+            "slug": "divide-nodes-into-the-maximum-number-of-groups",
+            "acceptance": "36.82%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2503",
+            "title": "Maximum Number of Points From Grid Queries",
+            "slug": "maximum-number-of-points-from-grid-queries",
+            "acceptance": "36.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2573",
+            "title": "Find the String with LCP",
+            "slug": "find-the-string-with-lcp",
+            "acceptance": "34.96%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2617",
+            "title": "Minimum Number of Visited Cells in a Grid",
+            "slug": "minimum-number-of-visited-cells-in-a-grid",
+            "acceptance": "28.34%",
+            "difficulty": "Hard"
+        }
+    ]
+}

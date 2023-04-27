@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": "1358",
+            "title": "Number of Substrings Containing All Three Characters",
+            "slug": "number-of-substrings-containing-all-three-characters",
+            "acceptance": "58.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1122",
+            "title": "Relative Sort Array",
+            "slug": "relative-sort-array",
+            "acceptance": "67.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1262",
+            "title": "Greatest Sum Divisible by Three",
+            "slug": "greatest-sum-divisible-by-three",
+            "acceptance": "47.6%",
+            "difficulty": "Medium"
+        }
+    ]
+}

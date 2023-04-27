@@ -1,0 +1,123 @@
+{
+    "questions": [
+        {
+            "id": "158",
+            "title": "Read N Characters Given read4 II - Call Multiple Times",
+            "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+            "acceptance": "41.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "277",
+            "title": "Find the Celebrity",
+            "slug": "find-the-celebrity",
+            "acceptance": "46.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "278",
+            "title": "First Bad Version",
+            "slug": "first-bad-version",
+            "acceptance": "43.39%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "374",
+            "title": "Guess Number Higher or Lower",
+            "slug": "guess-number-higher-or-lower",
+            "acceptance": "51.92%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "489",
+            "title": "Robot Room Cleaner",
+            "slug": "robot-room-cleaner",
+            "acceptance": "76.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "702",
+            "title": "Search in a Sorted Array of Unknown Size",
+            "slug": "search-in-a-sorted-array-of-unknown-size",
+            "acceptance": "71.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "843",
+            "title": "Guess the Word",
+            "slug": "guess-the-word",
+            "acceptance": "41.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1095",
+            "title": "Find in Mountain Array",
+            "slug": "find-in-mountain-array",
+            "acceptance": "35.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1236",
+            "title": "Web Crawler",
+            "slug": "web-crawler",
+            "acceptance": "67.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1237",
+            "title": "Find Positive Integer Solution for a Given Equation",
+            "slug": "find-positive-integer-solution-for-a-given-equation",
+            "acceptance": "69.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1274",
+            "title": "Number of Ships in a Rectangle",
+            "slug": "number-of-ships-in-a-rectangle",
+            "acceptance": "69.18%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1428",
+            "title": "Leftmost Column with at Least a One",
+            "slug": "leftmost-column-with-at-least-a-one",
+            "acceptance": "53.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1533",
+            "title": "Find the Index of the Large Integer",
+            "slug": "find-the-index-of-the-large-integer",
+            "acceptance": "56.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1538",
+            "title": "Guess the Majority in a Hidden Array",
+            "slug": "guess-the-majority-in-a-hidden-array",
+            "acceptance": "63.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1618",
+            "title": "Maximum Font to Fit a Sentence in a Screen",
+            "slug": "maximum-font-to-fit-a-sentence-in-a-screen",
+            "acceptance": "59.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1778",
+            "title": "Shortest Path in a Hidden Grid",
+            "slug": "shortest-path-in-a-hidden-grid",
+            "acceptance": "39.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1810",
+            "title": "Minimum Path Cost in a Hidden Grid",
+            "slug": "minimum-path-cost-in-a-hidden-grid",
+            "acceptance": "54.46%",
+            "difficulty": "Medium"
+        }
+    ]
+}

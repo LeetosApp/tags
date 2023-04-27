@@ -1,0 +1,123 @@
+{
+    "questions": [
+        {
+            "id": "214",
+            "title": "Shortest Palindrome",
+            "slug": "shortest-palindrome",
+            "acceptance": "32.35%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "459",
+            "title": "Repeated Substring Pattern",
+            "slug": "repeated-substring-pattern",
+            "acceptance": "43.72%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "572",
+            "title": "Subtree of Another Tree",
+            "slug": "subtree-of-another-tree",
+            "acceptance": "46.44%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "616",
+            "title": "Add Bold Tag in String",
+            "slug": "add-bold-tag-in-string",
+            "acceptance": "48.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "686",
+            "title": "Repeated String Match",
+            "slug": "repeated-string-match",
+            "acceptance": "34.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "758",
+            "title": "Bold Words in String",
+            "slug": "bold-words-in-string",
+            "acceptance": "50.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "796",
+            "title": "Rotate String",
+            "slug": "rotate-string",
+            "acceptance": "55.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1023",
+            "title": "Camelcase Matching",
+            "slug": "camelcase-matching",
+            "acceptance": "60.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1392",
+            "title": "Longest Happy Prefix",
+            "slug": "longest-happy-prefix",
+            "acceptance": "44.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1397",
+            "title": "Find All Good Strings",
+            "slug": "find-all-good-strings",
+            "acceptance": "42.15%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1408",
+            "title": "String Matching in an Array",
+            "slug": "string-matching-in-an-array",
+            "acceptance": "63.75%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1455",
+            "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+            "slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+            "acceptance": "64.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1668",
+            "title": "Maximum Repeating Substring",
+            "slug": "maximum-repeating-substring",
+            "acceptance": "39.34%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1764",
+            "title": "Form Array by Concatenating Subarrays of Another Array",
+            "slug": "form-array-by-concatenating-subarrays-of-another-array",
+            "acceptance": "52.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2223",
+            "title": "Sum of Scores of Built Strings",
+            "slug": "sum-of-scores-of-built-strings",
+            "acceptance": "37.44%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2301",
+            "title": "Match Substring After Replacement",
+            "slug": "match-substring-after-replacement",
+            "acceptance": "39.42%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2430",
+            "title": "Maximum Deletions on a String",
+            "slug": "maximum-deletions-on-a-string",
+            "acceptance": "31.96%",
+            "difficulty": "Hard"
+        }
+    ]
+}

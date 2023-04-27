@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "29",
+            "title": "Divide Two Integers",
+            "slug": "divide-two-integers",
+            "acceptance": "16.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "495",
+            "title": "Teemo Attacking",
+            "slug": "teemo-attacking",
+            "acceptance": "53.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "37",
+            "title": "Sudoku Solver",
+            "slug": "sudoku-solver",
+            "acceptance": "43.6%",
+            "difficulty": "Hard"
+        }
+    ]
+}

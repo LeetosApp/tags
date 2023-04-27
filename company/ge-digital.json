@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "697",
+            "title": "Degree of an Array",
+            "slug": "degree-of-an-array",
+            "acceptance": "53.8%",
+            "difficulty": "Easy"
+        }
+    ]
+}

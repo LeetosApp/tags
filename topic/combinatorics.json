@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "id": "458",
+            "title": "Poor Pigs",
+            "slug": "poor-pigs",
+            "acceptance": "62.63%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "920",
+            "title": "Number of Music Playlists",
+            "slug": "number-of-music-playlists",
+            "acceptance": "50.69%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1359",
+            "title": "Count All Valid Pickup and Delivery Options",
+            "slug": "count-all-valid-pickup-and-delivery-options",
+            "acceptance": "62.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1467",
+            "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+            "slug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+            "acceptance": "60.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1569",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+            "acceptance": "47.72%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1641",
+            "title": "Count Sorted Vowel Strings",
+            "slug": "count-sorted-vowel-strings",
+            "acceptance": "77.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1643",
+            "title": "Kth Smallest Instructions",
+            "slug": "kth-smallest-instructions",
+            "acceptance": "47.04%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1735",
+            "title": "Count Ways to Make Array With Product",
+            "slug": "count-ways-to-make-array-with-product",
+            "acceptance": "49.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1830",
+            "title": "Minimum Number of Operations to Make String Sorted",
+            "slug": "minimum-number-of-operations-to-make-string-sorted",
+            "acceptance": "48.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1863",
+            "title": "Sum of All Subset XOR Totals",
+            "slug": "sum-of-all-subset-xor-totals",
+            "acceptance": "80.22%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1866",
+            "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+            "slug": "number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+            "acceptance": "55.82%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1916",
+            "title": "Count Ways to Build Rooms in an Ant Colony",
+            "slug": "count-ways-to-build-rooms-in-an-ant-colony",
+            "acceptance": "49.21%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2063",
+            "title": "Vowels of All Substrings",
+            "slug": "vowels-of-all-substrings",
+            "acceptance": "54.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2221",
+            "title": "Find Triangular Sum of an Array",
+            "slug": "find-triangular-sum-of-an-array",
+            "acceptance": "78.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2338",
+            "title": "Count the Number of Ideal Arrays",
+            "slug": "count-the-number-of-ideal-arrays",
+            "acceptance": "26.25%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2400",
+            "title": "Number of Ways to Reach a Position After Exactly k Steps",
+            "slug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+            "acceptance": "33.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2514",
+            "title": "Count Anagrams",
+            "slug": "count-anagrams",
+            "acceptance": "33.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2539",
+            "title": "Count the Number of Good Subsequences",
+            "slug": "count-the-number-of-good-subsequences",
+            "acceptance": "72.28%",
+            "difficulty": "Medium"
+        }
+    ]
+}

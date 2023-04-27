@@ -1,0 +1,53 @@
+{
+    "questions": [
+        {
+            "id": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "acceptance": "64.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "430",
+            "title": "Flatten a Multilevel Doubly Linked List",
+            "slug": "flatten-a-multilevel-doubly-linked-list",
+            "acceptance": "59.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "432",
+            "title": "All O`one Data Structure",
+            "slug": "all-oone-data-structure",
+            "acceptance": "36.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "460",
+            "title": "LFU Cache",
+            "slug": "lfu-cache",
+            "acceptance": "43.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "716",
+            "title": "Max Stack",
+            "slug": "max-stack",
+            "acceptance": "45.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1472",
+            "title": "Design Browser History",
+            "slug": "design-browser-history",
+            "acceptance": "78.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2296",
+            "title": "Design a Text Editor",
+            "slug": "design-a-text-editor",
+            "acceptance": "40.93%",
+            "difficulty": "Hard"
+        }
+    ]
+}

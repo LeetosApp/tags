@@ -1,0 +1,81 @@
+{
+    "questions": [
+        {
+            "id": "381",
+            "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+            "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+            "acceptance": "35.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "382",
+            "title": "Linked List Random Node",
+            "slug": "linked-list-random-node",
+            "acceptance": "62.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "384",
+            "title": "Shuffle an Array",
+            "slug": "shuffle-an-array",
+            "acceptance": "57.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "398",
+            "title": "Random Pick Index",
+            "slug": "random-pick-index",
+            "acceptance": "62.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "470",
+            "title": "Implement Rand10() Using Rand7()",
+            "slug": "implement-rand10-using-rand7",
+            "acceptance": "46.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "478",
+            "title": "Generate Random Point in a Circle",
+            "slug": "generate-random-point-in-a-circle",
+            "acceptance": "39.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "497",
+            "title": "Random Point in Non-overlapping Rectangles",
+            "slug": "random-point-in-non-overlapping-rectangles",
+            "acceptance": "39.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "519",
+            "title": "Random Flip Matrix",
+            "slug": "random-flip-matrix",
+            "acceptance": "40.08%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "528",
+            "title": "Random Pick with Weight",
+            "slug": "random-pick-with-weight",
+            "acceptance": "46.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "710",
+            "title": "Random Pick with Blacklist",
+            "slug": "random-pick-with-blacklist",
+            "acceptance": "33.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1515",
+            "title": "Best Position for a Service Centre",
+            "slug": "best-position-for-a-service-centre",
+            "acceptance": "37.27%",
+            "difficulty": "Hard"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": "1115",
+            "title": "Print FooBar Alternately",
+            "slug": "print-foobar-alternately",
+            "acceptance": "62.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1116",
+            "title": "Print Zero Even Odd",
+            "slug": "print-zero-even-odd",
+            "acceptance": "60.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1117",
+            "title": "Building H2O",
+            "slug": "building-h2o",
+            "acceptance": "55.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1188",
+            "title": "Design Bounded Blocking Queue",
+            "slug": "design-bounded-blocking-queue",
+            "acceptance": "72.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1195",
+            "title": "Fizz Buzz Multithreaded",
+            "slug": "fizz-buzz-multithreaded",
+            "acceptance": "72.79%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1226",
+            "title": "The Dining Philosophers",
+            "slug": "the-dining-philosophers",
+            "acceptance": "55.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1242",
+            "title": "Web Crawler Multithreaded",
+            "slug": "web-crawler-multithreaded",
+            "acceptance": "48.81%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1279",
+            "title": "Traffic Light Controlled Intersection",
+            "slug": "traffic-light-controlled-intersection",
+            "acceptance": "74.27%",
+            "difficulty": "Easy"
+        }
+    ]
+}

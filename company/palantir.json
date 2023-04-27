@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1232",
+            "title": "Check If It Is a Straight Line",
+            "slug": "check-if-it-is-a-straight-line",
+            "acceptance": "45.3%",
+            "difficulty": "Easy"
+        }
+    ]
+}

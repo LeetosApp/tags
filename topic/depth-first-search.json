@@ -1,0 +1,1894 @@
+{
+    "questions": [
+        {
+            "id": "98",
+            "title": "Validate Binary Search Tree",
+            "slug": "validate-binary-search-tree",
+            "acceptance": "32.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "99",
+            "title": "Recover Binary Search Tree",
+            "slug": "recover-binary-search-tree",
+            "acceptance": "51.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "100",
+            "title": "Same Tree",
+            "slug": "same-tree",
+            "acceptance": "58.29%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "101",
+            "title": "Symmetric Tree",
+            "slug": "symmetric-tree",
+            "acceptance": "54.42%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "104",
+            "title": "Maximum Depth of Binary Tree",
+            "slug": "maximum-depth-of-binary-tree",
+            "acceptance": "73.95%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "110",
+            "title": "Balanced Binary Tree",
+            "slug": "balanced-binary-tree",
+            "acceptance": "49.18%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "111",
+            "title": "Minimum Depth of Binary Tree",
+            "slug": "minimum-depth-of-binary-tree",
+            "acceptance": "44.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "112",
+            "title": "Path Sum",
+            "slug": "path-sum",
+            "acceptance": "48.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "113",
+            "title": "Path Sum II",
+            "slug": "path-sum-ii",
+            "acceptance": "57.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "114",
+            "title": "Flatten Binary Tree to Linked List",
+            "slug": "flatten-binary-tree-to-linked-list",
+            "acceptance": "61.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "116",
+            "title": "Populating Next Right Pointers in Each Node",
+            "slug": "populating-next-right-pointers-in-each-node",
+            "acceptance": "60.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "117",
+            "title": "Populating Next Right Pointers in Each Node II",
+            "slug": "populating-next-right-pointers-in-each-node-ii",
+            "acceptance": "50.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "124",
+            "title": "Binary Tree Maximum Path Sum",
+            "slug": "binary-tree-maximum-path-sum",
+            "acceptance": "39.23%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "129",
+            "title": "Sum Root to Leaf Numbers",
+            "slug": "sum-root-to-leaf-numbers",
+            "acceptance": "61.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "130",
+            "title": "Surrounded Regions",
+            "slug": "surrounded-regions",
+            "acceptance": "36.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "133",
+            "title": "Clone Graph",
+            "slug": "clone-graph",
+            "acceptance": "53.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "144",
+            "title": "Binary Tree Preorder Traversal",
+            "slug": "binary-tree-preorder-traversal",
+            "acceptance": "66.99%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "145",
+            "title": "Binary Tree Postorder Traversal",
+            "slug": "binary-tree-postorder-traversal",
+            "acceptance": "68.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "156",
+            "title": "Binary Tree Upside Down",
+            "slug": "binary-tree-upside-down",
+            "acceptance": "62.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "199",
+            "title": "Binary Tree Right Side View",
+            "slug": "binary-tree-right-side-view",
+            "acceptance": "61.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "57.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "207",
+            "title": "Course Schedule",
+            "slug": "course-schedule",
+            "acceptance": "45.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "210",
+            "title": "Course Schedule II",
+            "slug": "course-schedule-ii",
+            "acceptance": "48.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "211",
+            "title": "Design Add and Search Words Data Structure",
+            "slug": "design-add-and-search-words-data-structure",
+            "acceptance": "44.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "222",
+            "title": "Count Complete Tree Nodes",
+            "slug": "count-complete-tree-nodes",
+            "acceptance": "60.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "226",
+            "title": "Invert Binary Tree",
+            "slug": "invert-binary-tree",
+            "acceptance": "74.82%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "230",
+            "title": "Kth Smallest Element in a BST",
+            "slug": "kth-smallest-element-in-a-bst",
+            "acceptance": "70.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "235",
+            "title": "Lowest Common Ancestor of a Binary Search Tree",
+            "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+            "acceptance": "61.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "236",
+            "title": "Lowest Common Ancestor of a Binary Tree",
+            "slug": "lowest-common-ancestor-of-a-binary-tree",
+            "acceptance": "58.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "250",
+            "title": "Count Univalue Subtrees",
+            "slug": "count-univalue-subtrees",
+            "acceptance": "55.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "257",
+            "title": "Binary Tree Paths",
+            "slug": "binary-tree-paths",
+            "acceptance": "61.53%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "261",
+            "title": "Graph Valid Tree",
+            "slug": "graph-valid-tree",
+            "acceptance": "47.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "269",
+            "title": "Alien Dictionary",
+            "slug": "alien-dictionary",
+            "acceptance": "35.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "270",
+            "title": "Closest Binary Search Tree Value",
+            "slug": "closest-binary-search-tree-value",
+            "acceptance": "54.64%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "272",
+            "title": "Closest Binary Search Tree Value II",
+            "slug": "closest-binary-search-tree-value-ii",
+            "acceptance": "58.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "285",
+            "title": "Inorder Successor in BST",
+            "slug": "inorder-successor-in-bst",
+            "acceptance": "48.79%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "297",
+            "title": "Serialize and Deserialize Binary Tree",
+            "slug": "serialize-and-deserialize-binary-tree",
+            "acceptance": "55.46%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "298",
+            "title": "Binary Tree Longest Consecutive Sequence",
+            "slug": "binary-tree-longest-consecutive-sequence",
+            "acceptance": "52.79%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "302",
+            "title": "Smallest Rectangle Enclosing Black Pixels",
+            "slug": "smallest-rectangle-enclosing-black-pixels",
+            "acceptance": "58.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "310",
+            "title": "Minimum Height Trees",
+            "slug": "minimum-height-trees",
+            "acceptance": "38.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "314",
+            "title": "Binary Tree Vertical Order Traversal",
+            "slug": "binary-tree-vertical-order-traversal",
+            "acceptance": "52.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "323",
+            "title": "Number of Connected Components in an Undirected Graph",
+            "slug": "number-of-connected-components-in-an-undirected-graph",
+            "acceptance": "62.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "329",
+            "title": "Longest Increasing Path in a Matrix",
+            "slug": "longest-increasing-path-in-a-matrix",
+            "acceptance": "52.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "332",
+            "title": "Reconstruct Itinerary",
+            "slug": "reconstruct-itinerary",
+            "acceptance": "41.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "333",
+            "title": "Largest BST Subtree",
+            "slug": "largest-bst-subtree",
+            "acceptance": "42.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "337",
+            "title": "House Robber III",
+            "slug": "house-robber-iii",
+            "acceptance": "53.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "339",
+            "title": "Nested List Weight Sum",
+            "slug": "nested-list-weight-sum",
+            "acceptance": "82.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "341",
+            "title": "Flatten Nested List Iterator",
+            "slug": "flatten-nested-list-iterator",
+            "acceptance": "61.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "364",
+            "title": "Nested List Weight Sum II",
+            "slug": "nested-list-weight-sum-ii",
+            "acceptance": "66.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "365",
+            "title": "Water and Jug Problem",
+            "slug": "water-and-jug-problem",
+            "acceptance": "37.79%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "366",
+            "title": "Find Leaves of Binary Tree",
+            "slug": "find-leaves-of-binary-tree",
+            "acceptance": "80.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "385",
+            "title": "Mini Parser",
+            "slug": "mini-parser",
+            "acceptance": "36.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "386",
+            "title": "Lexicographical Numbers",
+            "slug": "lexicographical-numbers",
+            "acceptance": "61.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "388",
+            "title": "Longest Absolute File Path",
+            "slug": "longest-absolute-file-path",
+            "acceptance": "46.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "399",
+            "title": "Evaluate Division",
+            "slug": "evaluate-division",
+            "acceptance": "59.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "404",
+            "title": "Sum of Left Leaves",
+            "slug": "sum-of-left-leaves",
+            "acceptance": "56.79%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "417",
+            "title": "Pacific Atlantic Water Flow",
+            "slug": "pacific-atlantic-water-flow",
+            "acceptance": "54.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "419",
+            "title": "Battleships in a Board",
+            "slug": "battleships-in-a-board",
+            "acceptance": "74.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "acceptance": "64.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "428",
+            "title": "Serialize and Deserialize N-ary Tree",
+            "slug": "serialize-and-deserialize-n-ary-tree",
+            "acceptance": "66.02%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "430",
+            "title": "Flatten a Multilevel Doubly Linked List",
+            "slug": "flatten-a-multilevel-doubly-linked-list",
+            "acceptance": "59.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "431",
+            "title": "Encode N-ary Tree to Binary Tree",
+            "slug": "encode-n-ary-tree-to-binary-tree",
+            "acceptance": "78.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "437",
+            "title": "Path Sum III",
+            "slug": "path-sum-iii",
+            "acceptance": "47.89%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "449",
+            "title": "Serialize and Deserialize BST",
+            "slug": "serialize-and-deserialize-bst",
+            "acceptance": "57.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "463",
+            "title": "Island Perimeter",
+            "slug": "island-perimeter",
+            "acceptance": "69.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "472",
+            "title": "Concatenated Words",
+            "slug": "concatenated-words",
+            "acceptance": "49.93%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "490",
+            "title": "The Maze",
+            "slug": "the-maze",
+            "acceptance": "55.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "499",
+            "title": "The Maze III",
+            "slug": "the-maze-iii",
+            "acceptance": "47.4%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "501",
+            "title": "Find Mode in Binary Search Tree",
+            "slug": "find-mode-in-binary-search-tree",
+            "acceptance": "49.41%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "505",
+            "title": "The Maze II",
+            "slug": "the-maze-ii",
+            "acceptance": "52.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "508",
+            "title": "Most Frequent Subtree Sum",
+            "slug": "most-frequent-subtree-sum",
+            "acceptance": "65.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "513",
+            "title": "Find Bottom Left Tree Value",
+            "slug": "find-bottom-left-tree-value",
+            "acceptance": "66.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "514",
+            "title": "Freedom Trail",
+            "slug": "freedom-trail",
+            "acceptance": "47.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "515",
+            "title": "Find Largest Value in Each Tree Row",
+            "slug": "find-largest-value-in-each-tree-row",
+            "acceptance": "64.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "529",
+            "title": "Minesweeper",
+            "slug": "minesweeper",
+            "acceptance": "65.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "530",
+            "title": "Minimum Absolute Difference in BST",
+            "slug": "minimum-absolute-difference-in-bst",
+            "acceptance": "57.34%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "536",
+            "title": "Construct Binary Tree from String",
+            "slug": "construct-binary-tree-from-string",
+            "acceptance": "56.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "538",
+            "title": "Convert BST to Greater Tree",
+            "slug": "convert-bst-to-greater-tree",
+            "acceptance": "67.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "543",
+            "title": "Diameter of Binary Tree",
+            "slug": "diameter-of-binary-tree",
+            "acceptance": "56.92%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "545",
+            "title": "Boundary of Binary Tree",
+            "slug": "boundary-of-binary-tree",
+            "acceptance": "44.53%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "547",
+            "title": "Number of Provinces",
+            "slug": "number-of-provinces",
+            "acceptance": "63.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "549",
+            "title": "Binary Tree Longest Consecutive Sequence II",
+            "slug": "binary-tree-longest-consecutive-sequence-ii",
+            "acceptance": "49.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "559",
+            "title": "Maximum Depth of N-ary Tree",
+            "slug": "maximum-depth-of-n-ary-tree",
+            "acceptance": "71.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "563",
+            "title": "Binary Tree Tilt",
+            "slug": "binary-tree-tilt",
+            "acceptance": "60.13%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "565",
+            "title": "Array Nesting",
+            "slug": "array-nesting",
+            "acceptance": "56.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "572",
+            "title": "Subtree of Another Tree",
+            "slug": "subtree-of-another-tree",
+            "acceptance": "46.44%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "582",
+            "title": "Kill Process",
+            "slug": "kill-process",
+            "acceptance": "68.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "589",
+            "title": "N-ary Tree Preorder Traversal",
+            "slug": "n-ary-tree-preorder-traversal",
+            "acceptance": "75.85%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "590",
+            "title": "N-ary Tree Postorder Traversal",
+            "slug": "n-ary-tree-postorder-traversal",
+            "acceptance": "77.48%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "606",
+            "title": "Construct String from Binary Tree",
+            "slug": "construct-string-from-binary-tree",
+            "acceptance": "64.09%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "617",
+            "title": "Merge Two Binary Trees",
+            "slug": "merge-two-binary-trees",
+            "acceptance": "78.66%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "623",
+            "title": "Add One Row to Tree",
+            "slug": "add-one-row-to-tree",
+            "acceptance": "59.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "637",
+            "title": "Average of Levels in Binary Tree",
+            "slug": "average-of-levels-in-binary-tree",
+            "acceptance": "71.75%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "652",
+            "title": "Find Duplicate Subtrees",
+            "slug": "find-duplicate-subtrees",
+            "acceptance": "58.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "653",
+            "title": "Two Sum IV - Input is a BST",
+            "slug": "two-sum-iv-input-is-a-bst",
+            "acceptance": "61.05%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "655",
+            "title": "Print Binary Tree",
+            "slug": "print-binary-tree",
+            "acceptance": "62.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "662",
+            "title": "Maximum Width of Binary Tree",
+            "slug": "maximum-width-of-binary-tree",
+            "acceptance": "42.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "663",
+            "title": "Equal Tree Partition",
+            "slug": "equal-tree-partition",
+            "acceptance": "41.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "666",
+            "title": "Path Sum IV",
+            "slug": "path-sum-iv",
+            "acceptance": "59.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "669",
+            "title": "Trim a Binary Search Tree",
+            "slug": "trim-a-binary-search-tree",
+            "acceptance": "66.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "671",
+            "title": "Second Minimum Node In a Binary Tree",
+            "slug": "second-minimum-node-in-a-binary-tree",
+            "acceptance": "44.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "672",
+            "title": "Bulb Switcher II",
+            "slug": "bulb-switcher-ii",
+            "acceptance": "50.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "684",
+            "title": "Redundant Connection",
+            "slug": "redundant-connection",
+            "acceptance": "62.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "685",
+            "title": "Redundant Connection II",
+            "slug": "redundant-connection-ii",
+            "acceptance": "34.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "687",
+            "title": "Longest Univalue Path",
+            "slug": "longest-univalue-path",
+            "acceptance": "40.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "690",
+            "title": "Employee Importance",
+            "slug": "employee-importance",
+            "acceptance": "65.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "694",
+            "title": "Number of Distinct Islands",
+            "slug": "number-of-distinct-islands",
+            "acceptance": "60.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "695",
+            "title": "Max Area of Island",
+            "slug": "max-area-of-island",
+            "acceptance": "71.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "711",
+            "title": "Number of Distinct Islands II",
+            "slug": "number-of-distinct-islands-ii",
+            "acceptance": "52.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "721",
+            "title": "Accounts Merge",
+            "slug": "accounts-merge",
+            "acceptance": "56.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "733",
+            "title": "Flood Fill",
+            "slug": "flood-fill",
+            "acceptance": "62.17%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "737",
+            "title": "Sentence Similarity II",
+            "slug": "sentence-similarity-ii",
+            "acceptance": "49.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "742",
+            "title": "Closest Leaf in a Binary Tree",
+            "slug": "closest-leaf-in-a-binary-tree",
+            "acceptance": "45.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "743",
+            "title": "Network Delay Time",
+            "slug": "network-delay-time",
+            "acceptance": "51.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "749",
+            "title": "Contain Virus",
+            "slug": "contain-virus",
+            "acceptance": "50.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "753",
+            "title": "Cracking the Safe",
+            "slug": "cracking-the-safe",
+            "acceptance": "55.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "756",
+            "title": "Pyramid Transition Matrix",
+            "slug": "pyramid-transition-matrix",
+            "acceptance": "52.67%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "765",
+            "title": "Couples Holding Hands",
+            "slug": "couples-holding-hands",
+            "acceptance": "56.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "778",
+            "title": "Swim in Rising Water",
+            "slug": "swim-in-rising-water",
+            "acceptance": "59.81%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "783",
+            "title": "Minimum Distance Between BST Nodes",
+            "slug": "minimum-distance-between-bst-nodes",
+            "acceptance": "59.28%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "785",
+            "title": "Is Graph Bipartite?",
+            "slug": "is-graph-bipartite",
+            "acceptance": "53.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "787",
+            "title": "Cheapest Flights Within K Stops",
+            "slug": "cheapest-flights-within-k-stops",
+            "acceptance": "37.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "797",
+            "title": "All Paths From Source to Target",
+            "slug": "all-paths-from-source-to-target",
+            "acceptance": "82.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "802",
+            "title": "Find Eventual Safe States",
+            "slug": "find-eventual-safe-states",
+            "acceptance": "56.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "814",
+            "title": "Binary Tree Pruning",
+            "slug": "binary-tree-pruning",
+            "acceptance": "72.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "827",
+            "title": "Making A Large Island",
+            "slug": "making-a-large-island",
+            "acceptance": "44.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "834",
+            "title": "Sum of Distances in Tree",
+            "slug": "sum-of-distances-in-tree",
+            "acceptance": "59.14%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "839",
+            "title": "Similar String Groups",
+            "slug": "similar-string-groups",
+            "acceptance": "48.08%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "841",
+            "title": "Keys and Rooms",
+            "slug": "keys-and-rooms",
+            "acceptance": "71.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "851",
+            "title": "Loud and Rich",
+            "slug": "loud-and-rich",
+            "acceptance": "58.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "863",
+            "title": "All Nodes Distance K in Binary Tree",
+            "slug": "all-nodes-distance-k-in-binary-tree",
+            "acceptance": "62.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "865",
+            "title": "Smallest Subtree with all the Deepest Nodes",
+            "slug": "smallest-subtree-with-all-the-deepest-nodes",
+            "acceptance": "68.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "872",
+            "title": "Leaf-Similar Trees",
+            "slug": "leaf-similar-trees",
+            "acceptance": "67.61%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "886",
+            "title": "Possible Bipartition",
+            "slug": "possible-bipartition",
+            "acceptance": "50.05%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "897",
+            "title": "Increasing Order Search Tree",
+            "slug": "increasing-order-search-tree",
+            "acceptance": "78.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "924",
+            "title": "Minimize Malware Spread",
+            "slug": "minimize-malware-spread",
+            "acceptance": "42.14%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "928",
+            "title": "Minimize Malware Spread II",
+            "slug": "minimize-malware-spread-ii",
+            "acceptance": "42.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "934",
+            "title": "Shortest Bridge",
+            "slug": "shortest-bridge",
+            "acceptance": "54.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "938",
+            "title": "Range Sum of BST",
+            "slug": "range-sum-of-bst",
+            "acceptance": "85.86%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "947",
+            "title": "Most Stones Removed with Same Row or Column",
+            "slug": "most-stones-removed-with-same-row-or-column",
+            "acceptance": "58.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "951",
+            "title": "Flip Equivalent Binary Trees",
+            "slug": "flip-equivalent-binary-trees",
+            "acceptance": "66.79%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "959",
+            "title": "Regions Cut By Slashes",
+            "slug": "regions-cut-by-slashes",
+            "acceptance": "69.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "965",
+            "title": "Univalued Binary Tree",
+            "slug": "univalued-binary-tree",
+            "acceptance": "69.78%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "968",
+            "title": "Binary Tree Cameras",
+            "slug": "binary-tree-cameras",
+            "acceptance": "46.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "971",
+            "title": "Flip Binary Tree To Match Preorder Traversal",
+            "slug": "flip-binary-tree-to-match-preorder-traversal",
+            "acceptance": "50.04%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "979",
+            "title": "Distribute Coins in Binary Tree",
+            "slug": "distribute-coins-in-binary-tree",
+            "acceptance": "72.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "987",
+            "title": "Vertical Order Traversal of a Binary Tree",
+            "slug": "vertical-order-traversal-of-a-binary-tree",
+            "acceptance": "45.16%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "988",
+            "title": "Smallest String Starting From Leaf",
+            "slug": "smallest-string-starting-from-leaf",
+            "acceptance": "50.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "993",
+            "title": "Cousins in Binary Tree",
+            "slug": "cousins-in-binary-tree",
+            "acceptance": "54.67%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1020",
+            "title": "Number of Enclaves",
+            "slug": "number-of-enclaves",
+            "acceptance": "68.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1022",
+            "title": "Sum of Root To Leaf Binary Numbers",
+            "slug": "sum-of-root-to-leaf-binary-numbers",
+            "acceptance": "73.51%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1026",
+            "title": "Maximum Difference Between Node and Ancestor",
+            "slug": "maximum-difference-between-node-and-ancestor",
+            "acceptance": "75.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1028",
+            "title": "Recover a Tree From Preorder Traversal",
+            "slug": "recover-a-tree-from-preorder-traversal",
+            "acceptance": "73.35%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1034",
+            "title": "Coloring A Border",
+            "slug": "coloring-a-border",
+            "acceptance": "49.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1036",
+            "title": "Escape a Large Maze",
+            "slug": "escape-a-large-maze",
+            "acceptance": "34.16%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1038",
+            "title": "Binary Search Tree to Greater Sum Tree",
+            "slug": "binary-search-tree-to-greater-sum-tree",
+            "acceptance": "85.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1042",
+            "title": "Flower Planting With No Adjacent",
+            "slug": "flower-planting-with-no-adjacent",
+            "acceptance": "50.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1059",
+            "title": "All Paths from Source Lead to Destination",
+            "slug": "all-paths-from-source-lead-to-destination",
+            "acceptance": "39.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1080",
+            "title": "Insufficient Nodes in Root to Leaf Paths",
+            "slug": "insufficient-nodes-in-root-to-leaf-paths",
+            "acceptance": "53.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1102",
+            "title": "Path With Maximum Minimum Value",
+            "slug": "path-with-maximum-minimum-value",
+            "acceptance": "53.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1110",
+            "title": "Delete Nodes And Return Forest",
+            "slug": "delete-nodes-and-return-forest",
+            "acceptance": "69.28%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1120",
+            "title": "Maximum Average Subtree",
+            "slug": "maximum-average-subtree",
+            "acceptance": "65.57%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1123",
+            "title": "Lowest Common Ancestor of Deepest Leaves",
+            "slug": "lowest-common-ancestor-of-deepest-leaves",
+            "acceptance": "70.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1145",
+            "title": "Binary Tree Coloring Game",
+            "slug": "binary-tree-coloring-game",
+            "acceptance": "51.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1161",
+            "title": "Maximum Level Sum of a Binary Tree",
+            "slug": "maximum-level-sum-of-a-binary-tree",
+            "acceptance": "66.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1192",
+            "title": "Critical Connections in a Network",
+            "slug": "critical-connections-in-a-network",
+            "acceptance": "54.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1202",
+            "title": "Smallest String With Swaps",
+            "slug": "smallest-string-with-swaps",
+            "acceptance": "57.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1203",
+            "title": "Sort Items by Groups Respecting Dependencies",
+            "slug": "sort-items-by-groups-respecting-dependencies",
+            "acceptance": "51.11%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1214",
+            "title": "Two Sum BSTs",
+            "slug": "two-sum-bsts",
+            "acceptance": "66.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1236",
+            "title": "Web Crawler",
+            "slug": "web-crawler",
+            "acceptance": "67.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1242",
+            "title": "Web Crawler Multithreaded",
+            "slug": "web-crawler-multithreaded",
+            "acceptance": "48.81%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1245",
+            "title": "Tree Diameter",
+            "slug": "tree-diameter",
+            "acceptance": "61.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1254",
+            "title": "Number of Closed Islands",
+            "slug": "number-of-closed-islands",
+            "acceptance": "67.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1257",
+            "title": "Smallest Common Region",
+            "slug": "smallest-common-region",
+            "acceptance": "64.44%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1261",
+            "title": "Find Elements in a Contaminated Binary Tree",
+            "slug": "find-elements-in-a-contaminated-binary-tree",
+            "acceptance": "76.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1267",
+            "title": "Count Servers that Communicate",
+            "slug": "count-servers-that-communicate",
+            "acceptance": "59.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1273",
+            "title": "Delete Tree Nodes",
+            "slug": "delete-tree-nodes",
+            "acceptance": "61.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1302",
+            "title": "Deepest Leaves Sum",
+            "slug": "deepest-leaves-sum",
+            "acceptance": "86.61%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1305",
+            "title": "All Elements in Two Binary Search Trees",
+            "slug": "all-elements-in-two-binary-search-trees",
+            "acceptance": "79.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1306",
+            "title": "Jump Game III",
+            "slug": "jump-game-iii",
+            "acceptance": "63.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1315",
+            "title": "Sum of Nodes with Even-Valued Grandparent",
+            "slug": "sum-of-nodes-with-even-valued-grandparent",
+            "acceptance": "85.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1319",
+            "title": "Number of Operations to Make Network Connected",
+            "slug": "number-of-operations-to-make-network-connected",
+            "acceptance": "62.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1325",
+            "title": "Delete Leaves With a Given Value",
+            "slug": "delete-leaves-with-a-given-value",
+            "acceptance": "74.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1339",
+            "title": "Maximum Product of Splitted Binary Tree",
+            "slug": "maximum-product-of-splitted-binary-tree",
+            "acceptance": "47.79%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1361",
+            "title": "Validate Binary Tree Nodes",
+            "slug": "validate-binary-tree-nodes",
+            "acceptance": "39.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1367",
+            "title": "Linked List in Binary Tree",
+            "slug": "linked-list-in-binary-tree",
+            "acceptance": "43.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1372",
+            "title": "Longest ZigZag Path in a Binary Tree",
+            "slug": "longest-zigzag-path-in-a-binary-tree",
+            "acceptance": "67.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1373",
+            "title": "Maximum Sum BST in Binary Tree",
+            "slug": "maximum-sum-bst-in-binary-tree",
+            "acceptance": "39.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1376",
+            "title": "Time Needed to Inform All Employees",
+            "slug": "time-needed-to-inform-all-employees",
+            "acceptance": "58.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1377",
+            "title": "Frog Position After T Seconds",
+            "slug": "frog-position-after-t-seconds",
+            "acceptance": "35.67%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1379",
+            "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+            "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+            "acceptance": "86.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1382",
+            "title": "Balance a Binary Search Tree",
+            "slug": "balance-a-binary-search-tree",
+            "acceptance": "80.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1391",
+            "title": "Check if There is a Valid Path in a Grid",
+            "slug": "check-if-there-is-a-valid-path-in-a-grid",
+            "acceptance": "47.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1430",
+            "title": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+            "slug": "check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+            "acceptance": "46.42%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1443",
+            "title": "Minimum Time to Collect All Apples in a Tree",
+            "slug": "minimum-time-to-collect-all-apples-in-a-tree",
+            "acceptance": "62.69%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1448",
+            "title": "Count Good Nodes in Binary Tree",
+            "slug": "count-good-nodes-in-binary-tree",
+            "acceptance": "74.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1457",
+            "title": "Pseudo-Palindromic Paths in a Binary Tree",
+            "slug": "pseudo-palindromic-paths-in-a-binary-tree",
+            "acceptance": "67.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1462",
+            "title": "Course Schedule IV",
+            "slug": "course-schedule-iv",
+            "acceptance": "49.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1466",
+            "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+            "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+            "acceptance": "66.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1469",
+            "title": "Find All The Lonely Nodes",
+            "slug": "find-all-the-lonely-nodes",
+            "acceptance": "82.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1483",
+            "title": "Kth Ancestor of a Tree Node",
+            "slug": "kth-ancestor-of-a-tree-node",
+            "acceptance": "33.76%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1485",
+            "title": "Clone Binary Tree With Random Pointer",
+            "slug": "clone-binary-tree-with-random-pointer",
+            "acceptance": "80.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1490",
+            "title": "Clone N-ary Tree",
+            "slug": "clone-n-ary-tree",
+            "acceptance": "83.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1506",
+            "title": "Find Root of N-Ary Tree",
+            "slug": "find-root-of-n-ary-tree",
+            "acceptance": "78.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1516",
+            "title": "Move Sub-Tree of N-Ary Tree",
+            "slug": "move-sub-tree-of-n-ary-tree",
+            "acceptance": "63.47%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1519",
+            "title": "Number of Nodes in the Sub-Tree With the Same Label",
+            "slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+            "acceptance": "55.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1522",
+            "title": "Diameter of N-Ary Tree",
+            "slug": "diameter-of-n-ary-tree",
+            "acceptance": "73.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1530",
+            "title": "Number of Good Leaf Nodes Pairs",
+            "slug": "number-of-good-leaf-nodes-pairs",
+            "acceptance": "61.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1559",
+            "title": "Detect Cycles in 2D Grid",
+            "slug": "detect-cycles-in-2d-grid",
+            "acceptance": "48.08%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1568",
+            "title": "Minimum Number of Days to Disconnect Island",
+            "slug": "minimum-number-of-days-to-disconnect-island",
+            "acceptance": "46.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1600",
+            "title": "Throne Inheritance",
+            "slug": "throne-inheritance",
+            "acceptance": "63.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1612",
+            "title": "Check If Two Expression Trees are Equivalent",
+            "slug": "check-if-two-expression-trees-are-equivalent",
+            "acceptance": "70.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1631",
+            "title": "Path With Minimum Effort",
+            "slug": "path-with-minimum-effort",
+            "acceptance": "55.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1644",
+            "title": "Lowest Common Ancestor of a Binary Tree II",
+            "slug": "lowest-common-ancestor-of-a-binary-tree-ii",
+            "acceptance": "60.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1660",
+            "title": "Correct a Binary Tree",
+            "slug": "correct-a-binary-tree",
+            "acceptance": "72.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1666",
+            "title": "Change the Root of a Binary Tree",
+            "slug": "change-the-root-of-a-binary-tree",
+            "acceptance": "73.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1676",
+            "title": "Lowest Common Ancestor of a Binary Tree IV",
+            "slug": "lowest-common-ancestor-of-a-binary-tree-iv",
+            "acceptance": "79.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1706",
+            "title": "Where Will the Ball Fall",
+            "slug": "where-will-the-ball-fall",
+            "acceptance": "71.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1722",
+            "title": "Minimize Hamming Distance After Swap Operations",
+            "slug": "minimize-hamming-distance-after-swap-operations",
+            "acceptance": "48.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1740",
+            "title": "Find Distance in a Binary Tree",
+            "slug": "find-distance-in-a-binary-tree",
+            "acceptance": "69.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1766",
+            "title": "Tree of Coprimes",
+            "slug": "tree-of-coprimes",
+            "acceptance": "39.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1778",
+            "title": "Shortest Path in a Hidden Grid",
+            "slug": "shortest-path-in-a-hidden-grid",
+            "acceptance": "39.09%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1810",
+            "title": "Minimum Path Cost in a Hidden Grid",
+            "slug": "minimum-path-cost-in-a-hidden-grid",
+            "acceptance": "54.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1858",
+            "title": "Longest Word With All Prefixes",
+            "slug": "longest-word-with-all-prefixes",
+            "acceptance": "67.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1905",
+            "title": "Count Sub Islands",
+            "slug": "count-sub-islands",
+            "acceptance": "67.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1932",
+            "title": "Merge BSTs to Create Single BST",
+            "slug": "merge-bsts-to-create-single-bst",
+            "acceptance": "35.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1970",
+            "title": "Last Day Where You Can Still Cross",
+            "slug": "last-day-where-you-can-still-cross",
+            "acceptance": "49.47%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1971",
+            "title": "Find if Path Exists in Graph",
+            "slug": "find-if-path-exists-in-graph",
+            "acceptance": "51.97%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1973",
+            "title": "Count Nodes Equal to Sum of Descendants",
+            "slug": "count-nodes-equal-to-sum-of-descendants",
+            "acceptance": "75.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1992",
+            "title": "Find All Groups of Farmland",
+            "slug": "find-all-groups-of-farmland",
+            "acceptance": "68.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1993",
+            "title": "Operations on Tree",
+            "slug": "operations-on-tree",
+            "acceptance": "43.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2003",
+            "title": "Smallest Missing Genetic Value in Each Subtree",
+            "slug": "smallest-missing-genetic-value-in-each-subtree",
+            "acceptance": "44.73%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2049",
+            "title": "Count Nodes With the Highest Score",
+            "slug": "count-nodes-with-the-highest-score",
+            "acceptance": "47.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2092",
+            "title": "Find All People With Secret",
+            "slug": "find-all-people-with-secret",
+            "acceptance": "34.2%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2096",
+            "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+            "slug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+            "acceptance": "48.47%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2097",
+            "title": "Valid Arrangement of Pairs",
+            "slug": "valid-arrangement-of-pairs",
+            "acceptance": "41.27%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2101",
+            "title": "Detonate the Maximum Bombs",
+            "slug": "detonate-the-maximum-bombs",
+            "acceptance": "42.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2127",
+            "title": "Maximum Employees to Be Invited to a Meeting",
+            "slug": "maximum-employees-to-be-invited-to-a-meeting",
+            "acceptance": "34.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2192",
+            "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+            "slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+            "acceptance": "50.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2196",
+            "title": "Create Binary Tree From Descriptions",
+            "slug": "create-binary-tree-from-descriptions",
+            "acceptance": "72.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2204",
+            "title": "Distance to a Cycle in Undirected Graph",
+            "slug": "distance-to-a-cycle-in-undirected-graph",
+            "acceptance": "69.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2246",
+            "title": "Longest Path With Different Adjacent Characters",
+            "slug": "longest-path-with-different-adjacent-characters",
+            "acceptance": "55.61%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2265",
+            "title": "Count Nodes Equal to Average of Subtree",
+            "slug": "count-nodes-equal-to-average-of-subtree",
+            "acceptance": "85.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2277",
+            "title": "Closest Node to Path in Tree",
+            "slug": "closest-node-to-path-in-tree",
+            "acceptance": "63.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2307",
+            "title": "Check for Contradictions in Equations",
+            "slug": "check-for-contradictions-in-equations",
+            "acceptance": "43.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2313",
+            "title": "Minimum Flips in Binary Tree to Get Result",
+            "slug": "minimum-flips-in-binary-tree-to-get-result",
+            "acceptance": "62.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2316",
+            "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+            "slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+            "acceptance": "50.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2322",
+            "title": "Minimum Score After Removals on a Tree",
+            "slug": "minimum-score-after-removals-on-a-tree",
+            "acceptance": "50.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2328",
+            "title": "Number of Increasing Paths in a Grid",
+            "slug": "number-of-increasing-paths-in-a-grid",
+            "acceptance": "47.65%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2331",
+            "title": "Evaluate Boolean Binary Tree",
+            "slug": "evaluate-boolean-binary-tree",
+            "acceptance": "78.37%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2359",
+            "title": "Find Closest Node to Given Two Nodes",
+            "slug": "find-closest-node-to-given-two-nodes",
+            "acceptance": "46.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2360",
+            "title": "Longest Cycle in a Graph",
+            "slug": "longest-cycle-in-a-graph",
+            "acceptance": "50.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2368",
+            "title": "Reachable Nodes With Restrictions",
+            "slug": "reachable-nodes-with-restrictions",
+            "acceptance": "57.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2378",
+            "title": "Choose Edges to Maximize Score in a Tree",
+            "slug": "choose-edges-to-maximize-score-in-a-tree",
+            "acceptance": "60.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2385",
+            "title": "Amount of Time for Binary Tree to Be Infected",
+            "slug": "amount-of-time-for-binary-tree-to-be-infected",
+            "acceptance": "56.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2415",
+            "title": "Reverse Odd Levels of Binary Tree",
+            "slug": "reverse-odd-levels-of-binary-tree",
+            "acceptance": "76.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2440",
+            "title": "Create Components With Same Value",
+            "slug": "create-components-with-same-value",
+            "acceptance": "53.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2445",
+            "title": "Number of Nodes With Value One",
+            "slug": "number-of-nodes-with-value-one",
+            "acceptance": "70.01%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2458",
+            "title": "Height of Binary Tree After Subtree Removal Queries",
+            "slug": "height-of-binary-tree-after-subtree-removal-queries",
+            "acceptance": "37.37%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2467",
+            "title": "Most Profitable Path in a Tree",
+            "slug": "most-profitable-path-in-a-tree",
+            "acceptance": "48.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2476",
+            "title": "Closest Nodes Queries in a Binary Search Tree",
+            "slug": "closest-nodes-queries-in-a-binary-search-tree",
+            "acceptance": "40.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2477",
+            "title": "Minimum Fuel Cost to Report to the Capital",
+            "slug": "minimum-fuel-cost-to-report-to-the-capital",
+            "acceptance": "67.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2479",
+            "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+            "slug": "maximum-xor-of-two-non-overlapping-subtrees",
+            "acceptance": "46.48%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2492",
+            "title": "Minimum Score of a Path Between Two Cities",
+            "slug": "minimum-score-of-a-path-between-two-cities",
+            "acceptance": "57.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2538",
+            "title": "Difference Between Maximum and Minimum Price Sum",
+            "slug": "difference-between-maximum-and-minimum-price-sum",
+            "acceptance": "34.77%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2556",
+            "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+            "slug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+            "acceptance": "28.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2581",
+            "title": "Count Number of Possible Root Nodes",
+            "slug": "count-number-of-possible-root-nodes",
+            "acceptance": "48.57%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2596",
+            "title": "Check Knight Tour Configuration",
+            "slug": "check-knight-tour-configuration",
+            "acceptance": "58.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2641",
+            "title": "Cousins in Binary Tree II",
+            "slug": "cousins-in-binary-tree-ii",
+            "acceptance": "67.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2646",
+            "title": "Minimize the Total Price of the Trips",
+            "slug": "minimize-the-total-price-of-the-trips",
+            "acceptance": "39.82%",
+            "difficulty": "Hard"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "questions": [
+        {
+            "id": "984",
+            "title": "String Without AAA or BBB",
+            "slug": "string-without-aaa-or-bbb",
+            "acceptance": "37.7%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "915",
+            "title": "Partition Array into Disjoint Intervals",
+            "slug": "partition-array-into-disjoint-intervals",
+            "acceptance": "45.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "983",
+            "title": "Minimum Cost For Tickets",
+            "slug": "minimum-cost-for-tickets",
+            "acceptance": "60.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "527",
+            "title": "Word Abbreviation",
+            "slug": "word-abbreviation",
+            "acceptance": "54.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1017",
+            "title": "Convert to Base -2",
+            "slug": "convert-to-base-2",
+            "acceptance": "59.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1253",
+            "title": "Reconstruct a 2-Row Binary Matrix",
+            "slug": "reconstruct-a-2-row-binary-matrix",
+            "acceptance": "40.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "42",
+            "title": "Trapping Rain Water",
+            "slug": "trapping-rain-water",
+            "acceptance": "48.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2",
+            "title": "Add Two Numbers",
+            "slug": "add-two-numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "41",
+            "title": "First Missing Positive",
+            "slug": "first-missing-positive",
+            "acceptance": "32.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "slug": "best-time-to-buy-and-sell-stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "234",
+            "title": "Palindrome Linked List",
+            "slug": "palindrome-linked-list",
+            "acceptance": "39.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "238",
+            "title": "Product of Array Except Self",
+            "slug": "product-of-array-except-self",
+            "acceptance": "60.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "215",
+            "title": "Kth Largest Element in an Array",
+            "slug": "kth-largest-element-in-an-array",
+            "acceptance": "55.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1073",
+            "title": "Adding Two Negabinary Numbers",
+            "slug": "adding-two-negabinary-numbers",
+            "acceptance": "34.2%",
+            "difficulty": "Medium"
+        }
+    ]
+}

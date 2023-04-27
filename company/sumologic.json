@@ -1,0 +1,53 @@
+{
+    "questions": [
+        {
+            "id": "558",
+            "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+            "slug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+            "acceptance": "44.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "981",
+            "title": "Time Based Key-Value Store",
+            "slug": "time-based-key-value-store",
+            "acceptance": "53.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "850",
+            "title": "Rectangle Area II",
+            "slug": "rectangle-area-ii",
+            "acceptance": "47.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "31",
+            "title": "Next Permutation",
+            "slug": "next-permutation",
+            "acceptance": "32.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "990",
+            "title": "Satisfiability of Equality Equations",
+            "slug": "satisfiability-of-equality-equations",
+            "acceptance": "45.0%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "200",
+            "title": "Number of Islands",
+            "slug": "number-of-islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,970 @@
+{
+    "questions": [
+        {
+            "id": "32",
+            "title": "Longest Valid Parentheses",
+            "slug": "longest-valid-parentheses",
+            "acceptance": "32.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "42",
+            "title": "Trapping Rain Water",
+            "slug": "trapping-rain-water",
+            "acceptance": "59.3%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "71",
+            "title": "Simplify Path",
+            "slug": "simplify-path",
+            "acceptance": "40.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "84",
+            "title": "Largest Rectangle in Histogram",
+            "slug": "largest-rectangle-in-histogram",
+            "acceptance": "42.66%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "85",
+            "title": "Maximal Rectangle",
+            "slug": "maximal-rectangle",
+            "acceptance": "44.84%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "94",
+            "title": "Binary Tree Inorder Traversal",
+            "slug": "binary-tree-inorder-traversal",
+            "acceptance": "73.9%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "114",
+            "title": "Flatten Binary Tree to Linked List",
+            "slug": "flatten-binary-tree-to-linked-list",
+            "acceptance": "61.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "143",
+            "title": "Reorder List",
+            "slug": "reorder-list",
+            "acceptance": "52.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "144",
+            "title": "Binary Tree Preorder Traversal",
+            "slug": "binary-tree-preorder-traversal",
+            "acceptance": "66.99%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "145",
+            "title": "Binary Tree Postorder Traversal",
+            "slug": "binary-tree-postorder-traversal",
+            "acceptance": "68.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "150",
+            "title": "Evaluate Reverse Polish Notation",
+            "slug": "evaluate-reverse-polish-notation",
+            "acceptance": "45.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "155",
+            "title": "Min Stack",
+            "slug": "min-stack",
+            "acceptance": "52.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "173",
+            "title": "Binary Search Tree Iterator",
+            "slug": "binary-search-tree-iterator",
+            "acceptance": "69.83%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "224",
+            "title": "Basic Calculator",
+            "slug": "basic-calculator",
+            "acceptance": "42.45%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "225",
+            "title": "Implement Stack using Queues",
+            "slug": "implement-stack-using-queues",
+            "acceptance": "58.78%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "227",
+            "title": "Basic Calculator II",
+            "slug": "basic-calculator-ii",
+            "acceptance": "42.45%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "232",
+            "title": "Implement Queue using Stacks",
+            "slug": "implement-queue-using-stacks",
+            "acceptance": "63.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "234",
+            "title": "Palindrome Linked List",
+            "slug": "palindrome-linked-list",
+            "acceptance": "50.32%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "255",
+            "title": "Verify Preorder Sequence in Binary Search Tree",
+            "slug": "verify-preorder-sequence-in-binary-search-tree",
+            "acceptance": "48.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "272",
+            "title": "Closest Binary Search Tree Value II",
+            "slug": "closest-binary-search-tree-value-ii",
+            "acceptance": "58.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "316",
+            "title": "Remove Duplicate Letters",
+            "slug": "remove-duplicate-letters",
+            "acceptance": "45.12%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "321",
+            "title": "Create Maximum Number",
+            "slug": "create-maximum-number",
+            "acceptance": "29.12%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "331",
+            "title": "Verify Preorder Serialization of a Binary Tree",
+            "slug": "verify-preorder-serialization-of-a-binary-tree",
+            "acceptance": "44.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "341",
+            "title": "Flatten Nested List Iterator",
+            "slug": "flatten-nested-list-iterator",
+            "acceptance": "61.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "364",
+            "title": "Nested List Weight Sum II",
+            "slug": "nested-list-weight-sum-ii",
+            "acceptance": "66.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "385",
+            "title": "Mini Parser",
+            "slug": "mini-parser",
+            "acceptance": "36.97%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "388",
+            "title": "Longest Absolute File Path",
+            "slug": "longest-absolute-file-path",
+            "acceptance": "46.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "394",
+            "title": "Decode String",
+            "slug": "decode-string",
+            "acceptance": "57.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "402",
+            "title": "Remove K Digits",
+            "slug": "remove-k-digits",
+            "acceptance": "30.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "acceptance": "64.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "439",
+            "title": "Ternary Expression Parser",
+            "slug": "ternary-expression-parser",
+            "acceptance": "58.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "445",
+            "title": "Add Two Numbers II",
+            "slug": "add-two-numbers-ii",
+            "acceptance": "59.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "456",
+            "title": "132 Pattern",
+            "slug": "132-pattern",
+            "acceptance": "32.39%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "484",
+            "title": "Find Permutation",
+            "slug": "find-permutation",
+            "acceptance": "66.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "496",
+            "title": "Next Greater Element I",
+            "slug": "next-greater-element-i",
+            "acceptance": "71.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "503",
+            "title": "Next Greater Element II",
+            "slug": "next-greater-element-ii",
+            "acceptance": "63.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "581",
+            "title": "Shortest Unsorted Continuous Subarray",
+            "slug": "shortest-unsorted-continuous-subarray",
+            "acceptance": "36.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "589",
+            "title": "N-ary Tree Preorder Traversal",
+            "slug": "n-ary-tree-preorder-traversal",
+            "acceptance": "75.85%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "590",
+            "title": "N-ary Tree Postorder Traversal",
+            "slug": "n-ary-tree-postorder-traversal",
+            "acceptance": "77.48%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "591",
+            "title": "Tag Validator",
+            "slug": "tag-validator",
+            "acceptance": "37.21%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "636",
+            "title": "Exclusive Time of Functions",
+            "slug": "exclusive-time-of-functions",
+            "acceptance": "61.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "654",
+            "title": "Maximum Binary Tree",
+            "slug": "maximum-binary-tree",
+            "acceptance": "84.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "678",
+            "title": "Valid Parenthesis String",
+            "slug": "valid-parenthesis-string",
+            "acceptance": "34.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "682",
+            "title": "Baseball Game",
+            "slug": "baseball-game",
+            "acceptance": "74.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "716",
+            "title": "Max Stack",
+            "slug": "max-stack",
+            "acceptance": "45.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "726",
+            "title": "Number of Atoms",
+            "slug": "number-of-atoms",
+            "acceptance": "52.16%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "735",
+            "title": "Asteroid Collision",
+            "slug": "asteroid-collision",
+            "acceptance": "44.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "736",
+            "title": "Parse Lisp Expression",
+            "slug": "parse-lisp-expression",
+            "acceptance": "51.58%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "739",
+            "title": "Daily Temperatures",
+            "slug": "daily-temperatures",
+            "acceptance": "66.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "768",
+            "title": "Max Chunks To Make Sorted II",
+            "slug": "max-chunks-to-make-sorted-ii",
+            "acceptance": "52.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "769",
+            "title": "Max Chunks To Make Sorted",
+            "slug": "max-chunks-to-make-sorted",
+            "acceptance": "58.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "770",
+            "title": "Basic Calculator IV",
+            "slug": "basic-calculator-iv",
+            "acceptance": "55.24%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "772",
+            "title": "Basic Calculator III",
+            "slug": "basic-calculator-iii",
+            "acceptance": "48.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "844",
+            "title": "Backspace String Compare",
+            "slug": "backspace-string-compare",
+            "acceptance": "48.09%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "853",
+            "title": "Car Fleet",
+            "slug": "car-fleet",
+            "acceptance": "50.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "856",
+            "title": "Score of Parentheses",
+            "slug": "score-of-parentheses",
+            "acceptance": "64.69%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "880",
+            "title": "Decoded String at Index",
+            "slug": "decoded-string-at-index",
+            "acceptance": "28.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "895",
+            "title": "Maximum Frequency Stack",
+            "slug": "maximum-frequency-stack",
+            "acceptance": "66.59%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "897",
+            "title": "Increasing Order Search Tree",
+            "slug": "increasing-order-search-tree",
+            "acceptance": "78.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "901",
+            "title": "Online Stock Span",
+            "slug": "online-stock-span",
+            "acceptance": "65.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "907",
+            "title": "Sum of Subarray Minimums",
+            "slug": "sum-of-subarray-minimums",
+            "acceptance": "35.73%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "921",
+            "title": "Minimum Add to Make Parentheses Valid",
+            "slug": "minimum-add-to-make-parentheses-valid",
+            "acceptance": "75.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "936",
+            "title": "Stamping The Sequence",
+            "slug": "stamping-the-sequence",
+            "acceptance": "62.79%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "946",
+            "title": "Validate Stack Sequences",
+            "slug": "validate-stack-sequences",
+            "acceptance": "69.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "962",
+            "title": "Maximum Width Ramp",
+            "slug": "maximum-width-ramp",
+            "acceptance": "48.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "975",
+            "title": "Odd Even Jump",
+            "slug": "odd-even-jump",
+            "acceptance": "38.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1003",
+            "title": "Check If Word Is Valid After Substitutions",
+            "slug": "check-if-word-is-valid-after-substitutions",
+            "acceptance": "58.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1006",
+            "title": "Clumsy Factorial",
+            "slug": "clumsy-factorial",
+            "acceptance": "55.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1008",
+            "title": "Construct Binary Search Tree from Preorder Traversal",
+            "slug": "construct-binary-search-tree-from-preorder-traversal",
+            "acceptance": "81.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1019",
+            "title": "Next Greater Node In Linked List",
+            "slug": "next-greater-node-in-linked-list",
+            "acceptance": "59.95%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1021",
+            "title": "Remove Outermost Parentheses",
+            "slug": "remove-outermost-parentheses",
+            "acceptance": "80.72%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1047",
+            "title": "Remove All Adjacent Duplicates In String",
+            "slug": "remove-all-adjacent-duplicates-in-string",
+            "acceptance": "69.49%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1063",
+            "title": "Number of Valid Subarrays",
+            "slug": "number-of-valid-subarrays",
+            "acceptance": "74.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1081",
+            "title": "Smallest Subsequence of Distinct Characters",
+            "slug": "smallest-subsequence-of-distinct-characters",
+            "acceptance": "57.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1096",
+            "title": "Brace Expansion II",
+            "slug": "brace-expansion-ii",
+            "acceptance": "63.48%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1106",
+            "title": "Parsing A Boolean Expression",
+            "slug": "parsing-a-boolean-expression",
+            "acceptance": "58.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1111",
+            "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+            "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+            "acceptance": "72.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1124",
+            "title": "Longest Well-Performing Interval",
+            "slug": "longest-well-performing-interval",
+            "acceptance": "34.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1130",
+            "title": "Minimum Cost Tree From Leaf Values",
+            "slug": "minimum-cost-tree-from-leaf-values",
+            "acceptance": "68.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1172",
+            "title": "Dinner Plate Stacks",
+            "slug": "dinner-plate-stacks",
+            "acceptance": "32.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1190",
+            "title": "Reverse Substrings Between Each Pair of Parentheses",
+            "slug": "reverse-substrings-between-each-pair-of-parentheses",
+            "acceptance": "65.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1209",
+            "title": "Remove All Adjacent Duplicates in String II",
+            "slug": "remove-all-adjacent-duplicates-in-string-ii",
+            "acceptance": "56.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1214",
+            "title": "Two Sum BSTs",
+            "slug": "two-sum-bsts",
+            "acceptance": "66.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1249",
+            "title": "Minimum Remove to Make Valid Parentheses",
+            "slug": "minimum-remove-to-make-valid-parentheses",
+            "acceptance": "65.86%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1265",
+            "title": "Print Immutable Linked List in Reverse",
+            "slug": "print-immutable-linked-list-in-reverse",
+            "acceptance": "94.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1381",
+            "title": "Design a Stack With Increment Operation",
+            "slug": "design-a-stack-with-increment-operation",
+            "acceptance": "77.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1441",
+            "title": "Build an Array With Stack Operations",
+            "slug": "build-an-array-with-stack-operations",
+            "acceptance": "71.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1472",
+            "title": "Design Browser History",
+            "slug": "design-browser-history",
+            "acceptance": "78.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1475",
+            "title": "Final Prices With a Special Discount in a Shop",
+            "slug": "final-prices-with-a-special-discount-in-a-shop",
+            "acceptance": "76.15%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1504",
+            "title": "Count Submatrices With All Ones",
+            "slug": "count-submatrices-with-all-ones",
+            "acceptance": "57.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1526",
+            "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+            "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+            "acceptance": "68.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1541",
+            "title": "Minimum Insertions to Balance a Parentheses String",
+            "slug": "minimum-insertions-to-balance-a-parentheses-string",
+            "acceptance": "49.74%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1544",
+            "title": "Make The String Great",
+            "slug": "make-the-string-great",
+            "acceptance": "63.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1574",
+            "title": "Shortest Subarray to be Removed to Make Array Sorted",
+            "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+            "acceptance": "37.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1586",
+            "title": "Binary Search Tree Iterator II",
+            "slug": "binary-search-tree-iterator-ii",
+            "acceptance": "70.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1597",
+            "title": "Build Binary Expression Tree From Infix Expression",
+            "slug": "build-binary-expression-tree-from-infix-expression",
+            "acceptance": "62.75%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1598",
+            "title": "Crawler Log Folder",
+            "slug": "crawler-log-folder",
+            "acceptance": "64.59%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1614",
+            "title": "Maximum Nesting Depth of the Parentheses",
+            "slug": "maximum-nesting-depth-of-the-parentheses",
+            "acceptance": "82.14%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1628",
+            "title": "Design an Expression Tree With Evaluate Function",
+            "slug": "design-an-expression-tree-with-evaluate-function",
+            "acceptance": "82.87%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1653",
+            "title": "Minimum Deletions to Make String Balanced",
+            "slug": "minimum-deletions-to-make-string-balanced",
+            "acceptance": "58.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1673",
+            "title": "Find the Most Competitive Subsequence",
+            "slug": "find-the-most-competitive-subsequence",
+            "acceptance": "49.31%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1700",
+            "title": "Number of Students Unable to Eat Lunch",
+            "slug": "number-of-students-unable-to-eat-lunch",
+            "acceptance": "68.95%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1717",
+            "title": "Maximum Score From Removing Substrings",
+            "slug": "maximum-score-from-removing-substrings",
+            "acceptance": "46.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1756",
+            "title": "Design Most Recently Used Queue",
+            "slug": "design-most-recently-used-queue",
+            "acceptance": "78.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1762",
+            "title": "Buildings With an Ocean View",
+            "slug": "buildings-with-an-ocean-view",
+            "acceptance": "79.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1776",
+            "title": "Car Fleet II",
+            "slug": "car-fleet-ii",
+            "acceptance": "53.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1793",
+            "title": "Maximum Score of a Good Subarray",
+            "slug": "maximum-score-of-a-good-subarray",
+            "acceptance": "53.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1856",
+            "title": "Maximum Subarray Min-Product",
+            "slug": "maximum-subarray-min-product",
+            "acceptance": "37.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1896",
+            "title": "Minimum Cost to Change the Final Value of Expression",
+            "slug": "minimum-cost-to-change-the-final-value-of-expression",
+            "acceptance": "53.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1944",
+            "title": "Number of Visible People in a Queue",
+            "slug": "number-of-visible-people-in-a-queue",
+            "acceptance": "68.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1950",
+            "title": "Maximum of Minimum Values in All Subarrays",
+            "slug": "maximum-of-minimum-values-in-all-subarrays",
+            "acceptance": "49.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1963",
+            "title": "Minimum Number of Swaps to Make the String Balanced",
+            "slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+            "acceptance": "69.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1996",
+            "title": "The Number of Weak Characters in the Game",
+            "slug": "the-number-of-weak-characters-in-the-game",
+            "acceptance": "43.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2019",
+            "title": "The Score of Students Solving Math Expression",
+            "slug": "the-score-of-students-solving-math-expression",
+            "acceptance": "33.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2030",
+            "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+            "slug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+            "acceptance": "38.52%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2104",
+            "title": "Sum of Subarray Ranges",
+            "slug": "sum-of-subarray-ranges",
+            "acceptance": "60.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2116",
+            "title": "Check if a Parentheses String Can Be Valid",
+            "slug": "check-if-a-parentheses-string-can-be-valid",
+            "acceptance": "30.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2130",
+            "title": "Maximum Twin Sum of a Linked List",
+            "slug": "maximum-twin-sum-of-a-linked-list",
+            "acceptance": "80.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2197",
+            "title": "Replace Non-Coprime Numbers in Array",
+            "slug": "replace-non-coprime-numbers-in-array",
+            "acceptance": "38.56%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2211",
+            "title": "Count Collisions on a Road",
+            "slug": "count-collisions-on-a-road",
+            "acceptance": "42.36%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2216",
+            "title": "Minimum Deletions to Make Array Beautiful",
+            "slug": "minimum-deletions-to-make-array-beautiful",
+            "acceptance": "46.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2254",
+            "title": "Design Video Sharing Platform",
+            "slug": "design-video-sharing-platform",
+            "acceptance": "64.34%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2281",
+            "title": "Sum of Total Strength of Wizards",
+            "slug": "sum-of-total-strength-of-wizards",
+            "acceptance": "27.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2282",
+            "title": "Number of People That Can Be Seen in a Grid",
+            "slug": "number-of-people-that-can-be-seen-in-a-grid",
+            "acceptance": "49.41%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2289",
+            "title": "Steps to Make Array Non-decreasing",
+            "slug": "steps-to-make-array-non-decreasing",
+            "acceptance": "20.99%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2296",
+            "title": "Design a Text Editor",
+            "slug": "design-a-text-editor",
+            "acceptance": "40.93%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2297",
+            "title": "Jump Game VIII",
+            "slug": "jump-game-viii",
+            "acceptance": "55.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2334",
+            "title": "Subarray With Elements Greater Than Varying Threshold",
+            "slug": "subarray-with-elements-greater-than-varying-threshold",
+            "acceptance": "41.23%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2345",
+            "title": "Finding the Number of Visible Mountains",
+            "slug": "finding-the-number-of-visible-mountains",
+            "acceptance": "42.22%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2355",
+            "title": "Maximum Number of Books You Can Take",
+            "slug": "maximum-number-of-books-you-can-take",
+            "acceptance": "44.02%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2375",
+            "title": "Construct Smallest Number From DI String",
+            "slug": "construct-smallest-number-from-di-string",
+            "acceptance": "74.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2390",
+            "title": "Removing Stars From a String",
+            "slug": "removing-stars-from-a-string",
+            "acceptance": "72.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2434",
+            "title": "Using a Robot to Print the Lexicographically Smallest String",
+            "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+            "acceptance": "38.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2454",
+            "title": "Next Greater Element IV",
+            "slug": "next-greater-element-iv",
+            "acceptance": "39.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2487",
+            "title": "Remove Nodes From Linked List",
+            "slug": "remove-nodes-from-linked-list",
+            "acceptance": "67.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2589",
+            "title": "Minimum Time to Complete All Tasks",
+            "slug": "minimum-time-to-complete-all-tasks",
+            "acceptance": "37.24%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2617",
+            "title": "Minimum Number of Visited Cells in a Grid",
+            "slug": "minimum-number-of-visited-cells-in-a-grid",
+            "acceptance": "28.34%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2645",
+            "title": "Minimum Additions to Make Valid String",
+            "slug": "minimum-additions-to-make-valid-string",
+            "acceptance": "48.98%",
+            "difficulty": "Medium"
+        }
+    ]
+}

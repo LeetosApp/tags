@@ -1,0 +1,81 @@
+{
+    "questions": [
+        {
+            "id": "418",
+            "title": "Sentence Screen Fitting",
+            "slug": "sentence-screen-fitting",
+            "acceptance": "32.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "755",
+            "title": "Pour Water",
+            "slug": "pour-water",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "224",
+            "title": "Basic Calculator",
+            "slug": "basic-calculator",
+            "acceptance": "36.8%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "54",
+            "title": "Spiral Matrix",
+            "slug": "spiral-matrix",
+            "acceptance": "34.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "59",
+            "title": "Spiral Matrix II",
+            "slug": "spiral-matrix-ii",
+            "acceptance": "53.9%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "68",
+            "title": "Text Justification",
+            "slug": "text-justification",
+            "acceptance": "27.7%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "697",
+            "title": "Degree of an Array",
+            "slug": "degree-of-an-array",
+            "acceptance": "53.8%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "525",
+            "title": "Contiguous Array",
+            "slug": "contiguous-array",
+            "acceptance": "42.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "438",
+            "title": "Find All Anagrams in a String",
+            "slug": "find-all-anagrams-in-a-string",
+            "acceptance": "43.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1391",
+            "title": "Check if There is a Valid Path in a Grid",
+            "slug": "check-if-there-is-a-valid-path-in-a-grid",
+            "acceptance": "44.5%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1393",
+            "title": "Capital Gain/Loss",
+            "slug": "capital-gainloss",
+            "acceptance": "89.4%",
+            "difficulty": "Medium"
+        }
+    ]
+}

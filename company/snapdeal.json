@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1027",
+            "title": "Longest Arithmetic Sequence",
+            "slug": "longest-arithmetic-sequence",
+            "acceptance": "53.4%",
+            "difficulty": "Medium"
+        }
+    ]
+}

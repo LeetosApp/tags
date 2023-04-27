@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "753",
+            "title": "Cracking the Safe",
+            "slug": "cracking-the-safe",
+            "acceptance": "55.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2097",
+            "title": "Valid Arrangement of Pairs",
+            "slug": "valid-arrangement-of-pairs",
+            "acceptance": "41.27%",
+            "difficulty": "Hard"
+        }
+    ]
+}

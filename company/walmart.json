@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1238",
+            "title": "Circular Permutation in Binary Representation",
+            "slug": "circular-permutation-in-binary-representation",
+            "acceptance": "65.0%",
+            "difficulty": "Medium"
+        }
+    ]
+}

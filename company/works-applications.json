@@ -1,0 +1,39 @@
+{
+    "questions": [
+        {
+            "id": "179",
+            "title": "Largest Number",
+            "slug": "largest-number",
+            "acceptance": "28.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "15",
+            "title": "3Sum",
+            "slug": "3sum",
+            "acceptance": "26.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "629",
+            "title": "K Inverse Pairs Array",
+            "slug": "k-inverse-pairs-array",
+            "acceptance": "31.1%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "630",
+            "title": "Course Schedule III",
+            "slug": "course-schedule-iii",
+            "acceptance": "33.5%",
+            "difficulty": "Hard"
+        }
+    ]
+}

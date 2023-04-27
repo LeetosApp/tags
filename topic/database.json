@@ -1,0 +1,1537 @@
+{
+    "questions": [
+        {
+            "id": "176",
+            "title": "Second Highest Salary",
+            "slug": "second-highest-salary",
+            "acceptance": "37.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "177",
+            "title": "Nth Highest Salary",
+            "slug": "nth-highest-salary",
+            "acceptance": "37.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "178",
+            "title": "Rank Scores",
+            "slug": "rank-scores",
+            "acceptance": "60.49%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "180",
+            "title": "Consecutive Numbers",
+            "slug": "consecutive-numbers",
+            "acceptance": "46.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "181",
+            "title": "Employees Earning More Than Their Managers",
+            "slug": "employees-earning-more-than-their-managers",
+            "acceptance": "69.01%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "182",
+            "title": "Duplicate Emails",
+            "slug": "duplicate-emails",
+            "acceptance": "70.83%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "183",
+            "title": "Customers Who Never Order",
+            "slug": "customers-who-never-order",
+            "acceptance": "68.56%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "184",
+            "title": "Department Highest Salary",
+            "slug": "department-highest-salary",
+            "acceptance": "50.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "185",
+            "title": "Department Top Three Salaries",
+            "slug": "department-top-three-salaries",
+            "acceptance": "50.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "196",
+            "title": "Delete Duplicate Emails",
+            "slug": "delete-duplicate-emails",
+            "acceptance": "61.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "197",
+            "title": "Rising Temperature",
+            "slug": "rising-temperature",
+            "acceptance": "44.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "262",
+            "title": "Trips and Users",
+            "slug": "trips-and-users",
+            "acceptance": "37.17%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "511",
+            "title": "Game Play Analysis I",
+            "slug": "game-play-analysis-i",
+            "acceptance": "75.62%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "512",
+            "title": "Game Play Analysis II",
+            "slug": "game-play-analysis-ii",
+            "acceptance": "52.59%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "534",
+            "title": "Game Play Analysis III",
+            "slug": "game-play-analysis-iii",
+            "acceptance": "81.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "550",
+            "title": "Game Play Analysis IV",
+            "slug": "game-play-analysis-iv",
+            "acceptance": "42.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "569",
+            "title": "Median Employee Salary",
+            "slug": "median-employee-salary",
+            "acceptance": "67.05%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "570",
+            "title": "Managers with at Least 5 Direct Reports",
+            "slug": "managers-with-at-least-5-direct-reports",
+            "acceptance": "66.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "571",
+            "title": "Find Median Given Frequency of Numbers",
+            "slug": "find-median-given-frequency-of-numbers",
+            "acceptance": "43.31%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "574",
+            "title": "Winning Candidate",
+            "slug": "winning-candidate",
+            "acceptance": "59.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "577",
+            "title": "Employee Bonus",
+            "slug": "employee-bonus",
+            "acceptance": "74.62%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "578",
+            "title": "Get Highest Answer Rate Question",
+            "slug": "get-highest-answer-rate-question",
+            "acceptance": "40.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "579",
+            "title": "Find Cumulative Salary of an Employee",
+            "slug": "find-cumulative-salary-of-an-employee",
+            "acceptance": "45.57%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "580",
+            "title": "Count Student Number in Departments",
+            "slug": "count-student-number-in-departments",
+            "acceptance": "58.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "584",
+            "title": "Find Customer Referee",
+            "slug": "find-customer-referee",
+            "acceptance": "69.29%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "585",
+            "title": "Investments in 2016",
+            "slug": "investments-in-2016",
+            "acceptance": "51.24%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "586",
+            "title": "Customer Placing the Largest Number of Orders",
+            "slug": "customer-placing-the-largest-number-of-orders",
+            "acceptance": "68.39%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "595",
+            "title": "Big Countries",
+            "slug": "big-countries",
+            "acceptance": "69.87%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "596",
+            "title": "Classes More Than 5 Students",
+            "slug": "classes-more-than-5-students",
+            "acceptance": "48.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "597",
+            "title": "Friend Requests I: Overall Acceptance Rate",
+            "slug": "friend-requests-i-overall-acceptance-rate",
+            "acceptance": "42.36%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "601",
+            "title": "Human Traffic of Stadium",
+            "slug": "human-traffic-of-stadium",
+            "acceptance": "49.54%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "602",
+            "title": "Friend Requests II: Who Has the Most Friends",
+            "slug": "friend-requests-ii-who-has-the-most-friends",
+            "acceptance": "60.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "603",
+            "title": "Consecutive Available Seats",
+            "slug": "consecutive-available-seats",
+            "acceptance": "67.27%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "607",
+            "title": "Sales Person",
+            "slug": "sales-person",
+            "acceptance": "68.86%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "608",
+            "title": "Tree Node",
+            "slug": "tree-node",
+            "acceptance": "71.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "610",
+            "title": "Triangle Judgement",
+            "slug": "triangle-judgement",
+            "acceptance": "70.75%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "612",
+            "title": "Shortest Distance in a Plane",
+            "slug": "shortest-distance-in-a-plane",
+            "acceptance": "62.58%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "613",
+            "title": "Shortest Distance in a Line",
+            "slug": "shortest-distance-in-a-line",
+            "acceptance": "80.92%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "614",
+            "title": "Second Degree Follower",
+            "slug": "second-degree-follower",
+            "acceptance": "37.56%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "615",
+            "title": "Average Salary: Departments VS Company",
+            "slug": "average-salary-departments-vs-company",
+            "acceptance": "56.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "618",
+            "title": "Students Report By Geography",
+            "slug": "students-report-by-geography",
+            "acceptance": "64.05%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "619",
+            "title": "Biggest Single Number",
+            "slug": "biggest-single-number",
+            "acceptance": "50.63%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "620",
+            "title": "Not Boring Movies",
+            "slug": "not-boring-movies",
+            "acceptance": "72.33%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "626",
+            "title": "Exchange Seats",
+            "slug": "exchange-seats",
+            "acceptance": "69.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "627",
+            "title": "Swap Salary",
+            "slug": "swap-salary",
+            "acceptance": "83.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1045",
+            "title": "Customers Who Bought All Products",
+            "slug": "customers-who-bought-all-products",
+            "acceptance": "65.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1050",
+            "title": "Actors and Directors Who Cooperated At Least Three Times",
+            "slug": "actors-and-directors-who-cooperated-at-least-three-times",
+            "acceptance": "70.35%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1068",
+            "title": "Product Sales Analysis I",
+            "slug": "product-sales-analysis-i",
+            "acceptance": "80.78%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1069",
+            "title": "Product Sales Analysis II",
+            "slug": "product-sales-analysis-ii",
+            "acceptance": "81.88%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1070",
+            "title": "Product Sales Analysis III",
+            "slug": "product-sales-analysis-iii",
+            "acceptance": "48.33%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1075",
+            "title": "Project Employees I",
+            "slug": "project-employees-i",
+            "acceptance": "65.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1076",
+            "title": "Project Employees II",
+            "slug": "project-employees-ii",
+            "acceptance": "50.11%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1077",
+            "title": "Project Employees III",
+            "slug": "project-employees-iii",
+            "acceptance": "77.06%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1082",
+            "title": "Sales Analysis I",
+            "slug": "sales-analysis-i",
+            "acceptance": "74.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1083",
+            "title": "Sales Analysis II",
+            "slug": "sales-analysis-ii",
+            "acceptance": "49.84%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1084",
+            "title": "Sales Analysis III",
+            "slug": "sales-analysis-iii",
+            "acceptance": "48.68%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1097",
+            "title": "Game Play Analysis V",
+            "slug": "game-play-analysis-v",
+            "acceptance": "53.19%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1098",
+            "title": "Unpopular Books",
+            "slug": "unpopular-books",
+            "acceptance": "44.02%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1107",
+            "title": "New Users Daily Count",
+            "slug": "new-users-daily-count",
+            "acceptance": "45.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1112",
+            "title": "Highest Grade For Each Student",
+            "slug": "highest-grade-for-each-student",
+            "acceptance": "72.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1113",
+            "title": "Reported Posts",
+            "slug": "reported-posts",
+            "acceptance": "65.25%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1126",
+            "title": "Active Businesses",
+            "slug": "active-businesses",
+            "acceptance": "66.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1127",
+            "title": "User Purchase Platform",
+            "slug": "user-purchase-platform",
+            "acceptance": "49.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1132",
+            "title": "Reported Posts II",
+            "slug": "reported-posts-ii",
+            "acceptance": "33.07%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1141",
+            "title": "User Activity for the Past 30 Days I",
+            "slug": "user-activity-for-the-past-30-days-i",
+            "acceptance": "48.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1142",
+            "title": "User Activity for the Past 30 Days II",
+            "slug": "user-activity-for-the-past-30-days-ii",
+            "acceptance": "35.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1148",
+            "title": "Article Views I",
+            "slug": "article-views-i",
+            "acceptance": "76.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1149",
+            "title": "Article Views II",
+            "slug": "article-views-ii",
+            "acceptance": "47.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1158",
+            "title": "Market Analysis I",
+            "slug": "market-analysis-i",
+            "acceptance": "59.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1159",
+            "title": "Market Analysis II",
+            "slug": "market-analysis-ii",
+            "acceptance": "57.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1164",
+            "title": "Product Price at a Given Date",
+            "slug": "product-price-at-a-given-date",
+            "acceptance": "65.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1173",
+            "title": "Immediate Food Delivery I",
+            "slug": "immediate-food-delivery-i",
+            "acceptance": "82.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1174",
+            "title": "Immediate Food Delivery II",
+            "slug": "immediate-food-delivery-ii",
+            "acceptance": "62.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1179",
+            "title": "Reformat Department Table",
+            "slug": "reformat-department-table",
+            "acceptance": "80.29%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1193",
+            "title": "Monthly Transactions I",
+            "slug": "monthly-transactions-i",
+            "acceptance": "65.29%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1194",
+            "title": "Tournament Winners",
+            "slug": "tournament-winners",
+            "acceptance": "50.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1204",
+            "title": "Last Person to Fit in the Bus",
+            "slug": "last-person-to-fit-in-the-bus",
+            "acceptance": "72.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1205",
+            "title": "Monthly Transactions II",
+            "slug": "monthly-transactions-ii",
+            "acceptance": "42.77%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1211",
+            "title": "Queries Quality and Percentage",
+            "slug": "queries-quality-and-percentage",
+            "acceptance": "70.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1212",
+            "title": "Team Scores in Football Tournament",
+            "slug": "team-scores-in-football-tournament",
+            "acceptance": "56.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1225",
+            "title": "Report Contiguous Dates",
+            "slug": "report-contiguous-dates",
+            "acceptance": "61.55%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1241",
+            "title": "Number of Comments per Post",
+            "slug": "number-of-comments-per-post",
+            "acceptance": "66.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1251",
+            "title": "Average Selling Price",
+            "slug": "average-selling-price",
+            "acceptance": "80.46%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1264",
+            "title": "Page Recommendations",
+            "slug": "page-recommendations",
+            "acceptance": "66.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1270",
+            "title": "All People Report to the Given Manager",
+            "slug": "all-people-report-to-the-given-manager",
+            "acceptance": "86.75%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1280",
+            "title": "Students and Examinations",
+            "slug": "students-and-examinations",
+            "acceptance": "69.64%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1285",
+            "title": "Find the Start and End Number of Continuous Ranges",
+            "slug": "find-the-start-and-end-number-of-continuous-ranges",
+            "acceptance": "85.16%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1294",
+            "title": "Weather Type in Each Country",
+            "slug": "weather-type-in-each-country",
+            "acceptance": "67.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1303",
+            "title": "Find the Team Size",
+            "slug": "find-the-team-size",
+            "acceptance": "90.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1308",
+            "title": "Running Total for Different Genders",
+            "slug": "running-total-for-different-genders",
+            "acceptance": "86.93%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1321",
+            "title": "Restaurant Growth",
+            "slug": "restaurant-growth",
+            "acceptance": "69.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1322",
+            "title": "Ads Performance",
+            "slug": "ads-performance",
+            "acceptance": "60.26%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1327",
+            "title": "List the Products Ordered in a Period",
+            "slug": "list-the-products-ordered-in-a-period",
+            "acceptance": "75.29%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1336",
+            "title": "Number of Transactions per Visit",
+            "slug": "number-of-transactions-per-visit",
+            "acceptance": "49.51%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1341",
+            "title": "Movie Rating",
+            "slug": "movie-rating",
+            "acceptance": "56.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1350",
+            "title": "Students With Invalid Departments",
+            "slug": "students-with-invalid-departments",
+            "acceptance": "90.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1355",
+            "title": "Activity Participants",
+            "slug": "activity-participants",
+            "acceptance": "73.6%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1364",
+            "title": "Number of Trusted Contacts of a Customer",
+            "slug": "number-of-trusted-contacts-of-a-customer",
+            "acceptance": "77.37%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1369",
+            "title": "Get the Second Most Recent Activity",
+            "slug": "get-the-second-most-recent-activity",
+            "acceptance": "68.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1378",
+            "title": "Replace Employee ID With The Unique Identifier",
+            "slug": "replace-employee-id-with-the-unique-identifier",
+            "acceptance": "90.69%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1384",
+            "title": "Total Sales Amount by Year",
+            "slug": "total-sales-amount-by-year",
+            "acceptance": "64.48%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1393",
+            "title": "Capital Gain/Loss",
+            "slug": "capital-gainloss",
+            "acceptance": "87.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1398",
+            "title": "Customers Who Bought Products A and B but Not C",
+            "slug": "customers-who-bought-products-a-and-b-but-not-c",
+            "acceptance": "75.59%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1407",
+            "title": "Top Travellers",
+            "slug": "top-travellers",
+            "acceptance": "60.97%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1412",
+            "title": "Find the Quiet Students in All Exams",
+            "slug": "find-the-quiet-students-in-all-exams",
+            "acceptance": "61.83%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1421",
+            "title": "NPV Queries",
+            "slug": "npv-queries",
+            "acceptance": "83.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1435",
+            "title": "Create a Session Bar Chart",
+            "slug": "create-a-session-bar-chart",
+            "acceptance": "76.99%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1440",
+            "title": "Evaluate Boolean Expression",
+            "slug": "evaluate-boolean-expression",
+            "acceptance": "74.66%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1445",
+            "title": "Apples & Oranges",
+            "slug": "apples-oranges",
+            "acceptance": "89.48%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1454",
+            "title": "Active Users",
+            "slug": "active-users",
+            "acceptance": "37.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1459",
+            "title": "Rectangles Area",
+            "slug": "rectangles-area",
+            "acceptance": "69.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1468",
+            "title": "Calculate Salaries",
+            "slug": "calculate-salaries",
+            "acceptance": "80.47%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1479",
+            "title": "Sales by Day of the Week",
+            "slug": "sales-by-day-of-the-week",
+            "acceptance": "80.81%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1484",
+            "title": "Group Sold Products By The Date",
+            "slug": "group-sold-products-by-the-date",
+            "acceptance": "78.86%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1495",
+            "title": "Friendly Movies Streamed Last Month",
+            "slug": "friendly-movies-streamed-last-month",
+            "acceptance": "49.14%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1501",
+            "title": "Countries You Can Safely Invest In",
+            "slug": "countries-you-can-safely-invest-in",
+            "acceptance": "52.03%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1511",
+            "title": "Customer Order Frequency",
+            "slug": "customer-order-frequency",
+            "acceptance": "71.23%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1517",
+            "title": "Find Users With Valid E-Mails",
+            "slug": "find-users-with-valid-e-mails",
+            "acceptance": "52.37%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1527",
+            "title": "Patients With a Condition",
+            "slug": "patients-with-a-condition",
+            "acceptance": "40.4%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1532",
+            "title": "The Most Recent Three Orders",
+            "slug": "the-most-recent-three-orders",
+            "acceptance": "69.52%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1543",
+            "title": "Fix Product Name Format",
+            "slug": "fix-product-name-format",
+            "acceptance": "60.57%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1549",
+            "title": "The Most Recent Orders for Each Product",
+            "slug": "the-most-recent-orders-for-each-product",
+            "acceptance": "67.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1555",
+            "title": "Bank Account Summary",
+            "slug": "bank-account-summary",
+            "acceptance": "52.13%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1565",
+            "title": "Unique Orders and Customers Per Month",
+            "slug": "unique-orders-and-customers-per-month",
+            "acceptance": "82.74%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1571",
+            "title": "Warehouse Manager",
+            "slug": "warehouse-manager",
+            "acceptance": "88.58%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1581",
+            "title": "Customer Who Visited but Did Not Make Any Transactions",
+            "slug": "customer-who-visited-but-did-not-make-any-transactions",
+            "acceptance": "84.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1587",
+            "title": "Bank Account Summary II",
+            "slug": "bank-account-summary-ii",
+            "acceptance": "85.49%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1596",
+            "title": "The Most Frequently Ordered Products for Each Customer",
+            "slug": "the-most-frequently-ordered-products-for-each-customer",
+            "acceptance": "82.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1607",
+            "title": "Sellers With No Sales",
+            "slug": "sellers-with-no-sales",
+            "acceptance": "54.7%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1613",
+            "title": "Find the Missing IDs",
+            "slug": "find-the-missing-ids",
+            "acceptance": "74.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1623",
+            "title": "All Valid Triplets That Can Represent a Country",
+            "slug": "all-valid-triplets-that-can-represent-a-country",
+            "acceptance": "86.45%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1633",
+            "title": "Percentage of Users Attended a Contest",
+            "slug": "percentage-of-users-attended-a-contest",
+            "acceptance": "65.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1635",
+            "title": "Hopper Company Queries I",
+            "slug": "hopper-company-queries-i",
+            "acceptance": "50.41%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1645",
+            "title": "Hopper Company Queries II",
+            "slug": "hopper-company-queries-ii",
+            "acceptance": "38.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1651",
+            "title": "Hopper Company Queries III",
+            "slug": "hopper-company-queries-iii",
+            "acceptance": "67.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1661",
+            "title": "Average Time of Process per Machine",
+            "slug": "average-time-of-process-per-machine",
+            "acceptance": "77.35%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1667",
+            "title": "Fix Names in a Table",
+            "slug": "fix-names-in-a-table",
+            "acceptance": "64.85%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1677",
+            "title": "Product's Worth Over Invoices",
+            "slug": "products-worth-over-invoices",
+            "acceptance": "38.21%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1683",
+            "title": "Invalid Tweets",
+            "slug": "invalid-tweets",
+            "acceptance": "89.85%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1693",
+            "title": "Daily Leads and Partners",
+            "slug": "daily-leads-and-partners",
+            "acceptance": "88.07%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1699",
+            "title": "Number of Calls Between Two Persons",
+            "slug": "number-of-calls-between-two-persons",
+            "acceptance": "82.68%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1709",
+            "title": "Biggest Window Between Visits",
+            "slug": "biggest-window-between-visits",
+            "acceptance": "74.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1715",
+            "title": "Count Apples and Oranges",
+            "slug": "count-apples-and-oranges",
+            "acceptance": "76.14%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1729",
+            "title": "Find Followers Count",
+            "slug": "find-followers-count",
+            "acceptance": "71.02%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1731",
+            "title": "The Number of Employees Which Report to Each Employee",
+            "slug": "the-number-of-employees-which-report-to-each-employee",
+            "acceptance": "48.71%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1741",
+            "title": "Find Total Time Spent by Each Employee",
+            "slug": "find-total-time-spent-by-each-employee",
+            "acceptance": "89.48%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1747",
+            "title": "Leetflex Banned Accounts",
+            "slug": "leetflex-banned-accounts",
+            "acceptance": "66.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1757",
+            "title": "Recyclable and Low Fat Products",
+            "slug": "recyclable-and-low-fat-products",
+            "acceptance": "92.39%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1767",
+            "title": "Find the Subtasks That Did Not Execute",
+            "slug": "find-the-subtasks-that-did-not-execute",
+            "acceptance": "81.28%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1777",
+            "title": "Product's Price for Each Store",
+            "slug": "products-price-for-each-store",
+            "acceptance": "83.5%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1783",
+            "title": "Grand Slam Titles",
+            "slug": "grand-slam-titles",
+            "acceptance": "86.51%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1789",
+            "title": "Primary Department for Each Employee",
+            "slug": "primary-department-for-each-employee",
+            "acceptance": "77.52%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1795",
+            "title": "Rearrange Products Table",
+            "slug": "rearrange-products-table",
+            "acceptance": "86.32%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1809",
+            "title": "Ad-Free Sessions",
+            "slug": "ad-free-sessions",
+            "acceptance": "58.92%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1811",
+            "title": "Find Interview Candidates",
+            "slug": "find-interview-candidates",
+            "acceptance": "63.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1821",
+            "title": "Find Customers With Positive Revenue this Year",
+            "slug": "find-customers-with-positive-revenue-this-year",
+            "acceptance": "89.08%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1831",
+            "title": "Maximum Transaction Each Day",
+            "slug": "maximum-transaction-each-day",
+            "acceptance": "82.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1841",
+            "title": "League Statistics",
+            "slug": "league-statistics",
+            "acceptance": "54.63%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1843",
+            "title": "Suspicious Bank Accounts",
+            "slug": "suspicious-bank-accounts",
+            "acceptance": "46.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1853",
+            "title": "Convert Date Format",
+            "slug": "convert-date-format",
+            "acceptance": "86.55%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1867",
+            "title": "Orders With Maximum Quantity Above Average",
+            "slug": "orders-with-maximum-quantity-above-average",
+            "acceptance": "72.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1873",
+            "title": "Calculate Special Bonus",
+            "slug": "calculate-special-bonus",
+            "acceptance": "59.06%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1875",
+            "title": "Group Employees of the Same Salary",
+            "slug": "group-employees-of-the-same-salary",
+            "acceptance": "72.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1890",
+            "title": "The Latest Login in 2020",
+            "slug": "the-latest-login-in-2020",
+            "acceptance": "78.53%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1892",
+            "title": "Page Recommendations II",
+            "slug": "page-recommendations-ii",
+            "acceptance": "43.22%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1907",
+            "title": "Count Salary Categories",
+            "slug": "count-salary-categories",
+            "acceptance": "62.78%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1917",
+            "title": "Leetcodify Friends Recommendations",
+            "slug": "leetcodify-friends-recommendations",
+            "acceptance": "27.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1919",
+            "title": "Leetcodify Similar Friends",
+            "slug": "leetcodify-similar-friends",
+            "acceptance": "41.95%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1934",
+            "title": "Confirmation Rate",
+            "slug": "confirmation-rate",
+            "acceptance": "73.32%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1939",
+            "title": "Users That Actively Request Confirmation Messages",
+            "slug": "users-that-actively-request-confirmation-messages",
+            "acceptance": "58.53%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1949",
+            "title": "Strong Friendship",
+            "slug": "strong-friendship",
+            "acceptance": "55.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1951",
+            "title": "All the Pairs With the Maximum Number of Common Followers",
+            "slug": "all-the-pairs-with-the-maximum-number-of-common-followers",
+            "acceptance": "69.98%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1965",
+            "title": "Employees With Missing Information",
+            "slug": "employees-with-missing-information",
+            "acceptance": "74.27%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1972",
+            "title": "First and Last Call On the Same Day",
+            "slug": "first-and-last-call-on-the-same-day",
+            "acceptance": "51.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1978",
+            "title": "Employees Whose Manager Left the Company",
+            "slug": "employees-whose-manager-left-the-company",
+            "acceptance": "48.76%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1988",
+            "title": "Find Cutoff Score for Each School",
+            "slug": "find-cutoff-score-for-each-school",
+            "acceptance": "68.2%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1990",
+            "title": "Count the Number of Experiments",
+            "slug": "count-the-number-of-experiments",
+            "acceptance": "50.26%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2004",
+            "title": "The Number of Seniors and Juniors to Join the Company",
+            "slug": "the-number-of-seniors-and-juniors-to-join-the-company",
+            "acceptance": "40.48%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2010",
+            "title": "The Number of Seniors and Juniors to Join the Company II",
+            "slug": "the-number-of-seniors-and-juniors-to-join-the-company-ii",
+            "acceptance": "60.07%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2020",
+            "title": "Number of Accounts That Did Not Stream",
+            "slug": "number-of-accounts-that-did-not-stream",
+            "acceptance": "72.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2026",
+            "title": "Low-Quality Problems",
+            "slug": "low-quality-problems",
+            "acceptance": "84.84%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2041",
+            "title": "Accepted Candidates From the Interviews",
+            "slug": "accepted-candidates-from-the-interviews",
+            "acceptance": "79.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2051",
+            "title": "The Category of Each Member in the Store",
+            "slug": "the-category-of-each-member-in-the-store",
+            "acceptance": "70.92%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2066",
+            "title": "Account Balance",
+            "slug": "account-balance",
+            "acceptance": "84.35%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2072",
+            "title": "The Winner University",
+            "slug": "the-winner-university",
+            "acceptance": "72.37%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2082",
+            "title": "The Number of Rich Customers",
+            "slug": "the-number-of-rich-customers",
+            "acceptance": "79.78%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2084",
+            "title": "Drop Type 1 Orders for Customers With Type 0 Orders",
+            "slug": "drop-type-1-orders-for-customers-with-type-0-orders",
+            "acceptance": "88.19%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2112",
+            "title": "The Airport With the Most Traffic",
+            "slug": "the-airport-with-the-most-traffic",
+            "acceptance": "70.54%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2118",
+            "title": "Build the Equation",
+            "slug": "build-the-equation",
+            "acceptance": "56.88%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2142",
+            "title": "The Number of Passengers in Each Bus I",
+            "slug": "the-number-of-passengers-in-each-bus-i",
+            "acceptance": "49.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2153",
+            "title": "The Number of Passengers in Each Bus II",
+            "slug": "the-number-of-passengers-in-each-bus-ii",
+            "acceptance": "44.78%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2159",
+            "title": "Order Two Columns Independently",
+            "slug": "order-two-columns-independently",
+            "acceptance": "59.84%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2173",
+            "title": "Longest Winning Streak",
+            "slug": "longest-winning-streak",
+            "acceptance": "54.25%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2175",
+            "title": "The Change in Global Rankings",
+            "slug": "the-change-in-global-rankings",
+            "acceptance": "63.94%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2199",
+            "title": "Finding the Topic of Each Post",
+            "slug": "finding-the-topic-of-each-post",
+            "acceptance": "49.97%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2205",
+            "title": "The Number of Users That Are Eligible for Discount",
+            "slug": "the-number-of-users-that-are-eligible-for-discount",
+            "acceptance": "50.23%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2228",
+            "title": "Users With Two Purchases Within Seven Days",
+            "slug": "users-with-two-purchases-within-seven-days",
+            "acceptance": "43.76%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2230",
+            "title": "The Users That Are Eligible for Discount",
+            "slug": "the-users-that-are-eligible-for-discount",
+            "acceptance": "49.34%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2238",
+            "title": "Number of Times a Driver Was a Passenger",
+            "slug": "number-of-times-a-driver-was-a-passenger",
+            "acceptance": "72.72%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2252",
+            "title": "Dynamic Pivoting of a Table",
+            "slug": "dynamic-pivoting-of-a-table",
+            "acceptance": "56.12%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2253",
+            "title": "Dynamic Unpivoting of a Table",
+            "slug": "dynamic-unpivoting-of-a-table",
+            "acceptance": "65.24%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2292",
+            "title": "Products With Three or More Orders in Two Consecutive Years",
+            "slug": "products-with-three-or-more-orders-in-two-consecutive-years",
+            "acceptance": "38.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2298",
+            "title": "Tasks Count in the Weekend",
+            "slug": "tasks-count-in-the-weekend",
+            "acceptance": "83.65%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2308",
+            "title": "Arrange Table by Gender",
+            "slug": "arrange-table-by-gender",
+            "acceptance": "71.11%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2314",
+            "title": "The First Day of the Maximum Recorded Degree in Each City",
+            "slug": "the-first-day-of-the-maximum-recorded-degree-in-each-city",
+            "acceptance": "72.64%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2324",
+            "title": "Product Sales Analysis IV",
+            "slug": "product-sales-analysis-iv",
+            "acceptance": "76.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2329",
+            "title": "Product Sales Analysis V",
+            "slug": "product-sales-analysis-v",
+            "acceptance": "68.54%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2339",
+            "title": "All the Matches of the League",
+            "slug": "all-the-matches-of-the-league",
+            "acceptance": "88.12%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2346",
+            "title": "Compute the Rank as a Percentage",
+            "slug": "compute-the-rank-as-a-percentage",
+            "acceptance": "33.15%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2356",
+            "title": "Number of Unique Subjects Taught by Each Teacher",
+            "slug": "number-of-unique-subjects-taught-by-each-teacher",
+            "acceptance": "89.24%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2362",
+            "title": "Generate the Invoice",
+            "slug": "generate-the-invoice",
+            "acceptance": "78.49%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2372",
+            "title": "Calculate the Influence of Each Salesperson",
+            "slug": "calculate-the-influence-of-each-salesperson",
+            "acceptance": "85.27%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2377",
+            "title": "Sort the Olympic Table",
+            "slug": "sort-the-olympic-table",
+            "acceptance": "78.18%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2388",
+            "title": "Change Null Values in a Table to the Previous Value",
+            "slug": "change-null-values-in-a-table-to-the-previous-value",
+            "acceptance": "64.25%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2394",
+            "title": "Employees With Deductions",
+            "slug": "employees-with-deductions",
+            "acceptance": "41.46%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2474",
+            "title": "Customers With Strictly Increasing Purchases",
+            "slug": "customers-with-strictly-increasing-purchases",
+            "acceptance": "39.77%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2480",
+            "title": "Form a Chemical Bond",
+            "slug": "form-a-chemical-bond",
+            "acceptance": "61.73%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "2494",
+            "title": "Merge Overlapping Events in the Same Hall",
+            "slug": "merge-overlapping-events-in-the-same-hall",
+            "acceptance": "21.47%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2504",
+            "title": "Concatenate the Name and the Profession",
+            "slug": "concatenate-the-name-and-the-profession",
+            "acceptance": "60.5%",
+            "difficulty": "Easy"
+        }
+    ]
+}

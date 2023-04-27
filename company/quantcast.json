@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "79",
+            "title": "Word Search",
+            "slug": "word-search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium"
+        }
+    ]
+}

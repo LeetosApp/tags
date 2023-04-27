@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "754",
+            "title": "Reach a Number",
+            "slug": "reach-a-number",
+            "acceptance": "34.7%",
+            "difficulty": "Medium"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "997",
+            "title": "Find the Town Judge",
+            "slug": "find-the-town-judge",
+            "acceptance": "50.1%",
+            "difficulty": "Easy"
+        }
+    ]
+}

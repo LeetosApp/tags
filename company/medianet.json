@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1222",
+            "title": "Queens That Can Attack the King",
+            "slug": "queens-that-can-attack-the-king",
+            "acceptance": "68.8%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1266",
+            "title": "Minimum Time Visiting All Points",
+            "slug": "minimum-time-visiting-all-points",
+            "acceptance": "79.6%",
+            "difficulty": "Easy"
+        }
+    ]
+}

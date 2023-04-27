@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": "57",
+            "title": "Insert Interval",
+            "slug": "insert-interval",
+            "acceptance": "33.5%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "56",
+            "title": "Merge Intervals",
+            "slug": "merge-intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "42",
+            "title": "Trapping Rain Water",
+            "slug": "trapping-rain-water",
+            "acceptance": "48.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "885",
+            "title": "Spiral Matrix III",
+            "slug": "spiral-matrix-iii",
+            "acceptance": "69.4%",
+            "difficulty": "Medium"
+        }
+    ]
+}

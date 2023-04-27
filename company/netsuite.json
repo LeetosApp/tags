@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "577",
+            "title": "Employee Bonus",
+            "slug": "employee-bonus",
+            "acceptance": "68.2%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1491",
+            "title": "Average Salary Excluding the Minimum and Maximum Salary",
+            "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+            "acceptance": "70.3%",
+            "difficulty": "Easy"
+        }
+    ]
+}

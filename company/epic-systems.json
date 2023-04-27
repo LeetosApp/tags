@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "id": "306",
+            "title": "Additive Number",
+            "slug": "additive-number",
+            "acceptance": "29.4%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "54",
+            "title": "Spiral Matrix",
+            "slug": "spiral-matrix",
+            "acceptance": "34.1%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "38",
+            "title": "Count and Say",
+            "slug": "count-and-say",
+            "acceptance": "44.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "20",
+            "title": "Valid Parentheses",
+            "slug": "valid-parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "728",
+            "title": "Self Dividing Numbers",
+            "slug": "self-dividing-numbers",
+            "acceptance": "74.3%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "1215",
+            "title": "Stepping Numbers",
+            "slug": "stepping-numbers",
+            "acceptance": "41.6%",
+            "difficulty": "Medium"
+        }
+    ]
+}

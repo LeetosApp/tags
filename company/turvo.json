@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1335",
+            "title": "Minimum Difficulty of a Job Schedule",
+            "slug": "minimum-difficulty-of-a-job-schedule",
+            "acceptance": "57.6%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1534",
+            "title": "Count Good Triplets",
+            "slug": "count-good-triplets",
+            "acceptance": "79.6%",
+            "difficulty": "Easy"
+        }
+    ]
+}

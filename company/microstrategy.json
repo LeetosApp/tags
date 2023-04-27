@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1227",
+            "title": "Airplane Seat Assignment Probability",
+            "slug": "airplane-seat-assignment-probability",
+            "acceptance": "61.0%",
+            "difficulty": "Medium"
+        }
+    ]
+}

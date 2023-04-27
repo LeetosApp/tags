@@ -1,0 +1,270 @@
+{
+    "questions": [
+        {
+            "id": "465",
+            "title": "Optimal Account Balancing",
+            "slug": "optimal-account-balancing",
+            "acceptance": "49.18%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "473",
+            "title": "Matchsticks to Square",
+            "slug": "matchsticks-to-square",
+            "acceptance": "40.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "526",
+            "title": "Beautiful Arrangement",
+            "slug": "beautiful-arrangement",
+            "acceptance": "64.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "638",
+            "title": "Shopping Offers",
+            "slug": "shopping-offers",
+            "acceptance": "53.18%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "691",
+            "title": "Stickers to Spell Word",
+            "slug": "stickers-to-spell-word",
+            "acceptance": "46.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "698",
+            "title": "Partition to K Equal Sum Subsets",
+            "slug": "partition-to-k-equal-sum-subsets",
+            "acceptance": "39.85%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "805",
+            "title": "Split Array With Same Average",
+            "slug": "split-array-with-same-average",
+            "acceptance": "25.67%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "847",
+            "title": "Shortest Path Visiting All Nodes",
+            "slug": "shortest-path-visiting-all-nodes",
+            "acceptance": "60.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "943",
+            "title": "Find the Shortest Superstring",
+            "slug": "find-the-shortest-superstring",
+            "acceptance": "44.38%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "996",
+            "title": "Number of Squareful Arrays",
+            "slug": "number-of-squareful-arrays",
+            "acceptance": "49.15%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1066",
+            "title": "Campus Bikes II",
+            "slug": "campus-bikes-ii",
+            "acceptance": "54.96%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1125",
+            "title": "Smallest Sufficient Team",
+            "slug": "smallest-sufficient-team",
+            "acceptance": "47.0%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1255",
+            "title": "Maximum Score Words Formed by Letters",
+            "slug": "maximum-score-words-formed-by-letters",
+            "acceptance": "72.28%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1349",
+            "title": "Maximum Students Taking Exam",
+            "slug": "maximum-students-taking-exam",
+            "acceptance": "49.24%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1434",
+            "title": "Number of Ways to Wear Different Hats to Each Other",
+            "slug": "number-of-ways-to-wear-different-hats-to-each-other",
+            "acceptance": "43.32%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1494",
+            "title": "Parallel Courses II",
+            "slug": "parallel-courses-ii",
+            "acceptance": "30.36%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1595",
+            "title": "Minimum Cost to Connect Two Groups of Points",
+            "slug": "minimum-cost-to-connect-two-groups-of-points",
+            "acceptance": "46.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1617",
+            "title": "Count Subtrees With Max Distance Between Cities",
+            "slug": "count-subtrees-with-max-distance-between-cities",
+            "acceptance": "65.87%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1655",
+            "title": "Distribute Repeating Integers",
+            "slug": "distribute-repeating-integers",
+            "acceptance": "39.41%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1659",
+            "title": "Maximize Grid Happiness",
+            "slug": "maximize-grid-happiness",
+            "acceptance": "38.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1681",
+            "title": "Minimum Incompatibility",
+            "slug": "minimum-incompatibility",
+            "acceptance": "37.94%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1723",
+            "title": "Find Minimum Time to Finish All Jobs",
+            "slug": "find-minimum-time-to-finish-all-jobs",
+            "acceptance": "42.43%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1755",
+            "title": "Closest Subsequence Sum",
+            "slug": "closest-subsequence-sum",
+            "acceptance": "36.64%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1799",
+            "title": "Maximize Score After N Operations",
+            "slug": "maximize-score-after-n-operations",
+            "acceptance": "46.33%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1815",
+            "title": "Maximum Number of Groups Getting Fresh Donuts",
+            "slug": "maximum-number-of-groups-getting-fresh-donuts",
+            "acceptance": "39.99%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1879",
+            "title": "Minimum XOR Sum of Two Arrays",
+            "slug": "minimum-xor-sum-of-two-arrays",
+            "acceptance": "45.53%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1947",
+            "title": "Maximum Compatibility Score Sum",
+            "slug": "maximum-compatibility-score-sum",
+            "acceptance": "61.23%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1986",
+            "title": "Minimum Number of Work Sessions to Finish the Tasks",
+            "slug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+            "acceptance": "32.91%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "1994",
+            "title": "The Number of Good Subsets",
+            "slug": "the-number-of-good-subsets",
+            "acceptance": "34.91%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2002",
+            "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+            "slug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
+            "acceptance": "54.55%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2035",
+            "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+            "slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+            "acceptance": "18.89%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2152",
+            "title": "Minimum Number of Lines to Cover Points",
+            "slug": "minimum-number-of-lines-to-cover-points",
+            "acceptance": "47.43%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2172",
+            "title": "Maximum AND Sum of Array",
+            "slug": "maximum-and-sum-of-array",
+            "acceptance": "48.29%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2184",
+            "title": "Number of Ways to Build Sturdy Brick Wall",
+            "slug": "number-of-ways-to-build-sturdy-brick-wall",
+            "acceptance": "50.17%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2247",
+            "title": "Maximum Cost of Trip With K Highways",
+            "slug": "maximum-cost-of-trip-with-k-highways",
+            "acceptance": "50.92%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2305",
+            "title": "Fair Distribution of Cookies",
+            "slug": "fair-distribution-of-cookies",
+            "acceptance": "61.71%",
+            "difficulty": "Medium"
+        },
+        {
+            "id": "2403",
+            "title": "Minimum Time to Kill All Monsters",
+            "slug": "minimum-time-to-kill-all-monsters",
+            "acceptance": "53.42%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "2572",
+            "title": "Count the Number of Square-Free Subsets",
+            "slug": "count-the-number-of-square-free-subsets",
+            "acceptance": "20.82%",
+            "difficulty": "Medium"
+        }
+    ]
+}

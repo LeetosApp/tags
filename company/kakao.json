@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": "1210",
+            "title": "Minimum Moves to Reach Target with Rotations",
+            "slug": "minimum-moves-to-reach-target-with-rotations",
+            "acceptance": "45.2%",
+            "difficulty": "Hard"
+        }
+    ]
+}

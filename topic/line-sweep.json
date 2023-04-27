@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": "391",
+            "title": "Perfect Rectangle",
+            "slug": "perfect-rectangle",
+            "acceptance": "32.86%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "850",
+            "title": "Rectangle Area II",
+            "slug": "rectangle-area-ii",
+            "acceptance": "53.9%",
+            "difficulty": "Hard"
+        },
+        {
+            "id": "1851",
+            "title": "Minimum Interval to Include Each Query",
+            "slug": "minimum-interval-to-include-each-query",
+            "acceptance": "48.17%",
+            "difficulty": "Hard"
+        }
+    ]
+}

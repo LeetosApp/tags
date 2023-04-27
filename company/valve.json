@@ -1,0 +1,18 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "title": "Two Sum",
+            "slug": "two-sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy"
+        },
+        {
+            "id": "649",
+            "title": "Dota2 Senate",
+            "slug": "dota2-senate",
+            "acceptance": "39.2%",
+            "difficulty": "Medium"
+        }
+    ]
+}
